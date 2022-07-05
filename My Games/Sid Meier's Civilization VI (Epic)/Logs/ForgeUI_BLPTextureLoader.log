@@ -1,0 +1,3499 @@
+=======================================================================
+	BLPTextureLoader::ReconcileLoadedPackages()
+	2021-06-03 23:05:17
+
+=======================================================================
+	BLPTextureLoader::ReconcileLoadedPackages()
+	2021-06-03 23:05:24
+
+Texture Overwritten: MiniMap_CompassBase
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: LaunchBar_Hook_ButtonMinimap
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: Controls_ButtonExtend
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Controls.blp
+Texture Overwritten: ActionPanel_Gold2
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: MiniMap_WoodBackingTile
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: MiniMap_CompassSide
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: Controls_Collapse
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Controls.blp
+Texture Overwritten: MiniMap_Frame
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: ActionPanel_Gold1
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: MiniMap_WoodBacking
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+=======================================================================
+	BLPTextureLoader::ReconcileLoadedPackages()
+	2021-06-03 23:05:26
+
+Texture Overwritten: CivPoland36
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland50
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland30
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland32
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland45
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland256
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland22
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland64
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland128
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland80
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland48
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland44
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+=======================================================================
+	BLPTextureLoader::ReconcileLoadedPackages()
+	2021-06-03 23:06:53
+
+Texture Overwritten: MiniMap_CompassBase
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: LaunchBar_Hook_ButtonMinimap
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: CivPoland36
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland50
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland30
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland32
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Controls_ButtonExtend
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Controls.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp
+Texture Overwritten: CivPoland45
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland256
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ActionPanel_Gold2
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: CivPoland22
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland64
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland128
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: MiniMap_WoodBackingTile
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: CivPoland80
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivPoland48
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: MiniMap_CompassSide
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: Controls_Collapse
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Controls.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp
+Texture Overwritten: CivPoland44
+	Old BLP: ../../../DLC/Poland_Jadwiga/Platforms/Windows/BLPs/UI/Icons.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: MiniMap_Frame
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: ActionPanel_Gold1
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: MiniMap_WoodBacking
+	Old BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Unloaded: CivRoyaleScenario_CivSymbols44
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_UnitPortraits50
+	BLP: .
+Texture Unloaded: UnitPanel_LinkIcon
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols200
+	BLP: .
+Texture Unloaded: Babylon_Notifications40
+	BLP: .
+Texture Unloaded: Nubia_Units256
+	BLP: .
+Texture Unloaded: GAMEMODE_DRAMATICAGES_NEUTRAL
+	BLP: .
+Texture Unloaded: Macedon_Buildings38_FOW
+	BLP: .
+Texture Unloaded: Catherine_M32
+	BLP: .
+Texture Unloaded: Ambiorix64
+	BLP: .
+Texture Unloaded: HAMMURABI_4
+	BLP: .
+Texture Unloaded: Portugal_UnitActions80
+	BLP: .
+Texture Unloaded: Indonesia_Buildings38
+	BLP: .
+Texture Unloaded: RedDeath_Zombies80
+	BLP: .
+Texture Unloaded: MayaGran_Districts32
+	BLP: .
+Texture Unloaded: Heroes_Maui_Expired
+	BLP: .
+Texture Unloaded: Babylon_Projects50
+	BLP: .
+Texture Unloaded: LEADER_AMBIORIX_BACKGROUND
+	BLP: .
+Texture Unloaded: Babylon_Units80
+	BLP: .
+Texture Unloaded: LEADER_LADY_SIX_SKY_BACKGROUND
+	BLP: .
+Texture Unloaded: Babylon_Units32
+	BLP: .
+Texture Unloaded: LEADER_SIMON_BOLIVAR_BACKGROUND
+	BLP: .
+Texture Unloaded: Indonesia_Wonders256
+	BLP: .
+Texture Unloaded: OUTBACK
+	BLP: .
+Texture Unloaded: Indonesia_Units50
+	BLP: .
+Texture Unloaded: Macedon_Units50
+	BLP: .
+Texture Unloaded: Nubia_Buildings38
+	BLP: .
+Texture Unloaded: Indonesia_Buildings256_FOW
+	BLP: .
+Texture Unloaded: Unit_Oromo38
+	BLP: .
+Texture Unloaded: AMANITORE_2
+	BLP: .
+Texture Unloaded: Babylon_Projects30
+	BLP: .
+Texture Unloaded: MomentSTK_HeroLost
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols22
+	BLP: .
+Texture Unloaded: Soc_Owls22
+	BLP: .
+Texture Unloaded: GOVERNMENT_COLONIAL_GOVERNMENT
+	BLP: .
+Texture Unloaded: Ethiopia_Projects50
+	BLP: .
+Texture Unloaded: CivRoyale_Radiation
+	BLP: .
+Texture Unloaded: Macedon_Units32
+	BLP: .
+Texture Unloaded: Bolivar48
+	BLP: .
+Texture Unloaded: Portugal_UnitActions50
+	BLP: .
+Texture Unloaded: Governments_GoldenCard
+	BLP: .
+Texture Unloaded: MENELIK_4
+	BLP: .
+Texture Unloaded: LEADER_JOHN_CURTIN_NEUTRAL
+	BLP: .
+Texture Unloaded: Soothsayer_UnitPortrait256
+	BLP: .
+Texture Unloaded: KANDINSKY_1
+	BLP: .
+Texture Unloaded: Heroes105_Hippolyta
+	BLP: .
+Texture Unloaded: MayaGran_UnitPortraits256
+	BLP: .
+Texture Unloaded: Macedon_Wonders128
+	BLP: .
+Texture Unloaded: CivicsGovtSlotReligion
+	BLP: .
+Texture Unloaded: LadySixSky256
+	BLP: .
+Texture Unloaded: Monopolies_Resources50
+	BLP: .
+Texture Unloaded: Macedon_Units80
+	BLP: .
+Texture Unloaded: JoaoIII32
+	BLP: .
+Texture Unloaded: Indonesia_Buildings50_FOW
+	BLP: .
+Texture Unloaded: RedDeath_UFO80
+	BLP: .
+Texture Unloaded: MayaGran_Districts22
+	BLP: .
+Texture Unloaded: Vietnam_Units38
+	BLP: .
+Texture Unloaded: Vietnam_Buildings80_FOW
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols30
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_DOWSING_ROD
+	BLP: .
+Texture Unloaded: Heroes_GreatWorks256
+	BLP: .
+Texture Unloaded: Indonesia_Buildings128
+	BLP: .
+Texture Unloaded: Babylon_Stats45
+	BLP: .
+Texture Unloaded: Gaul_Units50
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols22
+	BLP: .
+Texture Unloaded: GITARJA_2
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols22
+	BLP: .
+Texture Unloaded: LEADER_KUBLAI_KHAN_MONGOLIA_NEUTRAL
+	BLP: .
+Texture Unloaded: Pirates_Notifications100
+	BLP: .
+Texture Unloaded: Unit_Oromo256
+	BLP: .
+Texture Unloaded: PiratesPanel
+	BLP: .
+Texture Unloaded: Indonesia_Features256
+	BLP: .
+Texture Unloaded: Pirates_AwayTeam22
+	BLP: .
+Texture Unloaded: Bolivar256
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols30
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols44
+	BLP: .
+Texture Unloaded: Macedon_Wonders256
+	BLP: .
+Texture Unloaded: Macedon_Buildings50_FOW
+	BLP: .
+Texture Unloaded: Ethiopia_Projects30
+	BLP: .
+Texture Unloaded: Barbarians_Notifications40
+	BLP: .
+Texture Unloaded: Indonesia_BeliefsPantheon32
+	BLP: .
+Texture Unloaded: Indonesia_Buildings50
+	BLP: .
+Texture Unloaded: Ethiopia_Resources32
+	BLP: .
+Texture Unloaded: CivRoyale_Zombies64
+	BLP: .
+Texture Unloaded: Gaul_Units80
+	BLP: .
+Texture Unloaded: CivicsKeyPolicyReligion
+	BLP: .
+Texture Unloaded: Macedon_Units22
+	BLP: .
+Texture Unloaded: Basil48
+	BLP: .
+Texture Unloaded: Indonesia_Buildings256
+	BLP: .
+Texture Unloaded: Indonesia_Buildings80
+	BLP: .
+Texture Unloaded: GovernorNormalSTK_VoidSingers
+	BLP: .
+Texture Unloaded: Vietnam_Leaders32
+	BLP: .
+Texture Unloaded: MomentSTK_FirstMonopoly
+	BLP: .
+Texture Unloaded: Bolivar50
+	BLP: .
+Texture Unloaded: Nubia_UnitPortraits95
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols80
+	BLP: .
+Texture Unloaded: Indonesia_Wonders38_FOW
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols32
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_UnitPortraits256
+	BLP: .
+Texture Unloaded: Gaul_Districts256
+	BLP: .
+Texture Unloaded: Zombies_Notifications40
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols256
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols50
+	BLP: .
+Texture Unloaded: Monopolies_GreatWorksSlotTypes201
+	BLP: .
+Texture Unloaded: BASIL_2
+	BLP: .
+Texture Unloaded: Gaul_Wonders128
+	BLP: .
+Texture Unloaded: Australia_UnitPortraits200
+	BLP: .
+Texture Unloaded: Heroes105_Arthur
+	BLP: .
+Texture Unloaded: Barbarians_Notifications100
+	BLP: .
+Texture Unloaded: Menelik_II55
+	BLP: .
+Texture Unloaded: Hammurabi48
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols32
+	BLP: .
+Texture Unloaded: T_ROOSEVELT_ROUGHRIDER_2
+	BLP: .
+Texture Unloaded: Bolivar80
+	BLP: .
+Texture Unloaded: JoaoIII48
+	BLP: .
+Texture Unloaded: Portugal_Units256
+	BLP: .
+Texture Unloaded: Gaul_Units22
+	BLP: .
+Texture Unloaded: Australia_UnitPortraits70
+	BLP: .
+Texture Unloaded: Vietnam_Units50
+	BLP: .
+Texture Unloaded: Secret_NamePlaque
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols256
+	BLP: .
+Texture Unloaded: RandomTech
+	BLP: .
+Texture Unloaded: Australia_UnitPortraits95
+	BLP: .
+Texture Unloaded: MomentSTK_Paititi
+	BLP: .
+Texture Unloaded: Vietnam_Units80
+	BLP: .
+Texture Unloaded: CivMacedon36
+	BLP: .
+Texture Unloaded: Curtin256
+	BLP: .
+Texture Unloaded: Curtin45
+	BLP: .
+Texture Unloaded: CauseDisaster80
+	BLP: .
+Texture Unloaded: LEADER_GITARJA_NEUTRAL
+	BLP: .
+Texture Unloaded: Gaul_Wonders256
+	BLP: .
+Texture Unloaded: CR_units256
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_KRAKANNONS
+	BLP: .
+Texture Unloaded: Australia_UnitPortraits50
+	BLP: .
+Texture Unloaded: Menelik_II80
+	BLP: .
+Texture Unloaded: Macedon_UnitPortraits95
+	BLP: .
+Texture Unloaded: Nubia_Units50
+	BLP: .
+Texture Unloaded: CivRoyale_Safezone100
+	BLP: .
+Texture Unloaded: Indonesia_Leaders48
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols128
+	BLP: .
+Texture Unloaded: Jadwiga80
+	BLP: .
+Texture Unloaded: Ethiopia_Districts32
+	BLP: .
+Texture Unloaded: TOHAKU_2
+	BLP: .
+Texture Unloaded: RedDeath_UFO38
+	BLP: .
+Texture Unloaded: Macedon_UnitPortraits38
+	BLP: .
+Texture Unloaded: Pirates_Gold
+	BLP: .
+Texture Unloaded: MayaGran_Features50
+	BLP: .
+Texture Unloaded: Jadwiga32
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols36
+	BLP: .
+Texture Unloaded: Heroes_Himiko
+	BLP: .
+Texture Unloaded: Bolivar55
+	BLP: .
+Texture Unloaded: FontIconsMayaGran
+	BLP: .
+Texture Unloaded: Alexander50
+	BLP: .
+Texture Unloaded: LifeSpan22
+	BLP: .
+Texture Unloaded: GreatWorksSTK45
+	BLP: .
+Texture Unloaded: Barbarians_RansomUnit
+	BLP: .
+Texture Unloaded: Basil32
+	BLP: .
+Texture Unloaded: JOAO_III_1
+	BLP: .
+Texture Unloaded: LADY_TRIEU_2
+	BLP: .
+Texture Unloaded: MomentSTK_Preserve
+	BLP: .
+Texture Unloaded: MayaGran_Proposals38
+	BLP: .
+Texture Unloaded: Nubia_UnitPortraits256
+	BLP: .
+Texture Unloaded: Curtin80
+	BLP: .
+Texture Unloaded: Menelik_II50
+	BLP: .
+Texture Unloaded: CATHERINE_DE_MEDICI_ALT_4
+	BLP: .
+Texture Unloaded: Relics_CardSelector
+	BLP: .
+Texture Unloaded: Vietnam_Leaders48
+	BLP: .
+Texture Unloaded: Indonesia_Wonders256_FOW
+	BLP: .
+Texture Unloaded: Babylon_Notifications100
+	BLP: .
+Texture Unloaded: Indonesia_UnitActions50
+	BLP: .
+Texture Unloaded: Soothsayer_Unit32
+	BLP: .
+Texture Unloaded: CivPersia36
+	BLP: .
+Texture Unloaded: Indonesia_UnitPortraits200
+	BLP: .
+Texture Unloaded: Portugal_UnitPortraits256
+	BLP: .
+Texture Unloaded: CivAustralia44
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols48
+	BLP: .
+Texture Unloaded: Curtin48
+	BLP: .
+Texture Unloaded: Nubia_UnitPortraits38
+	BLP: .
+Texture Unloaded: Amanitore64
+	BLP: .
+Texture Unloaded: Indonesia_Buildings32_FOW
+	BLP: .
+Texture Unloaded: Vietnam_Buildings50
+	BLP: .
+Texture Unloaded: Heroes105_Sinbad
+	BLP: .
+Texture Unloaded: CivPersia256
+	BLP: .
+Texture Unloaded: EndGame_BG_CivRoyaleDefeat
+	BLP: .
+Texture Unloaded: Monopolies_UnitActions38
+	BLP: .
+Texture Unloaded: Heroes
+	BLP: .
+Texture Unloaded: Hammurabi32
+	BLP: .
+Texture Unloaded: SecretSocieties
+	BLP: .
+Texture Unloaded: Soc_Sanguine22
+	BLP: .
+Texture Unloaded: Ethiopia_Districts22
+	BLP: .
+Texture Unloaded: LEADER_PIRATES_SCENARIO_HOARDER_NEUTRAL
+	BLP: .
+Texture Unloaded: KUBLAI_KHAN_MONGOLIA_1
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols200
+	BLP: .
+Texture Unloaded: Heroes_SunWukong
+	BLP: .
+Texture Unloaded: Indonesia_Leaders50
+	BLP: .
+Texture Unloaded: Cyrus256
+	BLP: .
+Texture Unloaded: Gaul_Wonders38_FOW
+	BLP: .
+Texture Unloaded: Australia_Resources50
+	BLP: .
+Texture Unloaded: Indonesia_Features50
+	BLP: .
+Texture Unloaded: MomentSTK_Llanero
+	BLP: .
+Texture Unloaded: Gaul_Policies32
+	BLP: .
+Texture Unloaded: MayaGran_Resources32
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols22
+	BLP: .
+Texture Unloaded: Portugal_UnitPortraits38
+	BLP: .
+Texture Unloaded: Macedon_UnitPortraits256
+	BLP: .
+Texture Unloaded: CATHERINE_DE_MEDICI_ALT_1
+	BLP: .
+Texture Unloaded: Soothsayer_Unit22
+	BLP: .
+Texture Unloaded: Heroes105_Oya
+	BLP: .
+Texture Unloaded: Heroes105_Mulan
+	BLP: .
+Texture Unloaded: Pirates_Stats45
+	BLP: .
+Texture Unloaded: Monopolies
+	BLP: .
+Texture Unloaded: MomentSTK_FirstIndustry
+	BLP: .
+Texture Unloaded: AMBIORIX_3
+	BLP: .
+Texture Unloaded: LEADER_CYRUS_BACKGROUND
+	BLP: .
+Texture Unloaded: Urgent22
+	BLP: .
+Texture Unloaded: LEADER_CATHERINE_DE_MEDICI_ALT_NEUTRAL
+	BLP: .
+Texture Unloaded: Australia_Units38
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols48
+	BLP: .
+Texture Unloaded: LEADER_BASIL_NEUTRAL
+	BLP: .
+Texture Unloaded: LadySixSky55
+	BLP: .
+Texture Unloaded: Alexander45
+	BLP: .
+Texture Unloaded: Babylon_UnitActions50
+	BLP: .
+Texture Unloaded: Babylon_GreatWorksSlotTypes20
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Buildings32
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols200
+	BLP: .
+Texture Unloaded: Macedon_Buildings38
+	BLP: .
+Texture Unloaded: GreatWorksSTK256
+	BLP: .
+Texture Unloaded: Nubia_Wonders50_FOW
+	BLP: .
+Texture Unloaded: Portugal_Buildings128
+	BLP: .
+Texture Unloaded: KUBLAI_KHAN_MONGOLIA_4
+	BLP: .
+Texture Unloaded: MayaGran_Units256
+	BLP: .
+Texture Unloaded: HailMary22
+	BLP: .
+Texture Unloaded: Babylon_Buildings50_FOW
+	BLP: .
+Texture Unloaded: Portugal_Wonders64_FOW
+	BLP: .
+Texture Unloaded: Macedon_Units256
+	BLP: .
+Texture Unloaded: Vietnam_Leaders256
+	BLP: .
+Texture Unloaded: CauseDisaster38
+	BLP: .
+Texture Unloaded: Babylon_GreatWorksSlotTypes40
+	BLP: .
+Texture Unloaded: Gaul_Districts38
+	BLP: .
+Texture Unloaded: MayaGran_Districts80
+	BLP: .
+Texture Unloaded: Batey256
+	BLP: .
+Texture Unloaded: Cyrus32
+	BLP: .
+Texture Unloaded: LEADER_ALEXANDER_NEUTRAL
+	BLP: .
+Texture Unloaded: Portugal_Wonders50_FOW
+	BLP: .
+Texture Unloaded: Australia_Buildings32_FOW
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols30
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits70sou
+	BLP: .
+Texture Unloaded: Zombies_Projects50
+	BLP: .
+Texture Unloaded: Catherine_M80
+	BLP: .
+Texture Unloaded: Macedon_Wonders32
+	BLP: .
+Texture Unloaded: Heroes_Sinbad
+	BLP: .
+Texture Unloaded: CYRUS_3
+	BLP: .
+Texture Unloaded: MomentSTK_DiplomaticQuarters
+	BLP: .
+Texture Unloaded: Catherine_M50
+	BLP: .
+Texture Unloaded: GAMEMODE_BARBARIAN_CLANS_BACKGROUND
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols200
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits95asi
+	BLP: .
+Texture Unloaded: CivRoyale_HailMary40
+	BLP: .
+Texture Unloaded: Portugal_Wonders32_FOW
+	BLP: .
+Texture Unloaded: BannerMonopolies_Combo_Base_Combo
+	BLP: .
+Texture Unloaded: SecretSocieties_EventsFG_Voidsingers
+	BLP: .
+Texture Unloaded: Australia_Resources
+	BLP: .
+Texture Unloaded: LEADER_LADY_TRIEU_NEUTRAL
+	BLP: .
+Texture Unloaded: Babylon_GreatWorks256
+	BLP: .
+Texture Unloaded: Zombies_Projects30
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol36
+	BLP: .
+Texture Unloaded: Soothsayer_Unit38
+	BLP: .
+Texture Unloaded: MayaGran_Proposals36
+	BLP: .
+Texture Unloaded: RedDeath_UnitActions38
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Buildings128
+	BLP: .
+Texture Unloaded: JADWIGA_3
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols45
+	BLP: .
+Texture Unloaded: MomentSTK_Palgum
+	BLP: .
+Texture Unloaded: Portugal_Buildings128_FOW
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols256
+	BLP: .
+Texture Unloaded: CivRoyaleIntro_Diagram_1
+	BLP: .
+Texture Unloaded: Nubia_Wonders38_FOW
+	BLP: .
+Texture Unloaded: Indonesia_Units32
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols22
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol128
+	BLP: .
+Texture Unloaded: Monopolies_GoldBorder
+	BLP: .
+Texture Unloaded: Pirates_Notifications40
+	BLP: .
+Texture Unloaded: Portugal_Wonders38_FOW
+	BLP: .
+Texture Unloaded: Secret_DataFrame
+	BLP: .
+Texture Unloaded: MomentSTK_VoiChien
+	BLP: .
+Texture Unloaded: Ethiopia_Units32
+	BLP: .
+Texture Unloaded: Portugal_Wonders256_FOW
+	BLP: .
+Texture Unloaded: LEADER_OUTBACK_BACKGROUND
+	BLP: .
+Texture Unloaded: LEADER_JADWIGA_NEUTRAL
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols48
+	BLP: .
+Texture Unloaded: Portugal_Units22
+	BLP: .
+Texture Unloaded: LEADER_AMANITORE_BACKGROUND
+	BLP: .
+Texture Unloaded: Babylon_UnitActions38
+	BLP: .
+Texture Unloaded: Australia_Units80
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols64
+	BLP: .
+Texture Unloaded: AMANITORE_1
+	BLP: .
+Texture Unloaded: Australia_Resources256
+	BLP: .
+Texture Unloaded: Nubia_Buildings80_FOW
+	BLP: .
+Texture Unloaded: Vietnam_UnitPortraits38
+	BLP: .
+Texture Unloaded: Ambiorix55
+	BLP: .
+Texture Unloaded: Barbarians_Raid
+	BLP: .
+Texture Unloaded: RedDeath_UnitPortraits200
+	BLP: .
+Texture Unloaded: ALEXANDER_3
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol150
+	BLP: .
+Texture Unloaded: Catherine_Projects30
+	BLP: .
+Texture Unloaded: Hacienda256
+	BLP: .
+Texture Unloaded: Portugal_Buildings50
+	BLP: .
+Texture Unloaded: CivMacedon22
+	BLP: .
+Texture Unloaded: JOHN_CURTIN_2
+	BLP: .
+Texture Unloaded: Nubia_UnitActions38
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols256
+	BLP: .
+Texture Unloaded: Babylon_Buildings256
+	BLP: .
+Texture Unloaded: Pirates_AwayTeam50
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols22
+	BLP: .
+Texture Unloaded: Indonesia_Units22
+	BLP: .
+Texture Unloaded: JAYAVARMAN_1
+	BLP: .
+Texture Unloaded: MayaGran_UnitActions256
+	BLP: .
+Texture Unloaded: LEADER_JAYAVARMAN_BACKGROUND
+	BLP: .
+Texture Unloaded: SIMON_BOLIVAR_3
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols64
+	BLP: .
+Texture Unloaded: Indonesia_Wonders128
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols30
+	BLP: .
+Texture Unloaded: PiratesIntro_Diagram_3
+	BLP: .
+Texture Unloaded: Barbarians_UnitActions80
+	BLP: .
+Texture Unloaded: MayaGran_Emergencies56
+	BLP: .
+Texture Unloaded: JADWIGA_4
+	BLP: .
+Texture Unloaded: SecretSocieties_Stats22
+	BLP: .
+Texture Unloaded: Portugal_Wonders128
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits95sou
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols45
+	BLP: .
+Texture Unloaded: Heroes_Arthur
+	BLP: .
+Texture Unloaded: MayaGran_Units50
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Units38
+	BLP: .
+Texture Unloaded: CivRoyale_Aliens45
+	BLP: .
+Texture Unloaded: Macedon_Buildings50
+	BLP: .
+Texture Unloaded: MomentSTK_Thanh
+	BLP: .
+Texture Unloaded: BEHZAD_3
+	BLP: .
+Texture Unloaded: GITARJA_1
+	BLP: .
+Texture Unloaded: LaunchBar_RedDeath_Button
+	BLP: .
+Texture Unloaded: GAMEMODE_MONOPOLIES_BACKGROUND
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Buildings38
+	BLP: .
+Texture Unloaded: Macedon_Buildings32
+	BLP: .
+Texture Unloaded: MayaGran_UnitActions50
+	BLP: .
+Texture Unloaded: Indonesia_Buildings32
+	BLP: .
+Texture Unloaded: Ethiopia_Resources50
+	BLP: .
+Texture Unloaded: ClimateEventStat_ForestFire
+	BLP: .
+Texture Unloaded: MayaGran_Districts38
+	BLP: .
+Texture Unloaded: CivRoyale_Zombies45
+	BLP: .
+Texture Unloaded: Catherine_M48
+	BLP: .
+Texture Unloaded: ClimateEvent_MeteorShowers
+	BLP: .
+Texture Unloaded: Heroes_Anansi_Expired
+	BLP: .
+Texture Unloaded: LADY_SIX_SKY_4
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols45
+	BLP: .
+Texture Unloaded: CR_units80
+	BLP: .
+Texture Unloaded: CivMacedon80
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols80
+	BLP: .
+Texture Unloaded: GAMEMODE_TREE_RANDOMIZER_NEUTRAL
+	BLP: .
+Texture Unloaded: Ethiopia_Districts128
+	BLP: .
+Texture Unloaded: CivMacedon32
+	BLP: .
+Texture Unloaded: Nubia_Buildings32
+	BLP: .
+Texture Unloaded: Map_Wetlands
+	BLP: .
+Texture Unloaded: AMANITORE_4
+	BLP: .
+Texture Unloaded: Zombies_UnitPortraits70
+	BLP: .
+Texture Unloaded: Macedon_Units38
+	BLP: .
+Texture Unloaded: MayaGran_Resources256
+	BLP: .
+Texture Unloaded: Soc_Hermetic22
+	BLP: .
+Texture Unloaded: Babylon_GreatWorks256_FOW
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols32
+	BLP: .
+Texture Unloaded: Babylon_Projects256
+	BLP: .
+Texture Unloaded: Unit_Hulche256
+	BLP: .
+Texture Unloaded: GovernorNormalSTK_SanguinePact
+	BLP: .
+Texture Unloaded: Zombies_UnitPortraits50
+	BLP: .
+Texture Unloaded: JAYAVARMAN_4
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols50
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols50
+	BLP: .
+Texture Unloaded: Basil256
+	BLP: .
+Texture Unloaded: RedDeath_UnitPortraits95
+	BLP: .
+Texture Unloaded: LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NEUTRAL
+	BLP: .
+Texture Unloaded: BASIL_3
+	BLP: .
+Texture Unloaded: Society_SanguinePact59
+	BLP: .
+Texture Unloaded: Vietnam_Units32
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols22
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_BLACK_SPOT
+	BLP: .
+Texture Unloaded: LEADER_KUBLAI_KHAN_MONGOLIA_BACKGROUND
+	BLP: .
+Texture Unloaded: Indonesia_Leaders256
+	BLP: .
+Texture Unloaded: CivRoyale_Leaders128
+	BLP: .
+Texture Unloaded: LaunchBar_Hook_Relics
+	BLP: .
+Texture Unloaded: Indonesia_Units38
+	BLP: .
+Texture Unloaded: Australia_UnitPortraits256
+	BLP: .
+Texture Unloaded: Heroes_Anansi
+	BLP: .
+Texture Unloaded: PiratesIntro_Logo
+	BLP: .
+Texture Unloaded: Heroes_GreatWorks64
+	BLP: .
+Texture Unloaded: MayaGran_UnitPortraits200
+	BLP: .
+Texture Unloaded: InciteByMe22
+	BLP: .
+Texture Unloaded: MomentSTK_FirstProduct
+	BLP: .
+Texture Unloaded: LEADER_KUBLAI_KHAN_CHINA_BACKGROUND
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings256
+	BLP: .
+Texture Unloaded: Unit_Hulche50
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols256
+	BLP: .
+Texture Unloaded: Australia_Buildings256
+	BLP: .
+Texture Unloaded: LADY_SIX_SKY_1
+	BLP: .
+Texture Unloaded: GovernorNormalSTK_OwlsOfMinerva
+	BLP: .
+Texture Unloaded: Macedon_Wonders256_FOW
+	BLP: .
+Texture Unloaded: CivPersia32
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits50
+	BLP: .
+Texture Unloaded: GAMEMODE_TOWERDEFENSE_NEUTRAL
+	BLP: .
+Texture Unloaded: CivAustralia48
+	BLP: .
+Texture Unloaded: Heroes_Himiko_Expired
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols30
+	BLP: .
+Texture Unloaded: Ethiopia_Resources38
+	BLP: .
+Texture Unloaded: RedDeathPanel
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Units80
+	BLP: .
+Texture Unloaded: Gaul_UnitPortraits200
+	BLP: .
+Texture Unloaded: RedDeath_UnitActions256
+	BLP: .
+Texture Unloaded: Bolivar45
+	BLP: .
+Texture Unloaded: Ethiopia_Units256
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols80
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits70
+	BLP: .
+Texture Unloaded: Heroes105_Beowulf
+	BLP: .
+Texture Unloaded: MayaGran_Districts128
+	BLP: .
+Texture Unloaded: TopBar_LookButton
+	BLP: .
+Texture Unloaded: Curtin64
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols50
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols256
+	BLP: .
+Texture Unloaded: Gaul_Units256
+	BLP: .
+Texture Unloaded: Hammurabi80
+	BLP: .
+Texture Unloaded: MomentSTK_HeroClaimed
+	BLP: .
+Texture Unloaded: Pirates_Stats22
+	BLP: .
+Texture Unloaded: JOAO_III_2
+	BLP: .
+Texture Unloaded: Vietnam_Districts38
+	BLP: .
+Texture Unloaded: CivAustralia30
+	BLP: .
+Texture Unloaded: CivMacedon48
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings38
+	BLP: .
+Texture Unloaded: Portugal_UnitPortraits200
+	BLP: .
+Texture Unloaded: MomentSTK_NavigationSchool
+	BLP: .
+Texture Unloaded: GreatWorksSTK64
+	BLP: .
+Texture Unloaded: Ethiopia_UnitActions80
+	BLP: .
+Texture Unloaded: CivPersia22
+	BLP: .
+Texture Unloaded: LEADER_SIMON_BOLIVAR_NEUTRAL
+	BLP: .
+Texture Unloaded: Amanitore45
+	BLP: .
+Texture Unloaded: Babylon_Stats16
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_MUTANTS_NEUTRAL
+	BLP: .
+Texture Unloaded: Vietnam_Buildings32
+	BLP: .
+Texture Unloaded: Amanitore50
+	BLP: .
+Texture Unloaded: CityDestroyedLoot40
+	BLP: .
+Texture Unloaded: Ethiopia_UnitActions50
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol80
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols200
+	BLP: .
+Texture Unloaded: GovernorSelectedSTK_OwlsOfMinerva
+	BLP: .
+Texture Unloaded: Hammurabi55
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols30
+	BLP: .
+Texture Unloaded: Indonesia_UnitPortraits50
+	BLP: .
+Texture Unloaded: Australia_Buildings50
+	BLP: .
+Texture Unloaded: Amanitore80
+	BLP: .
+Texture Unloaded: CivAustralia45
+	BLP: .
+Texture Unloaded: Relics_Card
+	BLP: .
+Texture Unloaded: CivAustralia80
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol30
+	BLP: .
+Texture Unloaded: MomentSTK_Tagma
+	BLP: .
+Texture Unloaded: CivRoyaleStartSplash
+	BLP: .
+Texture Unloaded: Soothsayer_Unit256
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols128
+	BLP: .
+Texture Unloaded: Heores216
+	BLP: .
+Texture Unloaded: PiratesControls_SubHeader
+	BLP: .
+Texture Unloaded: Gaul_UnitPortraits38
+	BLP: .
+Texture Unloaded: Heroes_Hercules_Expired
+	BLP: .
+Texture Unloaded: Basil45
+	BLP: .
+Texture Unloaded: MomentSTK_Hippodrome
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_SINGING_TOPMEN
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols50
+	BLP: .
+Texture Unloaded: Indonesia_Wonders50_FOW
+	BLP: .
+Texture Unloaded: Ethiopia_Districts38
+	BLP: .
+Texture Unloaded: Barbarians_Disperse
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols50
+	BLP: .
+Texture Unloaded: MayaGran_Resources64_FOW
+	BLP: .
+Texture Unloaded: Zombies_Units22
+	BLP: .
+Texture Unloaded: Indonesia_Wonders64_FOW
+	BLP: .
+Texture Unloaded: CivAustralia50
+	BLP: .
+Texture Unloaded: PiratesControls_BannerHeaderRed
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol80
+	BLP: .
+Texture Unloaded: ClimateEventStat_SolarFlare
+	BLP: .
+Texture Unloaded: Unit_Oromo80
+	BLP: .
+Texture Unloaded: Secret_Column_BackgroundTile
+	BLP: .
+Texture Unloaded: LadySixSky80
+	BLP: .
+Texture Unloaded: Nubia_Buildings50_FOW
+	BLP: .
+Texture Unloaded: Babylon_Buildings128_FOW
+	BLP: .
+Texture Unloaded: Barbarians_UnitActions256
+	BLP: .
+Texture Unloaded: Portugal_Buildings256
+	BLP: .
+Texture Unloaded: LadySixSky32
+	BLP: .
+Texture Unloaded: Macedon_Buildings32_FOW
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_UnitPortraits95
+	BLP: .
+Texture Unloaded: LEADER_JOAO_III_NEUTRAL
+	BLP: .
+Texture Unloaded: Macedon_Buildings256
+	BLP: .
+Texture Unloaded: Vietnam_Districts50
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol32
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_UnitPortraits50
+	BLP: .
+Texture Unloaded: Australia_Units22
+	BLP: .
+Texture Unloaded: Nubia_UnitActions256
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_CULTISTS_NEUTRAL
+	BLP: .
+Texture Unloaded: Vietnam_Districts80
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol50
+	BLP: .
+Texture Unloaded: Gaul_Districts128
+	BLP: .
+Texture Unloaded: GreatWorksSTK256_FOW
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols36
+	BLP: .
+Texture Unloaded: Monopolies_UnitActions80
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols48
+	BLP: .
+Texture Unloaded: Nubia_Wonders64_FOW
+	BLP: .
+Texture Unloaded: HAMMURABI_3
+	BLP: .
+Texture Unloaded: Indonesia_UnitPortraits38
+	BLP: .
+Texture Unloaded: GAMEMODE_APOCALYPSE_NEUTRAL
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_UnitPortraits70
+	BLP: .
+Texture Unloaded: LEADER_AMBIORIX_NEUTRAL
+	BLP: .
+Texture Unloaded: Portugal_Buildings38_FOW
+	BLP: .
+Texture Unloaded: Unit_Oromo22
+	BLP: .
+Texture Unloaded: RedDeath_Zombies50
+	BLP: .
+Texture Unloaded: Catherine_Projects256
+	BLP: .
+Texture Unloaded: CivRoyale_Leaders45
+	BLP: .
+Texture Unloaded: Indonesia_Civics38
+	BLP: .
+Texture Unloaded: Babylon_Units50
+	BLP: .
+Texture Unloaded: Ethiopia_Projects38
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings32
+	BLP: .
+Texture Unloaded: Babylon_UnitPortraits38
+	BLP: .
+Texture Unloaded: Heroes105_Hercules
+	BLP: .
+Texture Unloaded: MayaGran_Resources38
+	BLP: .
+Texture Unloaded: Macedon_Wonders128_FOW
+	BLP: .
+Texture Unloaded: Zombies_UnitActions256
+	BLP: .
+Texture Unloaded: Portugal_UnitActions256
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_CAPTAIN_KIDD_JOURNAL
+	BLP: .
+Texture Unloaded: MENELIK_1
+	BLP: .
+Texture Unloaded: Babylon_Buildings32_FOW
+	BLP: .
+Texture Unloaded: Soothsayer_UnitPortrait95
+	BLP: .
+Texture Unloaded: Hacienda50
+	BLP: .
+Texture Unloaded: CYRUS_2
+	BLP: .
+Texture Unloaded: Vietnam_Buildings38
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols44
+	BLP: .
+Texture Unloaded: Amanitore256
+	BLP: .
+Texture Unloaded: Pirates_UnitPortraits70
+	BLP: .
+Texture Unloaded: Nubia_Wonders256_FOW
+	BLP: .
+Texture Unloaded: ClimateEvent_ForestFire
+	BLP: .
+Texture Unloaded: Nubia_Buildings38_FOW
+	BLP: .
+Texture Unloaded: Portugal_Units50
+	BLP: .
+Texture Unloaded: Macedon_Wonders64_FOW
+	BLP: .
+Texture Unloaded: Heroes_Hippolyta
+	BLP: .
+Texture Unloaded: Monopolies_Resources32
+	BLP: .
+Texture Unloaded: Indonesia_EnvoyBonuses50
+	BLP: .
+Texture Unloaded: Gaul_Wonders128_FOW
+	BLP: .
+Texture Unloaded: Australia_Units32
+	BLP: .
+Texture Unloaded: Portugal_UnitPortraits70
+	BLP: .
+Texture Unloaded: Roosevelt_RR48
+	BLP: .
+Texture Unloaded: Ethiopia_Notifications40
+	BLP: .
+Texture Unloaded: Babylon_UnitPortraits200
+	BLP: .
+Texture Unloaded: MayaGran_UnitPortraits50
+	BLP: .
+Texture Unloaded: Portugal_Buildings50_FOW
+	BLP: .
+Texture Unloaded: Pirates_UnitPortraits95
+	BLP: .
+Texture Unloaded: Hacienda80
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols200
+	BLP: .
+Texture Unloaded: Ambiorix80
+	BLP: .
+Texture Unloaded: Vietnam_Leaders45
+	BLP: .
+Texture Unloaded: JoaoIII55
+	BLP: .
+Texture Unloaded: Heroes_Hercules
+	BLP: .
+Texture Unloaded: Ambiorix32
+	BLP: .
+Texture Unloaded: CivAustralia128
+	BLP: .
+Texture Unloaded: LadySixSky48
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols50
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_SKULL_FIRESHOT
+	BLP: .
+Texture Unloaded: RedDeath_UFO50
+	BLP: .
+Texture Unloaded: MayaGran_UnitPortraits70
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols45
+	BLP: .
+Texture Unloaded: Babylon_Projects32
+	BLP: .
+Texture Unloaded: Roosevelt_RR55
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols36
+	BLP: .
+Texture Unloaded: Soothsayer_UnitPortrait70
+	BLP: .
+Texture Unloaded: MomentSTK_FountainOfYouth
+	BLP: .
+Texture Unloaded: CR_units32
+	BLP: .
+Texture Unloaded: RedDeathPanel_Meter
+	BLP: .
+Texture Unloaded: ALEXANDER_2
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols50
+	BLP: .
+Texture Unloaded: Macedon_Buildings80
+	BLP: .
+Texture Unloaded: JOHN_CURTIN_3
+	BLP: .
+Texture Unloaded: SecretSocieties_EventsFG_HermeticOrder
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols80
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols128
+	BLP: .
+Texture Unloaded: Radiation_Off22
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols80
+	BLP: .
+Texture Unloaded: Australia_Buildings50_FOW
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols128
+	BLP: .
+Texture Unloaded: Nubia_UnitPortraits70
+	BLP: .
+Texture Unloaded: Soothsayer_UnitPortrait50
+	BLP: .
+Texture Unloaded: Ethiopia_Projects80
+	BLP: .
+Texture Unloaded: SIMON_BOLIVAR_2
+	BLP: .
+Texture Unloaded: Ethiopia_Resources64
+	BLP: .
+Texture Unloaded: PiratesIntro_Diagram_2
+	BLP: .
+Texture Unloaded: Babylon_Buildings80_FOW
+	BLP: .
+Texture Unloaded: Macedon_UnitPortraits50
+	BLP: .
+Texture Unloaded: Monopolies_Resources256
+	BLP: .
+Texture Unloaded: GovernorSelectedSTK_SanguinePact
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols44
+	BLP: .
+Texture Unloaded: Roosevelt_RR45
+	BLP: .
+Texture Unloaded: BEHZAD_2
+	BLP: .
+Texture Unloaded: Roosevelt_RR80
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_CURSED_PIECES_OF_EIGHT
+	BLP: .
+Texture Unloaded: Indonesia_Buildings80_FOW
+	BLP: .
+Texture Unloaded: Heroes_Hunahpu
+	BLP: .
+Texture Unloaded: T_ROOSEVELT_ROUGHRIDER_1
+	BLP: .
+Texture Unloaded: Nubia_UnitPortraits50
+	BLP: .
+Texture Unloaded: RedDeath_UFO22
+	BLP: .
+Texture Unloaded: JoaoIII50
+	BLP: .
+Texture Unloaded: Ethiopia_Units38
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols64
+	BLP: .
+Texture Unloaded: Macedon_UnitPortraits70
+	BLP: .
+Texture Unloaded: MayaGranWorldBuilder_Features256
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits95afr
+	BLP: .
+Texture Unloaded: Monopolies_GreatWorksSlotTypes40
+	BLP: .
+Texture Unloaded: Batey38
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols64
+	BLP: .
+Texture Unloaded: CivRoyale_Aliens64
+	BLP: .
+Texture Unloaded: Secret_Promotion_Button
+	BLP: .
+Texture Unloaded: Zombies_UnitPortraits200
+	BLP: .
+Texture Unloaded: Gaul_Units32
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols50
+	BLP: .
+Texture Unloaded: ClimateEventStat_CometImpact
+	BLP: .
+Texture Unloaded: GOVERNMENT_STATE_GOVERNMENT
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols45
+	BLP: .
+Texture Unloaded: Alexander48
+	BLP: .
+Texture Unloaded: Roosevelt_RR50
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols44
+	BLP: .
+Texture Unloaded: Heroes_Beowulf
+	BLP: .
+Texture Unloaded: CivPersia80
+	BLP: .
+Texture Unloaded: Australia_Resources38
+	BLP: .
+Texture Unloaded: CR_units22
+	BLP: .
+Texture Unloaded: Indonesia_Wonders50
+	BLP: .
+Texture Unloaded: LEADER_JOHN_CURTIN_BACKGROUND
+	BLP: .
+Texture Unloaded: TOHAKU_1
+	BLP: .
+Texture Unloaded: Indonesia_Wonders32_FOW
+	BLP: .
+Texture Unloaded: Macedon_UnitActions256
+	BLP: .
+Texture Unloaded: Babylon_Stats26
+	BLP: .
+Texture Unloaded: STKDLC1_EmergencyBG2_Appease
+	BLP: .
+Texture Unloaded: Menelik_II48
+	BLP: .
+Texture Unloaded: Heroes_Beowulf_Expired
+	BLP: .
+Texture Unloaded: GAMEMODE_TREE_RANDOMIZER_BACKGROUND
+	BLP: .
+Texture Unloaded: Babylon_Stats55
+	BLP: .
+Texture Unloaded: Portugal_Wonders50
+	BLP: .
+Texture Unloaded: Vietnam_Leaders80
+	BLP: .
+Texture Unloaded: Ambiorix48
+	BLP: .
+Texture Unloaded: GAMEMODE_APOCALYPSE_BACKGROUND
+	BLP: .
+Texture Unloaded: Society_OwlsOfMinerva59
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols48
+	BLP: .
+Texture Unloaded: Heroes_GreatWorks45
+	BLP: .
+Texture Unloaded: Nubia_Wonders128
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols30
+	BLP: .
+Texture Unloaded: Pirates_Stats26
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols64
+	BLP: .
+Texture Unloaded: LADY_TRIEU_1
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_WANDERERS_NEUTRAL
+	BLP: .
+Texture Unloaded: Macedon_UnitActions38
+	BLP: .
+Texture Unloaded: LEADER_HAMMURABI_NEUTRAL
+	BLP: .
+Texture Unloaded: MayaGran_Notifications40
+	BLP: .
+Texture Unloaded: Vietnam_Leaders50
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols36
+	BLP: .
+Texture Unloaded: CivicsGovtCardReligion
+	BLP: .
+Texture Unloaded: BASIL_4
+	BLP: .
+Texture Unloaded: CauseDisaster50
+	BLP: .
+Texture Unloaded: Barbarians_Incite
+	BLP: .
+Texture Unloaded: Vietnam_UnitPortraits200
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol64
+	BLP: .
+Texture Unloaded: MayaGran_UnitPortraits38
+	BLP: .
+Texture Unloaded: Bolivar32
+	BLP: .
+Texture Unloaded: Indonesia_Buildings38_FOW
+	BLP: .
+Texture Unloaded: CivPersia50
+	BLP: .
+Texture Unloaded: Nubia_Units80
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Units32
+	BLP: .
+Texture Unloaded: Ethiopia_Resources256_FOW
+	BLP: .
+Texture Unloaded: Heroes_Arthur_Expired
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_JOCKS_NEUTRAL
+	BLP: .
+Texture Unloaded: Pirates_UnitActions50
+	BLP: .
+Texture Unloaded: T_ROOSEVELT_ROUGHRIDER_4
+	BLP: .
+Texture Unloaded: Curtin50
+	BLP: .
+Texture Unloaded: Zombies_UnitPortraits95
+	BLP: .
+Texture Unloaded: Nubia_UnitActions80
+	BLP: .
+Texture Unloaded: Pirates_UnitActions80
+	BLP: .
+Texture Unloaded: Indonesia_UnitActions256
+	BLP: .
+Texture Unloaded: Jadwiga45
+	BLP: .
+Texture Unloaded: Vietnam_Units256
+	BLP: .
+Texture Unloaded: Jadwiga256
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol44
+	BLP: .
+Texture Unloaded: Heroes_GreatWorks256_FOW
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_FISHING_FLOATS
+	BLP: .
+Texture Unloaded: LEADER_BASIL_BACKGROUND
+	BLP: .
+Texture Unloaded: Nubia_Wonders64
+	BLP: .
+Texture Unloaded: Gaul_Wonders64
+	BLP: .
+Texture Unloaded: Indonesia_UnitActions80
+	BLP: .
+Texture Unloaded: Gaul_Districts50
+	BLP: .
+Texture Unloaded: CR_units38
+	BLP: .
+Texture Unloaded: Vietnam_Buildings128_FOW
+	BLP: .
+Texture Unloaded: Monopolies_Products22
+	BLP: .
+Texture Unloaded: Unit_Hulche22
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_UnitPortraits200
+	BLP: .
+Texture Unloaded: Menelik_II45
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits95
+	BLP: .
+Texture Unloaded: Indonesia_Leaders55
+	BLP: .
+Texture Unloaded: KUBLAI_KHAN_CHINA_4
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols128
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings128
+	BLP: .
+Texture Unloaded: JOAO_III_3
+	BLP: .
+Texture Unloaded: Amanitore32
+	BLP: .
+Texture Unloaded: Vietnam_Districts22
+	BLP: .
+Texture Unloaded: Australia_Features64
+	BLP: .
+Texture Unloaded: Gaul_Districts80
+	BLP: .
+Texture Unloaded: Australia_Buildings32
+	BLP: .
+Texture Unloaded: MayaGranWorldBuilder_Features50
+	BLP: .
+Texture Unloaded: Alexander32
+	BLP: .
+Texture Unloaded: CATHERINE_DE_MEDICI_ALT_2
+	BLP: .
+Texture Unloaded: Pirates_UnitPortraits256
+	BLP: .
+Texture Unloaded: Pirates_AwayTeam256
+	BLP: .
+Texture Unloaded: Nubia_Wonders256
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols80
+	BLP: .
+Texture Unloaded: Curtin55
+	BLP: .
+Texture Unloaded: Soothsayer_Unit80
+	BLP: .
+Texture Unloaded: Macedon_Buildings256_FOW
+	BLP: .
+Texture Unloaded: Indonesia_Leaders80
+	BLP: .
+Texture Unloaded: Jadwiga48
+	BLP: .
+Texture Unloaded: Basil64
+	BLP: .
+Texture Unloaded: GovernorNormalSTK_HermeticOrder
+	BLP: .
+Texture Unloaded: CivAustralia64
+	BLP: .
+Texture Unloaded: Zombies_Units50
+	BLP: .
+Texture Unloaded: Zombies_Projects38
+	BLP: .
+Texture Unloaded: AMBIORIX_4
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_ALIENS_NEUTRAL
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_LOLONNAIS_CUTLERY
+	BLP: .
+Texture Unloaded: CivRoyale_SafezoneStart40
+	BLP: .
+Texture Unloaded: Menelik_II256
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols32
+	BLP: .
+Texture Unloaded: CivRoyale_SupplyDrop100
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols64
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols50
+	BLP: .
+Texture Unloaded: Macedon_Buildings128
+	BLP: .
+Texture Unloaded: Soothsayer_Unit50
+	BLP: .
+Texture Unloaded: Indonesia_Wonders128_FOW
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits95med
+	BLP: .
+Texture Unloaded: Vietnam_Buildings256
+	BLP: .
+Texture Unloaded: Catherine_M45
+	BLP: .
+Texture Unloaded: RedDeath_UnitActions50
+	BLP: .
+Texture Unloaded: KUBLAI_KHAN_MONGOLIA_3
+	BLP: .
+Texture Unloaded: Hammurabi64
+	BLP: .
+Texture Unloaded: Zombies_Units80
+	BLP: .
+Texture Unloaded: Heroes_Oya_Expired
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols44
+	BLP: .
+Texture Unloaded: KUBLAI_KHAN_CHINA_1
+	BLP: .
+Texture Unloaded: Indonesia_Civics42
+	BLP: .
+Texture Unloaded: CivPersia128
+	BLP: .
+Texture Unloaded: Vietnam_Districts32
+	BLP: .
+Texture Unloaded: Macedon_Wonders38_FOW
+	BLP: .
+Texture Unloaded: CivAustralia36
+	BLP: .
+Texture Unloaded: Babylon_UnitActions80
+	BLP: .
+Texture Unloaded: SecretSocieties_EventsFG_OwlsOfMinerva
+	BLP: .
+Texture Unloaded: Catherine_Projects38
+	BLP: .
+Texture Unloaded: Australia_Units256
+	BLP: .
+Texture Unloaded: CivAustralia256
+	BLP: .
+Texture Unloaded: STKDLC1_EmergencyBG3_Appease
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol44
+	BLP: .
+Texture Unloaded: Macedon_Wonders50
+	BLP: .
+Texture Unloaded: Catherine_M55
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol128
+	BLP: .
+Texture Unloaded: Calm22
+	BLP: .
+Texture Unloaded: MayaGran_UnitActions38
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol256
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols256
+	BLP: .
+Texture Unloaded: MayaGran_Districts50
+	BLP: .
+Texture Unloaded: AMBIORIX_1
+	BLP: .
+Texture Unloaded: Heroes105_Anansi
+	BLP: .
+Texture Unloaded: Indonesia_Civics128_FOW
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits200
+	BLP: .
+Texture Unloaded: Portugal_Notifications40
+	BLP: .
+Texture Unloaded: Monopolies_Resources256_FOW
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Buildings80
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol36
+	BLP: .
+Texture Unloaded: Australia_Buildings80_FOW
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol64
+	BLP: .
+Texture Unloaded: Babylon_UnitActions256
+	BLP: .
+Texture Unloaded: DramaticAges
+	BLP: .
+Texture Unloaded: Australia_UnitActions80
+	BLP: .
+Texture Unloaded: CauseDisaster256
+	BLP: .
+Texture Unloaded: Pirates_AwayTeam38
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings80
+	BLP: .
+Texture Unloaded: Ethiopia_Projects256
+	BLP: .
+Texture Unloaded: HAMMURABI_2
+	BLP: .
+Texture Unloaded: MomentSmall_Heroes
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings38_FOW
+	BLP: .
+Texture Unloaded: Heroes105_Maui
+	BLP: .
+Texture Unloaded: LEADER_T_ROOSEVELT_ROUGHRIDER_BACKGROUND
+	BLP: .
+Texture Unloaded: Macedon_Wonders32_FOW
+	BLP: .
+Texture Unloaded: Bribe22
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings256_FOW
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Buildings50
+	BLP: .
+Texture Unloaded: JoaoIII64
+	BLP: .
+Texture Unloaded: Australia_UnitActions50
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings32_FOW
+	BLP: .
+Texture Unloaded: Australia_Buildings38
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols32
+	BLP: .
+Texture Unloaded: RedDeath_Zombies256
+	BLP: .
+Texture Unloaded: Babylon_Buildings128
+	BLP: .
+Texture Unloaded: MENELIK_2
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits70afr
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_ZOMBIES_NEUTRAL
+	BLP: .
+Texture Unloaded: Australia_UnitActions256
+	BLP: .
+Texture Unloaded: Indonesia_Buildings128_FOW
+	BLP: .
+Texture Unloaded: Nubia_Buildings128
+	BLP: .
+Texture Unloaded: LEADER_JOAO_III_BACKGROUND
+	BLP: .
+Texture Unloaded: KANDINSKY_3
+	BLP: .
+Texture Unloaded: Relics_EmptyCard
+	BLP: .
+Texture Unloaded: CYRUS_1
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_EDGELORDS_NEUTRAL
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings50_FOW
+	BLP: .
+Texture Unloaded: Babylon_Projects80
+	BLP: .
+Texture Unloaded: Babylon_Buildings38_FOW
+	BLP: .
+Texture Unloaded: Cyrus48
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols45
+	BLP: .
+Texture Unloaded: Cyrus55
+	BLP: .
+Texture Unloaded: Heroes105_Hunahpu
+	BLP: .
+Texture Unloaded: Vietnam_Buildings32_FOW
+	BLP: .
+Texture Unloaded: Zombies_Projects32
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings80_FOW
+	BLP: .
+Texture Unloaded: Vietnam_Districts128
+	BLP: .
+Texture Unloaded: JADWIGA_1
+	BLP: .
+Texture Unloaded: Indonesia_Units80
+	BLP: .
+Texture Unloaded: Zombies_Projects80
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols32
+	BLP: .
+Texture Unloaded: CivMacedon45
+	BLP: .
+Texture Unloaded: MomentSTK_FirstCorporation
+	BLP: .
+Texture Unloaded: Babylon_GreatWorks45
+	BLP: .
+Texture Unloaded: CivRoyaleIntro_Diagram_3
+	BLP: .
+Texture Unloaded: LEADER_AMANITORE_NEUTRAL
+	BLP: .
+Texture Unloaded: Australia_Resources_FOW
+	BLP: .
+Texture Unloaded: GITARJA_4
+	BLP: .
+Texture Unloaded: Catherine_Projects80
+	BLP: .
+Texture Unloaded: RedDeath_UnitPortraits38
+	BLP: .
+Texture Unloaded: Nubia_Buildings32_FOW
+	BLP: .
+Texture Unloaded: MayaGran_UnitActions80
+	BLP: .
+Texture Unloaded: Monopolies_Notifications100
+	BLP: .
+Texture Unloaded: LEADER_LADY_SIX_SKY_NEUTRAL
+	BLP: .
+Texture Unloaded: Heroes_Sinbad_Expired
+	BLP: .
+Texture Unloaded: Indonesia_Civics128
+	BLP: .
+Texture Unloaded: RedDeath_UFO256
+	BLP: .
+Texture Unloaded: CivRoyale_Aliens128
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols44
+	BLP: .
+Texture Unloaded: Gaul_Wonders64_FOW
+	BLP: .
+Texture Unloaded: BannerMonopolies_Combo_Secondary_Combo
+	BLP: .
+Texture Unloaded: Ethiopia_Projects32
+	BLP: .
+Texture Unloaded: Vietnam_Leaders64
+	BLP: .
+Texture Unloaded: Vietnam_Districts256
+	BLP: .
+Texture Unloaded: MayaGran_Features256
+	BLP: .
+Texture Unloaded: Heroes105_Himiko
+	BLP: .
+Texture Unloaded: PiratesCompletedPopup_Frame
+	BLP: .
+Texture Unloaded: Hammurabi256
+	BLP: .
+Texture Unloaded: MegaDisasterIcon
+	BLP: .
+Texture Unloaded: LEADER_JADWIGA_BACKGROUND
+	BLP: .
+Texture Unloaded: LEADER_T_ROOSEVELT_ROUGHRIDER_NEUTRAL
+	BLP: .
+Texture Unloaded: Pirate_FontIcons
+	BLP: .
+Texture Unloaded: CivRoyale_Bracket
+	BLP: .
+Texture Unloaded: Babylon_UnitPortraits95
+	BLP: .
+Texture Unloaded: CYRUS_4
+	BLP: .
+Texture Unloaded: Pirates_CivLeaders45
+	BLP: .
+Texture Unloaded: Babylon_Stats22
+	BLP: .
+Texture Unloaded: Hacienda38
+	BLP: .
+Texture Unloaded: Australia_UnitActions38
+	BLP: .
+Texture Unloaded: JAYAVARMAN_3
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols44
+	BLP: .
+Texture Unloaded: Gaul_Wonders38
+	BLP: .
+Texture Unloaded: GAMEMODE_TOWERDEFENSE_BACKGROUND
+	BLP: .
+Texture Unloaded: Babylon_UnitPortraits70
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols32
+	BLP: .
+Texture Unloaded: Zombies_UnitActions38
+	BLP: .
+Texture Unloaded: Ethiopia_UnitActions38
+	BLP: .
+Texture Unloaded: Monopolies_Resources38
+	BLP: .
+Texture Unloaded: Roosevelt_RR64
+	BLP: .
+Texture Unloaded: Portugal_Buildings32
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols80
+	BLP: .
+Texture Unloaded: Barbarians_Hire
+	BLP: .
+Texture Unloaded: Gaul_Notifications100
+	BLP: .
+Texture Unloaded: Indonesia_BeliefsPantheon64
+	BLP: .
+Texture Unloaded: Pirates_AwayTeam32
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols45
+	BLP: .
+Texture Unloaded: Pirates_AwayTeam80
+	BLP: .
+Texture Unloaded: Vietnam_Units22
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols64
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols30
+	BLP: .
+Texture Unloaded: Australia_Features256
+	BLP: .
+Texture Unloaded: Babylon_UnitPortraits50
+	BLP: .
+Texture Unloaded: Pirates_UnitPortraits38
+	BLP: .
+Texture Unloaded: Portugal_UnitActions38
+	BLP: .
+Texture Unloaded: Indonesia_Civics42_FOW
+	BLP: .
+Texture Unloaded: Nubia_Units32
+	BLP: .
+Texture Unloaded: LADY_SIX_SKY_2
+	BLP: .
+Texture Unloaded: Ethiopia_Districts50
+	BLP: .
+Texture Unloaded: MayaGran_Units32
+	BLP: .
+Texture Unloaded: CivMacedon30
+	BLP: .
+Texture Unloaded: Governments_GoldenCard_Small
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols44
+	BLP: .
+Texture Unloaded: Portugal_Wonders32
+	BLP: .
+Texture Unloaded: Babylon_Stats32
+	BLP: .
+Texture Unloaded: CivMacedon128
+	BLP: .
+Texture Unloaded: CivPersia64
+	BLP: .
+Texture Unloaded: Portugal_Buildings80_FOW
+	BLP: .
+Texture Unloaded: Babylon_Projects38
+	BLP: .
+Texture Unloaded: Australia_Features50
+	BLP: .
+Texture Unloaded: Basil50
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols45
+	BLP: .
+Texture Unloaded: Monopolies_Notifications40
+	BLP: .
+Texture Unloaded: Nubia_Buildings80
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits70asi
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols22
+	BLP: .
+Texture Unloaded: CivMacedon50
+	BLP: .
+Texture Unloaded: Menelik_II32
+	BLP: .
+Texture Unloaded: Gaul_Wonders50_FOW
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_UnitPortraits200
+	BLP: .
+Texture Unloaded: Nubia_Buildings50
+	BLP: .
+Texture Unloaded: Ethiopia_Districts80
+	BLP: .
+Texture Unloaded: CivPersia44
+	BLP: .
+Texture Unloaded: Zombies_UnitPortraits256
+	BLP: .
+Texture Unloaded: Indonesia_Wonders64
+	BLP: .
+Texture Unloaded: CivRoyale_Unit
+	BLP: .
+Texture Unloaded: Curtin32
+	BLP: .
+Texture Unloaded: Gaul_UnitPortraits50
+	BLP: .
+Texture Unloaded: Nubia_Wonders38
+	BLP: .
+Texture Unloaded: Indonesia_UnitPortraits256
+	BLP: .
+Texture Unloaded: Gaul_UnitPortraits256
+	BLP: .
+Texture Unloaded: Basil80
+	BLP: .
+Texture Unloaded: MayaGran_Resources256_FOW
+	BLP: .
+Texture Unloaded: Pirates_Stats16
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_UnitPortraits38
+	BLP: .
+Texture Unloaded: MayaGran_Units22
+	BLP: .
+Texture Unloaded: AlexanderScenario_Browser_FG
+	BLP: .
+Texture Unloaded: Vietnam_UnitPortraits256
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols128
+	BLP: .
+Texture Unloaded: Gaul_UnitPortraits70
+	BLP: .
+Texture Unloaded: LeyLines22
+	BLP: .
+Texture Unloaded: CivRoyale_Zombies128
+	BLP: .
+Texture Unloaded: Gaul_Wonders50
+	BLP: .
+Texture Unloaded: LEADER_PIRATES_SCENARIO_SWASHBUCKLER_BACKGROUND
+	BLP: .
+Texture Unloaded: Babylon_Buildings256_FOW
+	BLP: .
+Texture Unloaded: Batey80
+	BLP: .
+Texture Unloaded: Alexander80
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols256
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol45
+	BLP: .
+Texture Unloaded: Hammurabi50
+	BLP: .
+Texture Unloaded: Nubia_Units22
+	BLP: .
+Texture Unloaded: Pirates_Stats32
+	BLP: .
+Texture Unloaded: Gaul_Units38
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol22
+	BLP: .
+Texture Unloaded: Batey50
+	BLP: .
+Texture Unloaded: MomentSTK_OromoCavalry
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols128
+	BLP: .
+Texture Unloaded: Pirates_Stats55
+	BLP: .
+Texture Unloaded: Australia_Buildings38_FOW
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols36
+	BLP: .
+Texture Unloaded: LEADER_JAYAVARMAN_NEUTRAL
+	BLP: .
+Texture Unloaded: LEADER_KUBLAI_KHAN_CHINA_NEUTRAL
+	BLP: .
+Texture Unloaded: Indonesia_Leaders32
+	BLP: .
+Texture Unloaded: Heroes_Mulan
+	BLP: .
+Texture Unloaded: Pirates_EventFG_VisitTavern
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol256
+	BLP: .
+Texture Unloaded: Basil55
+	BLP: .
+Texture Unloaded: Jadwiga64
+	BLP: .
+Texture Unloaded: Indonesia_Leaders45
+	BLP: .
+Texture Unloaded: Pirates_CivLeaders128
+	BLP: .
+Texture Unloaded: LadySixSky45
+	BLP: .
+Texture Unloaded: Babylon_Buildings50
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_PIRATES_NEUTRAL
+	BLP: .
+Texture Unloaded: Alexander55
+	BLP: .
+Texture Unloaded: Indonesia_Units256
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols80
+	BLP: .
+Texture Unloaded: LEADER_HAMMURABI_BACKGROUND
+	BLP: .
+Texture Unloaded: Portugal_Wonders128_FOW
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols48
+	BLP: .
+Texture Unloaded: Macedon_UnitActions80
+	BLP: .
+Texture Unloaded: LEADER_PIRATES_SCENARIO_PRIVATEER_BACKGROUND
+	BLP: .
+Texture Unloaded: JOAO_III_4
+	BLP: .
+Texture Unloaded: Heroes105_SunWukong
+	BLP: .
+Texture Unloaded: LEADER_MENELIK_NEUTRAL
+	BLP: .
+Texture Unloaded: CityDestroyedLoot100
+	BLP: .
+Texture Unloaded: CivAustralia32
+	BLP: .
+Texture Unloaded: Macedon_UnitActions50
+	BLP: .
+Texture Unloaded: Monopolies_UnitActions256
+	BLP: .
+Texture Unloaded: Zombies_Projects256
+	BLP: .
+Texture Unloaded: Zombies_Units32
+	BLP: .
+Texture Unloaded: MayaGran_Notifications100
+	BLP: .
+Texture Unloaded: Nubia_Wonders128_FOW
+	BLP: .
+Texture Unloaded: Vietnam_Buildings80
+	BLP: .
+Texture Unloaded: CATHERINE_DE_MEDICI_ALT_3
+	BLP: .
+Texture Unloaded: RedDeath_Zombies38
+	BLP: .
+Texture Unloaded: Pirates_Morale55
+	BLP: .
+Texture Unloaded: Soc_Voidsingers22
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols128
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols30
+	BLP: .
+Texture Unloaded: Zombies_Notifications100
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol48
+	BLP: .
+Texture Unloaded: Babylon_Buildings80
+	BLP: .
+Texture Unloaded: MayaGranWorldBuilder_Features64
+	BLP: .
+Texture Unloaded: Nubia_Buildings256
+	BLP: .
+Texture Unloaded: Indonesia_UnitPortraits70
+	BLP: .
+Texture Unloaded: Portugal_Buildings32_FOW
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols80
+	BLP: .
+Texture Unloaded: Nubia_Units38
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols36
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols256
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols44
+	BLP: .
+Texture Unloaded: Australia_Buildings128
+	BLP: .
+Texture Unloaded: Catherine_M64
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol32
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols256
+	BLP: .
+Texture Unloaded: Portugal_Wonders38
+	BLP: .
+Texture Unloaded: GovernorSelectedSTK_HermeticOrder
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_ENGLISH_POINTER
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Buildings256
+	BLP: .
+Texture Unloaded: Alexander256
+	BLP: .
+Texture Unloaded: CivRoyale_BracketRed
+	BLP: .
+Texture Unloaded: CivRoyale_Safezone40
+	BLP: .
+Texture Unloaded: Macedon_UnitPortraits200
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols64
+	BLP: .
+Texture Unloaded: Portugal_Units38
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols128
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_BACKGROUND
+	BLP: .
+Texture Unloaded: MomentSTK_Nau
+	BLP: .
+Texture Unloaded: CivAustralia22
+	BLP: .
+Texture Unloaded: KUBLAI_KHAN_MONGOLIA_2
+	BLP: .
+Texture Unloaded: Pirates_UnitActions256
+	BLP: .
+Texture Unloaded: Babylon_Units38
+	BLP: .
+Texture Unloaded: KUBLAI_KHAN_CHINA_2
+	BLP: .
+Texture Unloaded: GOVERNMENT_PENAL_SETTLEMENT
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_UnitPortraits256
+	BLP: .
+Texture Unloaded: Nubia_Wonders32
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_DOOMSDAYPREPPERS_NEUTRAL
+	BLP: .
+Texture Unloaded: CivRoyale_SupplyDrop40
+	BLP: .
+Texture Unloaded: Unit_Oromo32
+	BLP: .
+Texture Unloaded: MayaGran_Resources50
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols22
+	BLP: .
+Texture Unloaded: Heroes_Maui
+	BLP: .
+Texture Unloaded: Soothsayer_UnitPortrait200
+	BLP: .
+Texture Unloaded: Gaul_Policies256
+	BLP: .
+Texture Unloaded: Macedon_Buildings128_FOW
+	BLP: .
+Texture Unloaded: Hammurabi45
+	BLP: .
+Texture Unloaded: GAMEMODE_MONOPOLIES_NEUTRAL
+	BLP: .
+Texture Unloaded: Heroes_Hunahpu_Expired
+	BLP: .
+Texture Unloaded: Heroes_SunWukong_Expired
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol45
+	BLP: .
+Texture Unloaded: Ambiorix45
+	BLP: .
+Texture Unloaded: Heroes_Mulan_Expired
+	BLP: .
+Texture Unloaded: LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NEUTRAL
+	BLP: .
+Texture Unloaded: ClimateEvent_SolarFlare
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols80
+	BLP: .
+Texture Unloaded: MomentSTK_ComandanteGeneral
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_BLACKBEARD_FUSE
+	BLP: .
+Texture Unloaded: RedDeath_Zombies22
+	BLP: .
+Texture Unloaded: Gaul_Wonders32_FOW
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol30
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings128_FOW
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols128
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_CRATES_OF_RUM
+	BLP: .
+Texture Unloaded: Vietnam_Buildings38_FOW
+	BLP: .
+Texture Unloaded: Ethiopia_Units50
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols36
+	BLP: .
+Texture Unloaded: CivRoyale_HailMary100
+	BLP: .
+Texture Unloaded: LadySixSky50
+	BLP: .
+Texture Unloaded: Indonesia_UnitPortraits95
+	BLP: .
+Texture Unloaded: Australia_Units50
+	BLP: .
+Texture Unloaded: Cyrus64
+	BLP: .
+Texture Unloaded: JoaoIII45
+	BLP: .
+Texture Unloaded: Soothsayer_UnitPortrait38
+	BLP: .
+Texture Unloaded: Macedon_Wonders64
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols50
+	BLP: .
+Texture Unloaded: Pirates_CivSymbols36
+	BLP: .
+Texture Unloaded: Monopolies_Resources64
+	BLP: .
+Texture Unloaded: LEADER_PIRATES_SCENARIO_PRIVATEER_NEUTRAL
+	BLP: .
+Texture Unloaded: Ethiopia_Units80
+	BLP: .
+Texture Unloaded: LEADER_PIRATES_SCENARIO_HOARDER_BACKGROUND
+	BLP: .
+Texture Unloaded: Monopolies_UnitActions50
+	BLP: .
+Texture Unloaded: AMANITORE_3
+	BLP: .
+Texture Unloaded: Radiation_On22
+	BLP: .
+Texture Unloaded: Gaul_Notifications40
+	BLP: .
+Texture Unloaded: Zombies_Outbreak20
+	BLP: .
+Texture Unloaded: CivMacedon256
+	BLP: .
+Texture Unloaded: Zombies_Units38
+	BLP: .
+Texture Unloaded: CivRoyaleRingClosing
+	BLP: .
+Texture Unloaded: Vietnam_Buildings256_FOW
+	BLP: .
+Texture Unloaded: RedDeath_Zombies32
+	BLP: .
+Texture Unloaded: MENELIK_3
+	BLP: .
+Texture Unloaded: ALEXANDER_1
+	BLP: .
+Texture Unloaded: Catherine_Projects32
+	BLP: .
+Texture Unloaded: KANDINSKY_2
+	BLP: .
+Texture Unloaded: Australia_Buildings256_FOW
+	BLP: .
+Texture Unloaded: JOHN_CURTIN_4
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols64
+	BLP: .
+Texture Unloaded: Babylon_GreatWorks64
+	BLP: .
+Texture Unloaded: Portugal_UnitPortraits95
+	BLP: .
+Texture Unloaded: Catherine_Projects50
+	BLP: .
+Texture Unloaded: MomentSTK_Oppidum
+	BLP: .
+Texture Unloaded: Gaul_Wonders256_FOW
+	BLP: .
+Texture Unloaded: Vietnam_Buildings50_FOW
+	BLP: .
+Texture Unloaded: Zombies_Outbreak40
+	BLP: .
+Texture Unloaded: Australia_UnitPortraits38
+	BLP: .
+Texture Unloaded: SIMON_BOLIVAR_1
+	BLP: .
+Texture Unloaded: Portugal_UnitPortraits50
+	BLP: .
+Texture Unloaded: PiratesIntro_Diagram_1
+	BLP: .
+Texture Unloaded: Indonesia_Wonders38
+	BLP: .
+Texture Unloaded: CivMacedon44
+	BLP: .
+Texture Unloaded: CivRoyaleIntro_Diagram_2
+	BLP: .
+Texture Unloaded: BEHZAD_1
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_BONNY_PISTOLS
+	BLP: .
+Texture Unloaded: Ethiopia_Units22
+	BLP: .
+Texture Unloaded: MomentSTK_Gaestae
+	BLP: .
+Texture Unloaded: GITARJA_3
+	BLP: .
+Texture Unloaded: Portugal_Notifications100
+	BLP: .
+Texture Unloaded: Portugal_Units32
+	BLP: .
+Texture Unloaded: Portugal_Buildings80
+	BLP: .
+Texture Unloaded: Portugal_Units80
+	BLP: .
+Texture Unloaded: UnitFlagGoldenGlow
+	BLP: .
+Texture Unloaded: CivMacedon64
+	BLP: .
+Texture Unloaded: Indonesia_Civics38_FOW
+	BLP: .
+Texture Unloaded: JoaoIII80
+	BLP: .
+Texture Unloaded: Pirates_UnitActions38
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols48
+	BLP: .
+Texture Unloaded: Barbarians_UnitActions50
+	BLP: .
+Texture Unloaded: Ambiorix50
+	BLP: .
+Texture Unloaded: Nubia_UnitPortraits200
+	BLP: .
+Texture Unloaded: MayaGran_Units80
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols200
+	BLP: .
+Texture Unloaded: Diplomacy_RedDeath_X
+	BLP: .
+Texture Unloaded: ALEXANDER_4
+	BLP: .
+Texture Unloaded: Roosevelt_RR32
+	BLP: .
+Texture Unloaded: Monopolies_GreatWorksSlotTypes20
+	BLP: .
+Texture Unloaded: Indonesia_UnitActions38
+	BLP: .
+Texture Unloaded: MomentSTK_Feitoria
+	BLP: .
+Texture Unloaded: RedDeath_UFO32
+	BLP: .
+Texture Unloaded: LEADER_LADY_TRIEU_BACKGROUND
+	BLP: .
+Texture Unloaded: Society_HermeticOrder59
+	BLP: .
+Texture Unloaded: GAMEMODE_SECRETSOCIETIES_NEUTRAL
+	BLP: .
+Texture Unloaded: Indonesia_EnvoyBonuses26
+	BLP: .
+Texture Unloaded: JOHN_CURTIN_1
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols30
+	BLP: .
+Texture Unloaded: MomentSTK_Hacienda
+	BLP: .
+Texture Unloaded: Indonesia_BeliefsPantheon50
+	BLP: .
+Texture Unloaded: CivPersia48
+	BLP: .
+Texture Unloaded: Zombies
+	BLP: .
+Texture Unloaded: Ethiopia_UnitActions256
+	BLP: .
+Texture Unloaded: JAYAVARMAN_2
+	BLP: .
+Texture Unloaded: CivRoyale_SafezoneStart100
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols80
+	BLP: .
+Texture Unloaded: LADY_TRIEU_4
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols200
+	BLP: .
+Texture Unloaded: CR_units50
+	BLP: .
+Texture Unloaded: SIMON_BOLIVAR_4
+	BLP: .
+Texture Unloaded: Vietnam_Leaders55
+	BLP: .
+Texture Unloaded: PiratesIntro_Diagram_4
+	BLP: .
+Texture Unloaded: BASIL_1
+	BLP: .
+Texture Unloaded: SecretSocieties_EventsFG_Discover
+	BLP: .
+Texture Unloaded: Pirates_CivLeaders64
+	BLP: .
+Texture Unloaded: Preserve22
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols44
+	BLP: .
+Texture Unloaded: T_ROOSEVELT_ROUGHRIDER_3
+	BLP: .
+Texture Unloaded: Macedon_Wonders50_FOW
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Units256
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Units22
+	BLP: .
+Texture Unloaded: RedDeath_UnitPortraits50
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols22
+	BLP: .
+Texture Unloaded: MayaGran_UnitPortraits95
+	BLP: .
+Texture Unloaded: ClimateEvent_CometImpact
+	BLP: .
+Texture Unloaded: Indonesia_BeliefsPantheon256
+	BLP: .
+Texture Unloaded: LADY_SIX_SKY_3
+	BLP: .
+Texture Unloaded: CivPersia30
+	BLP: .
+Texture Unloaded: Nubia_CivSymbols64
+	BLP: .
+Texture Unloaded: Nubia_UnitActions50
+	BLP: .
+Texture Unloaded: Ambiorix256
+	BLP: .
+Texture Unloaded: Heroes_Hippolyta_Expired
+	BLP: .
+Texture Unloaded: Australia_Buildings128_FOW
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols32
+	BLP: .
+Texture Unloaded: Nubia_Buildings128_FOW
+	BLP: .
+Texture Unloaded: JoaoIII256
+	BLP: .
+Texture Unloaded: Society_Voidsinger59
+	BLP: .
+Texture Unloaded: Gaul_CivSymbols22
+	BLP: .
+Texture Unloaded: RedDeath_UnitPortraits70
+	BLP: .
+Texture Unloaded: Catherine_M256
+	BLP: .
+Texture Unloaded: EndGame_BG_CivRoyaleVictory
+	BLP: .
+Texture Unloaded: TOHAKU_3
+	BLP: .
+Texture Unloaded: MomentSTK_BermudaTriangle
+	BLP: .
+Texture Unloaded: CivPersia45
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols48
+	BLP: .
+Texture Unloaded: Barbarians_UnitActions38
+	BLP: .
+Texture Unloaded: Menelik_II64
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols256
+	BLP: .
+Texture Unloaded: Unit_Hulche80
+	BLP: .
+Texture Unloaded: Barbarians_CivSymbols36
+	BLP: .
+Texture Unloaded: Gaul_Wonders32
+	BLP: .
+Texture Unloaded: LADY_TRIEU_3
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols200
+	BLP: .
+Texture Unloaded: Babylon_Units256
+	BLP: .
+Texture Unloaded: Zombies_UnitPortraits38
+	BLP: .
+Texture Unloaded: Portugal_Buildings256_FOW
+	BLP: .
+Texture Unloaded: Indonesia_Wonders32
+	BLP: .
+Texture Unloaded: MomentSTK_DromonShip
+	BLP: .
+Texture Unloaded: MayaGran_Features64
+	BLP: .
+Texture Unloaded: MomentSTK_Sabum
+	BLP: .
+Texture Unloaded: Portugal_Buildings38
+	BLP: .
+Texture Unloaded: LEADER_GITARJA_BACKGROUND
+	BLP: .
+Texture Unloaded: Jadwiga50
+	BLP: .
+Texture Unloaded: Gaul_Policies38
+	BLP: .
+Texture Unloaded: MomentSTK_Observatory
+	BLP: .
+Texture Unloaded: Nubia_Wonders32_FOW
+	BLP: .
+Texture Unloaded: Vietnam_UnitPortraits70
+	BLP: .
+Texture Unloaded: MayaGran_CivSymbols36
+	BLP: .
+Texture Unloaded: Unit_Hulche32
+	BLP: .
+Texture Unloaded: Vietnam_UnitPortraits95
+	BLP: .
+Texture Unloaded: Gaul_UnitPortraits95
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols32
+	BLP: .
+Texture Unloaded: Portugal_Wonders256
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols48
+	BLP: .
+Texture Unloaded: MayaGran_Units38
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_Units50
+	BLP: .
+Texture Unloaded: MayaGran_Districts256
+	BLP: .
+Texture Unloaded: LEADER_PIRATES_SCENARIO_DREAD_PIRATE_BACKGROUND
+	BLP: .
+Texture Unloaded: Babylon_Buildings32
+	BLP: .
+Texture Unloaded: Vietnam_UnitPortraits50
+	BLP: .
+Texture Unloaded: Indonesia_Civics160_FOW
+	BLP: .
+Texture Unloaded: LEADER_ALEXANDER_BACKGROUND
+	BLP: .
+Texture Unloaded: Bolivar64
+	BLP: .
+Texture Unloaded: Zombies_UnitActions80
+	BLP: .
+Texture Unloaded: Pirates_UnitPortraits200
+	BLP: .
+Texture Unloaded: GAMEMODE_DRAMATICAGES_BACKGROUND
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_UnitPortraits38
+	BLP: .
+Texture Unloaded: LEADER_MENELIK_BACKGROUND
+	BLP: .
+Texture Unloaded: Zombies_UnitActions50
+	BLP: .
+Texture Unloaded: Indonesia_Features64
+	BLP: .
+Texture Unloaded: Zombies_Units256
+	BLP: .
+Texture Unloaded: Ethiopia_Resources256
+	BLP: .
+Texture Unloaded: MomentSTK_HeroRecalled
+	BLP: .
+Texture Unloaded: LEADER_CYRUS_NEUTRAL
+	BLP: .
+Texture Unloaded: Macedon_Buildings80_FOW
+	BLP: .
+Texture Unloaded: GAMEMODE_HEROES_BACKGROUND
+	BLP: .
+Texture Unloaded: GAMEMODE_BARBARIAN_CLANS_NEUTRAL
+	BLP: .
+Texture Unloaded: Ethiopia_Resources64_FOW
+	BLP: .
+Texture Unloaded: Portugal_CivSymbols128
+	BLP: .
+Texture Unloaded: Gaul_Districts32
+	BLP: .
+Texture Unloaded: Australia_Buildings80
+	BLP: .
+Texture Unloaded: Ethiopia_Notifications100
+	BLP: .
+Texture Unloaded: Portugal_Wonders64
+	BLP: .
+Texture Unloaded: Indonesia_Leaders64
+	BLP: .
+Texture Unloaded: LadySixSky64
+	BLP: .
+Texture Unloaded: Jadwiga55
+	BLP: .
+Texture Unloaded: Babylon_CivSymbols48
+	BLP: .
+Texture Unloaded: Incite22
+	BLP: .
+Texture Unloaded: Heores105
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits38
+	BLP: .
+Texture Unloaded: Macedon_Wonders38
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol50
+	BLP: .
+Texture Unloaded: Map_Highlands
+	BLP: .
+Texture Unloaded: RedDeath_UnitActions80
+	BLP: .
+Texture Unloaded: Amanitore48
+	BLP: .
+Texture Unloaded: Alexander64
+	BLP: .
+Texture Unloaded: Indonesia_Civics160
+	BLP: .
+Texture Unloaded: Amanitore55
+	BLP: .
+Texture Unloaded: MomentSTK_RockHewnChurch
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_UnitPortraits95
+	BLP: .
+Texture Unloaded: Ethiopia_Districts256
+	BLP: .
+Texture Unloaded: GovernorSelectedSTK_VoidSingers
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols45
+	BLP: .
+Texture Unloaded: Gaul_Policies50
+	BLP: .
+Texture Unloaded: AMBIORIX_2
+	BLP: .
+Texture Unloaded: MayaGran_Resources64
+	BLP: .
+Texture Unloaded: Nubia_Buildings256_FOW
+	BLP: .
+Texture Unloaded: Heroes_Oya
+	BLP: .
+Texture Unloaded: Vietnam_Buildings128
+	BLP: .
+Texture Unloaded: MomentSTK_Hulche
+	BLP: .
+Texture Unloaded: LEADER_CIVROYALE_MADSCIENTISTS_NEUTRAL
+	BLP: .
+Texture Unloaded: Vietnam_CivSymbols30
+	BLP: .
+Texture Unloaded: HAMMURABI_1
+	BLP: .
+Texture Unloaded: Nubia_Wonders50
+	BLP: .
+Texture Unloaded: Indonesia_CivSymbols48
+	BLP: .
+Texture Unloaded: Roosevelt_RR256
+	BLP: .
+Texture Unloaded: HeroRelic22
+	BLP: .
+Texture Unloaded: Unit_Oromo50
+	BLP: .
+Texture Unloaded: Barbarians
+	BLP: .
+Texture Unloaded: CivRoyaleIntro_Logo
+	BLP: .
+Texture Unloaded: Ethiopia_Buildings50
+	BLP: .
+Texture Unloaded: XP2_BG_EMERGENCY_SOOTHSAYER
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits256
+	BLP: .
+Texture Unloaded: KUBLAI_KHAN_CHINA_3
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Zombie_CivSymbol22
+	BLP: .
+Texture Unloaded: Gaul_Districts22
+	BLP: .
+Texture Unloaded: Barbarians_Bribe
+	BLP: .
+Texture Unloaded: RedDeath_UnitPortraits256
+	BLP: .
+Texture Unloaded: SecretSocieties_EventsFG_SanguinePact
+	BLP: .
+Texture Unloaded: Babylon_Units22
+	BLP: .
+Texture Unloaded: ClimateEventStat_MeteorShowers
+	BLP: .
+Texture Unloaded: GAMEMODE_HEROES_NEUTRAL
+	BLP: .
+Texture Unloaded: Ethiopia_UnitPortraits70med
+	BLP: .
+Texture Unloaded: Ethiopia_CivSymbols36
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_CivSymbols64
+	BLP: .
+Texture Unloaded: Poland_Jadwiga_UnitPortraits70
+	BLP: .
+Texture Unloaded: ICON_CIVIC_RELIC_JOLLY_ROGERS
+	BLP: .
+Texture Unloaded: Unit_Hulche38
+	BLP: .
+Texture Unloaded: Cyrus45
+	BLP: .
+Texture Unloaded: Zombies_Outbreak200
+	BLP: .
+Texture Unloaded: Cyrus50
+	BLP: .
+Texture Unloaded: CivRoyaleScenario_Aliens_CivSymbol48
+	BLP: .
+Texture Unloaded: Babylon_UnitPortraits256
+	BLP: .
+Texture Unloaded: Pirates_UnitPortraits50
+	BLP: .
+Texture Unloaded: JADWIGA_2
+	BLP: .
+Texture Unloaded: GAMEMODE_SECRETSOCIETIES_BACKGROUND
+	BLP: .
+Texture Unloaded: Cyrus80
+	BLP: .
+Texture Unloaded: Babylon_Buildings38
+	BLP: .
+=======================================================================
+	BLPTextureLoader::ReconcileLoadedPackages()
+	2021-06-04 01:56:34
+
+Texture Overwritten: Pirates_Notifications40
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/UI_Shell.blp
+Texture Overwritten: Pirates_CivSymbols22
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RandomTech
+	Old BLP: 
+	New BLP: ../../../DLC/TreeRandomizer/Platforms/Windows/BLPs/UI/UI_Shell.blp
+Texture Overwritten: Pirates_CivSymbols256
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols48
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_HailMary100
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol32
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_Stats32
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Aliens45
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol44
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols80
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: MiniMap_CompassBase
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols48
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_PIRATES_SCENARIO_HOARDER_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: RedDeath_UnitActions80
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols45
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: GAMEMODE_BARBARIAN_CLANS_BACKGROUND
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+Texture Overwritten: CivRoyale_BracketRed
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CR_units50
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_Notifications40
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UnitPortraits38
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol36
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UnitPortraits70
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: GAMEMODE_TREE_RANDOMIZER_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/TreeRandomizer/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: RedDeath_UFO256
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LaunchBar_Hook_ButtonMinimap
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: Pirates_CivSymbols36
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_CRATES_OF_RUM
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol48
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_DOOMSDAYPREPPERS_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: Barbarians_CivSymbols128
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_Notifications100
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_CivSymbols80
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirate_FontIcons
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Leaders45
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol80
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_UnitPortraits95
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UFO38
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_Zombies50
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_AwayTeam256
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_CivSymbols30
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleIntro_Diagram_2
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Instructions.blp
+Texture Overwritten: Pirates_UnitActions256
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Zombies64
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: PiratesIntro_Diagram_3
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Instructions.blp
+Texture Overwritten: Pirates_UnitActions38
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_PIRATES_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: RedDeathPanel
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: EndGame_BG_CivRoyaleVictory
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_EndGame.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol64
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols32
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_UnitPortraits200
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleStartSplash
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol32
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Calm22
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Aliens64
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_WANDERERS_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: Barbarians_CivSymbols50
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_PIRATES_SCENARIO_PRIVATEER_BACKGROUND
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+Texture Overwritten: Barbarians_Notifications100
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_UnitActions80
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: PiratesIntro_Diagram_1
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Instructions.blp
+Texture Overwritten: Pirates_CivLeaders64
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: RedDeath_UnitActions50
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols64
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols30
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol50
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CR_units22
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_MADSCIENTISTS_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol30
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleIntro_Logo
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Instructions.blp
+Texture Overwritten: Pirates_UnitPortraits38
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_SafezoneStart100
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_CivSymbols48
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_ENGLISH_POINTER
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_BLACKBEARD_FUSE
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_KRAKANNONS
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_UnitPortraits70
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_UnitActions80
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: GAMEMODE_TREE_RANDOMIZER_BACKGROUND
+	Old BLP: 
+	New BLP: ../../../DLC/TreeRandomizer/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+Texture Overwritten: Pirates_UnitPortraits200
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols36
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_CivSymbols200
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_UnitActions256
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_UnitPortraits70
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Safezone40
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Controls_ButtonExtend
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Controls.blp
+Texture Overwritten: Barbarians_Raid
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_AwayTeam80
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_Bribe
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_UnitPortraits38
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Leaders128
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols64
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Relics_CardSelector
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_PIRATES_SCENARIO_HOARDER_BACKGROUND
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+Texture Overwritten: GAMEMODE_BARBARIAN_CLANS_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: Relics_EmptyCard
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol48
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols45
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: PiratesControls_SubHeader
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Controls.blp
+Texture Overwritten: LEADER_CIVROYALE_ZOMBIES_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: CR_units38
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols22
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol256
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols80
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_BACKGROUND
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+Texture Overwritten: EndGame_BG_CivRoyaleDefeat
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_EndGame.blp
+Texture Overwritten: CivRoyale_Zombies128
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols30
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UnitPortraits50
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_UnitPortraits50
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol45
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_CivSymbols50
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CityDestroyedLoot100
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols256
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol64
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_ALIENS_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: ActionPanel_Gold2
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: Pirates_UnitPortraits256
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_PIRATES_SCENARIO_PRIVATEER_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: Pirates_AwayTeam38
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UnitPortraits200
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols32
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_MUTANTS_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: CityDestroyedLoot40
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UnitActions256
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol45
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol256
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleIntro_Diagram_1
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Instructions.blp
+Texture Overwritten: CivRoyale_Zombies45
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Bracket
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_AwayTeam50
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UnitActions38
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols44
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_UnitActions50
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_EDGELORDS_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: Barbarians_Hire
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Bribe22
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_Zombies80
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_Zombies256
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_Zombies22
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_RansomUnit
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_SupplyDrop40
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Radiation_Off22
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_UnitPortraits256
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_SupplyDrop100
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_CivSymbols128
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_Stats26
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LaunchBar_Hook_Relics
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: RedDeath_Zombies32
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_AwayTeam22
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleIntro_Diagram_3
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Instructions.blp
+Texture Overwritten: LaunchBar_RedDeath_Button
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: PiratesIntro_Diagram_4
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Instructions.blp
+Texture Overwritten: RedDeath_UnitPortraits95
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol150
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Unit
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_CAPTAIN_KIDD_JOURNAL
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Incite22
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CR_units32
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol128
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: MiniMap_WoodBackingTile
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: PiratesPanel
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: PiratesCompletedPopup_Frame
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: ICON_CIVIC_RELIC_SKULL_FIRESHOT
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Urgent22
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols36
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_Gold
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_EventFG_VisitTavern
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: PiratesIntro_Diagram_2
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Instructions.blp
+Texture Overwritten: Diplomacy_RedDeath_X
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_BONNY_PISTOLS
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UFO50
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_UnitActions38
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_CivSymbols64
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_SafezoneStart40
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol22
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_Disperse
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_CivLeaders45
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_Stats22
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_CivSymbols256
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: MiniMap_CompassSide
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: ICON_CIVIC_RELIC_FISHING_FLOATS
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Radiation
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: PiratesControls_BannerHeaderRed
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Controls.blp
+Texture Overwritten: RedDeath_UFO22
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_SINGING_TOPMEN
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Aliens128
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_BLACK_SPOT
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Controls_Collapse
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_Controls.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Controls.blp
+Texture Overwritten: ICON_CIVIC_RELIC_JOLLY_ROGERS
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_Morale55
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_Safezone100
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_Zombies38
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_PIRATES_SCENARIO_SWASHBUCKLER_BACKGROUND
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+Texture Overwritten: Barbarians_UnitActions50
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol22
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_DOWSING_ROD
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyale_HailMary40
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_PIRATES_SCENARIO_DREAD_PIRATE_BACKGROUND
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Shell_Loading.blp
+Texture Overwritten: UnitPanel_LinkIcon
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeathPanel_Meter
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol36
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CR_units80
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CR_units256
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols50
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_AwayTeam32
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_CivSymbols44
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol128
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_CULTISTS_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: Pirates_UnitPortraits95
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Barbarians_Incite
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleRingClosing
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol80
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_Stats45
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols44
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_UnitPortraits50
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: PiratesIntro_Logo
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/UI_Instructions.blp
+Texture Overwritten: Pirates_CivLeaders128
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: LEADER_CIVROYALE_JOCKS_NEUTRAL
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_Leaders.blp
+Texture Overwritten: HailMary22
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: MiniMap_Frame
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: ActionPanel_Gold1
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: Barbarians_CivSymbols200
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols128
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_CivSymbols22
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UFO80
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: MiniMap_WoodBacking
+	Old BLP: C:/Program Files/Epic Games/SidMeiersCivilizationVI/Base/Platforms/Windows/BLPs/UI/UI_HUD.blp
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/UI_HUD.blp
+Texture Overwritten: InciteByMe22
+	Old BLP: 
+	New BLP: ../../../DLC/BarbarianClansMode/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Zombie_CivSymbol30
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_CURSED_PIECES_OF_EIGHT
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UFO32
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol50
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_Stats55
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: ICON_CIVIC_RELIC_LOLONNAIS_CUTLERY
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Radiation_On22
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Relics_Card
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: CivRoyaleScenario_Aliens_CivSymbol44
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: Pirates_Stats16
+	Old BLP: 
+	New BLP: ../../../DLC/PiratesScenario/Platforms/Windows/BLPs/UI/Icons.blp
+Texture Overwritten: RedDeath_UnitPortraits256
+	Old BLP: 
+	New BLP: ../../../DLC/CivRoyaleScenario/Platforms/Windows/BLPs/UI/Icons.blp

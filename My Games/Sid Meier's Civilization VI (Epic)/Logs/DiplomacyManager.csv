@@ -1,0 +1,727 @@
+Game Turn, From, To, Initiator, Type, SubType, Message
+229, 4, 2, ?, SET_DELEGATION, ffffffff, ?, Processing Action From AI to AI
+230, 2, 3, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+230, 2, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+230, 2, 3, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+232, 5, 2, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+232, 5, 2, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+232, 5, 2, -1, DIPLOMATIC_WARNING, NONE, INITIAL, Requesting session between two AIs!
+232, 2, 0, -1, FIRST_MEET_NEAR_INITIATOR, NONE, 00000000, Requesting Session (B)
+232, 2, 0, 2, FIRST_MEET_NEAR_INITIATOR, NONE, INITIAL, Adding to pending
+232, 2, 0, 2, FIRST_MEET_NEAR_INITIATOR, NONE, INITIAL, Processing Statement
+232, 2, 0, 2, FIRST_MEET_NEAR_INITIATOR, NONE, INITIAL, Processing Immediately
+232, 0, 2, 2, FIRST_MEET_NEAR_INITIATOR, NONE, POSITIVE, Adding to pending
+232, 0, 2, 2, FIRST_MEET_NEAR_INITIATOR, NONE, POSITIVE, Broadcasting
+232, 0, 2, 2, FIRST_MEET_NEAR_INITIATOR, NONE, POSITIVE, Processing Statement
+232, 0, 2, 2, FIRST_MEET_NEAR_INITIATOR, NONE, POSITIVE, Processing Immediately
+232, 0, 2, ?, STATEMENT_RESULT, ffffffff, ?, Sending Action
+232, 2, 0, 2, FIRST_MEET_NEAR_INITIATOR, POSITIVE, POSITIVE, Adding to pending
+232, 2, 0, 2, FIRST_MEET_NEAR_INITIATOR, POSITIVE, POSITIVE, Processing Statement
+232, 2, 0, 2, FIRST_MEET_NEAR_INITIATOR, POSITIVE, POSITIVE, Processing Immediately
+232, 0, 2, ?, STATEMENT_RESULT, ffffffff, ?, Processing Action
+232, 5, 4, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, 00000000, Requesting Session (B)
+232, 5, 4, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+232, 5, 4, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, INITIAL, Requesting session between two AIs!
+234, 1, 2, ?, SET_WAR_STATE, ffffffff, ?, Processing Action From AI to AI
+234, 5, 2, ?, SET_WAR_STATE, ffffffff, ?, Processing Action From AI to AI
+234, 5, 2, ?, SET_WAR_STATE, ffffffff, ?, Processing Action From AI to AI
+234, 1, 2, ?, SET_WAR_STATE, ffffffff, ?, Processing Action From AI to AI
+234, 2, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+234, 2, 0, 2, DENOUNCE, NONE, 00000000, Requesting Session (B)
+234, 2, 0, 2, DENOUNCE, NONE, INITIAL, Adding to pending
+234, 2, 3, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+234, 2, 0, 2, DENOUNCE, NONE, INITIAL, Processing Statement
+234, 2, 0, 2, DENOUNCE, NONE, INITIAL, Processing Immediately
+237, 2, 4, ?, SET_EMBASSY, ffffffff, ?, Processing Action From AI to AI
+238, 1, 4, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+238, 1, 4, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+238, 1, 4, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+238, 2, 3, ?, SET_EMBASSY, ffffffff, ?, Processing Action From AI to AI
+238, 4, 2, ?, SET_DELEGATION, ffffffff, ?, Processing Action From AI to AI
+239, 3, 2, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, 00000000, Requesting Session (B)
+239, 3, 2, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+239, 3, 2, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, INITIAL, Requesting session between two AIs!
+241, 1, 5, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, 00000000, Requesting Session (B)
+241, 1, 5, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+241, 1, 5, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, INITIAL, Requesting session between two AIs!
+241, 4, 3, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+241, 4, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+241, 4, 3, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+241, 5, 1, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, 00000000, Requesting Session (B)
+241, 5, 1, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+241, 5, 1, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, INITIAL, Requesting session between two AIs!
+242, 1, 4, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+242, 1, 4, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+242, 1, 4, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+242, 2, 0, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+242, 2, 0, 2, DIPLOMATIC_KUDO, NONE, INITIAL, Adding to pending
+242, 2, 0, 2, DIPLOMATIC_KUDO, NONE, INITIAL, Processing Statement
+242, 2, 0, 2, DIPLOMATIC_KUDO, NONE, INITIAL, Processing Immediately
+243, 1, 5, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+243, 1, 5, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+243, 1, 5, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+243, 2, 3, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+243, 3, 2, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+243, 3, 2, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+243, 3, 2, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+246, 1, 3, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to AI
+247, 1, 3, -1, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, 00000000, Requesting Session (B)
+247, 1, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+247, 1, 3, -1, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, INITIAL, Requesting session between two AIs!
+248, 1, 4, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+249, 3, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+249, 3, 0, 3, DENOUNCE, NONE, 00000000, Requesting Session (B)
+249, 3, 0, 3, DENOUNCE, NONE, INITIAL, Adding to pending
+249, 3, 0, 3, DENOUNCE, NONE, INITIAL, Processing Statement
+249, 3, 0, 3, DENOUNCE, NONE, INITIAL, Processing Immediately
+249, 4, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+249, 4, 0, 4, DENOUNCE, NONE, 00000000, Requesting Session (B)
+249, 4, 0, 4, DENOUNCE, NONE, INITIAL, Adding to pending
+249, 4, 0, 4, DENOUNCE, NONE, INITIAL, Processing Statement
+249, 4, 0, 4, DENOUNCE, NONE, INITIAL, Processing Immediately
+251, 4, 2, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+251, 4, 2, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+251, 4, 2, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+252, 1, 5, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+252, 4, 1, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+252, 4, 1, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+252, 4, 1, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+252, 5, 0, -1, FIRST_MEET_NEAR_INITIATOR, NONE, 00000000, Requesting Session (B)
+252, 5, 0, 5, FIRST_MEET_NEAR_INITIATOR, NONE, INITIAL, Adding to pending
+252, 5, 0, 5, FIRST_MEET_NEAR_INITIATOR, NONE, INITIAL, Processing Statement
+252, 5, 0, 5, FIRST_MEET_NEAR_INITIATOR, NONE, INITIAL, Processing Immediately
+252, 0, 5, 5, FIRST_MEET_NEAR_INITIATOR, NONE, POSITIVE, Adding to pending
+252, 0, 5, 5, FIRST_MEET_NEAR_INITIATOR, NONE, POSITIVE, Broadcasting
+252, 0, 5, 5, FIRST_MEET_NEAR_INITIATOR, NONE, POSITIVE, Processing Statement
+252, 0, 5, 5, FIRST_MEET_NEAR_INITIATOR, NONE, POSITIVE, Processing Immediately
+252, 0, 5, ?, STATEMENT_RESULT, ffffffff, ?, Sending Action
+252, 5, 0, 5, FIRST_MEET_NEAR_INITIATOR, POSITIVE, POSITIVE, Adding to pending
+252, 5, 0, 5, FIRST_MEET_NEAR_INITIATOR, POSITIVE, POSITIVE, Processing Statement
+252, 5, 0, 5, FIRST_MEET_NEAR_INITIATOR, POSITIVE, POSITIVE, Processing Immediately
+252, 0, 5, ?, STATEMENT_RESULT, ffffffff, ?, Processing Action
+253, 1, 3, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, 00000000, Requesting Session (B)
+253, 1, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+253, 1, 3, -1, DIPLOMATIC_HIDDEN_AGENDA_KUDO, NONE, INITIAL, Requesting session between two AIs!
+254, 5, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+254, 5, 0, 5, DENOUNCE, NONE, 00000000, Requesting Session (B)
+254, 5, 0, 5, DENOUNCE, NONE, INITIAL, Adding to pending
+254, 5, 0, 5, DENOUNCE, NONE, INITIAL, Processing Statement
+254, 5, 0, 5, DENOUNCE, NONE, INITIAL, Processing Immediately
+256, 5, 1, ?, SET_EMBASSY, ffffffff, ?, Processing Action From AI to AI
+258, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+258, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+258, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+258, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+258, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+258, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+258, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+258, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+258, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+258, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+258, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+261, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+261, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+261, 1, 5, ?, SET_EMBASSY, ffffffff, ?, Processing Action From AI to AI
+261, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+261, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+261, 4, 0, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+261, 4, 0, 4, DIPLOMATIC_WARNING, NONE, INITIAL, Adding to pending
+261, 4, 0, 4, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Statement
+261, 4, 0, 4, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Immediately
+264, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+264, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+264, 1, 4, ?, SET_EMBASSY, ffffffff, ?, Processing Action From AI to AI
+264, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+264, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+264, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Adding to pending
+264, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Broadcasting
+264, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Statement
+264, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Immediately
+264, 1, 0, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Adding to pending
+264, 1, 0, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Statement
+264, 1, 0, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Immediately
+268, 2, 3, -1, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, 00000000, Requesting Session (B)
+268, 2, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+268, 2, 3, -1, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, INITIAL, Requesting session between two AIs!
+273, 2, 5, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+274, 1, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+274, 1, 0, 1, DENOUNCE, NONE, 00000000, Requesting Session (B)
+274, 1, 0, 1, DENOUNCE, NONE, INITIAL, Adding to pending
+274, 1, 0, 1, DENOUNCE, NONE, INITIAL, Processing Statement
+274, 1, 0, 1, DENOUNCE, NONE, INITIAL, Processing Immediately
+275, 1, 0, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+275, 1, 0, 1, DIPLOMATIC_KUDO, NONE, INITIAL, Adding to pending
+275, 1, 0, 1, DIPLOMATIC_KUDO, NONE, INITIAL, Processing Statement
+275, 1, 0, 1, DIPLOMATIC_KUDO, NONE, INITIAL, Processing Immediately
+276, 1, 0, -1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, 00000000, Requesting Session (B)
+276, 1, 0, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, INITIAL, Adding to pending
+276, 1, 0, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, INITIAL, Processing Statement
+276, 1, 0, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, INITIAL, Processing Immediately
+276, 0, 1, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, NEGATIVE, Adding to pending
+276, 0, 1, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, NEGATIVE, Broadcasting
+276, 0, 1, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, NEGATIVE, Processing Statement
+276, 0, 1, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, NEGATIVE, Processing Immediately
+276, 0, 1, 0, DECLARE_SURPRISE_WAR, NONE, INITIAL, Adding to pending
+276, 0, 1, 0, DECLARE_SURPRISE_WAR, NONE, INITIAL, Broadcasting
+276, 0, 1, 0, DECLARE_SURPRISE_WAR, NONE, INITIAL, Processing Statement
+276, 0, 1, 0, DECLARE_SURPRISE_WAR, NONE, INITIAL, Processing Immediately
+276, 0, 1, ?, SET_WAR_STATE, ffffffff, ?, Sending Action
+276, 1, 0, 0, DECLARE_SURPRISE_WAR, NONE, 00000000, Adding to pending
+276, 1, 0, 0, DECLARE_SURPRISE_WAR, NONE, 00000000, Processing Statement
+276, 1, 0, 0, DECLARE_SURPRISE_WAR, NONE, 00000000, Processing Immediately
+276, 0, 1, ?, SET_WAR_STATE, ffffffff, ?, Processing Action
+276, 3, 0, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+276, 3, 0, 3, DIPLOMATIC_WARNING, NONE, INITIAL, Adding to pending
+276, 3, 0, 3, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Statement
+276, 3, 0, 3, DIPLOMATIC_WARNING, NONE, INITIAL, Adding To Queue
+276, 3, 0, 3, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Queued Statement
+277, 1, 3, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to AI
+277, 2, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+277, 2, 0, 2, MAKE_DEAL, NONE, INITIAL, Adding to pending
+277, 2, 5, ?, SET_EMBASSY, ffffffff, ?, Processing Action From AI to AI
+277, 2, 0, 2, MAKE_DEAL, NONE, INITIAL, Processing Statement
+277, 2, 0, 2, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+277, 0, 2, 2, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Adding to pending
+277, 0, 2, 2, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Broadcasting
+277, 0, 2, 2, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Statement
+277, 0, 2, 2, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Immediately
+277, 2, 0, 2, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Adding to pending
+277, 2, 0, 2, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Statement
+277, 2, 0, 2, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Immediately
+280, 3, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+280, 3, 0, 3, DENOUNCE, NONE, 00000000, Requesting Session (B)
+280, 3, 0, 3, DENOUNCE, NONE, INITIAL, Adding to pending
+280, 3, 0, 3, DENOUNCE, NONE, INITIAL, Processing Statement
+280, 3, 0, 3, DENOUNCE, NONE, INITIAL, Processing Immediately
+280, 4, 2, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+280, 4, 2, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+280, 4, 2, -1, DIPLOMATIC_WARNING, NONE, INITIAL, Requesting session between two AIs!
+280, 4, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+280, 4, 0, 4, DENOUNCE, NONE, 00000000, Requesting Session (B)
+280, 4, 0, 4, DENOUNCE, NONE, INITIAL, Adding to pending
+280, 4, 0, 4, DENOUNCE, NONE, INITIAL, Processing Statement
+280, 4, 0, 4, DENOUNCE, NONE, INITIAL, Processing Immediately
+280, 5, 2, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to AI
+281, 3, 2, ?, SET_EMBASSY, ffffffff, ?, Processing Action From AI to AI
+282, 5, 0, -1, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, 00000000, Requesting Session (B)
+282, 5, 0, 5, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, INITIAL, Adding to pending
+282, 5, 0, 5, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, INITIAL, Processing Statement
+282, 5, 0, 5, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, INITIAL, Processing Immediately
+283, 1, 5, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+283, 4, 0, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+283, 4, 0, 4, DIPLOMATIC_WARNING, NONE, INITIAL, Adding to pending
+283, 4, 0, 4, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Statement
+283, 4, 0, 4, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Immediately
+283, 5, 1, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+285, 5, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+285, 5, 0, 5, DENOUNCE, NONE, 00000000, Requesting Session (B)
+285, 5, 0, 5, DENOUNCE, NONE, INITIAL, Adding to pending
+285, 5, 0, 5, DENOUNCE, NONE, INITIAL, Processing Statement
+285, 5, 0, 5, DENOUNCE, NONE, INITIAL, Processing Immediately
+286, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+286, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+286, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+286, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+286, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+286, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+286, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+286, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+286, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+286, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+286, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+288, 3, 4, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+288, 3, 4, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+288, 3, 4, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+289, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+289, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+289, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+289, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+289, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+289, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+289, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+289, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+289, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+289, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+289, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+289, 2, 3, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+289, 2, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+289, 2, 3, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+290, 3, 1, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+290, 3, 1, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+290, 3, 1, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+290, 2, 5, -1, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, 00000000, Requesting Session (B)
+290, 2, 5, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+290, 2, 5, -1, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, INITIAL, Requesting session between two AIs!
+291, 1, 4, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+292, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+292, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+292, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+292, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+292, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+292, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+292, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+292, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+292, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+292, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+292, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+293, 5, 4, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+293, 5, 4, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+293, 5, 4, -1, DIPLOMATIC_WARNING, NONE, INITIAL, Requesting session between two AIs!
+295, 1, 4, -1, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, 00000000, Requesting Session (B)
+295, 1, 4, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+295, 1, 4, -1, DIPLOMATIC_HIDDEN_AGENDA_WARNING, NONE, INITIAL, Requesting session between two AIs!
+295, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+295, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+295, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+295, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 0, 1, 1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Adding to pending
+295, 0, 1, 1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Broadcasting
+295, 0, 1, 1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 0, 1, 1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+295, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+295, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+295, 4, 0, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+295, 4, 0, 4, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Adding to pending
+295, 4, 0, 4, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Processing Statement
+295, 4, 0, 4, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Processing Immediately
+295, 0, 4, 4, WARNING_DONT_SETTLE_NEAR_ME, NONE, POSITIVE, Adding to pending
+295, 0, 4, 4, WARNING_DONT_SETTLE_NEAR_ME, NONE, POSITIVE, Broadcasting
+295, 0, 4, 4, WARNING_DONT_SETTLE_NEAR_ME, NONE, POSITIVE, Processing Statement
+295, 0, 4, 4, WARNING_DONT_SETTLE_NEAR_ME, NONE, POSITIVE, Processing Immediately
+295, 4, 0, 4, WARNING_DONT_SETTLE_NEAR_ME, POSITIVE, POSITIVE, Adding to pending
+295, 4, 0, ?, MAKE_PROMISE, fadf5055, ?, Sending Action
+295, 4, 0, 4, WARNING_DONT_SETTLE_NEAR_ME, POSITIVE, POSITIVE, Processing Statement
+295, 4, 0, 4, WARNING_DONT_SETTLE_NEAR_ME, POSITIVE, POSITIVE, Processing Immediately
+295, 4, 0, ?, MAKE_PROMISE, ffffffff, ?, Processing Action
+296, 1, 4, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+296, 1, 4, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+296, 1, 4, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+298, 1, 5, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+298, 1, 5, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+298, 1, 5, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+298, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+298, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+298, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+298, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 0, 1, 1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Adding to pending
+298, 0, 1, 1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Broadcasting
+298, 0, 1, 1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 0, 1, 1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+298, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+298, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+298, 3, 5, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+298, 3, 5, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+298, 3, 5, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+301, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+301, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+301, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+301, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+301, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Processing Statement
+301, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Processing Immediately
+301, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+301, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+301, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+301, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+301, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+301, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+301, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 0, 1, -1, MAKE_DEAL, NONE, INITIAL, Requesting Session (A)
+302, 0, 1, 0, MAKE_DEAL, NONE, INITIAL, Adding to pending
+302, 0, 1, 0, MAKE_DEAL, NONE, INITIAL, Broadcasting
+302, 0, 1, 0, MAKE_DEAL, NONE, INITIAL, Processing Statement
+302, 0, 1, 0, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, NONE, ACKNOWLEDGE, Adding to pending
+302, 1, 0, 0, MAKE_DEAL, NONE, ACKNOWLEDGE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, NONE, ACKNOWLEDGE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, NONE, 00000000, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, NONE, 00000000, Processing Immediately
+302, 0, 1, -1, MAKE_DEAL, NONE, INITIAL, Requesting Session (A)
+302, 0, 1, 0, MAKE_DEAL, NONE, INITIAL, Adding to pending
+302, 0, 1, 0, MAKE_DEAL, NONE, INITIAL, Broadcasting
+302, 0, 1, 0, MAKE_DEAL, NONE, INITIAL, Processing Statement
+302, 0, 1, 0, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, NONE, ACKNOWLEDGE, Adding to pending
+302, 1, 0, 0, MAKE_DEAL, NONE, ACKNOWLEDGE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, NONE, ACKNOWLEDGE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_ACCEPT_DEAL, POSITIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Statement
+302, 1, 0, 0, MAKE_DEAL, AI_REFUSE_DEAL, NEGATIVE, Processing Immediately
+302, 4, 5, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+302, 4, 5, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+302, 4, 5, -1, DIPLOMATIC_WARNING, NONE, INITIAL, Requesting session between two AIs!
+303, 4, 3, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+303, 4, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+303, 4, 3, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+304, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+304, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+304, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+304, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+304, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+304, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+304, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+304, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+304, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+304, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+304, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+304, 3, 2, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+304, 3, 2, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+304, 3, 2, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+304, 3, 2, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+306, 4, 2, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+306, 4, 2, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+306, 4, 2, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+307, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+307, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+307, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+307, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+307, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+307, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+307, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+307, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+307, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+307, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+307, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+307, 5, 4, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to AI
+308, 4, 3, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to AI
+310, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+310, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+310, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+310, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+310, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+310, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+310, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+310, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+310, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+310, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+310, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+311, 1, 3, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to AI
+311, 3, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+311, 3, 0, 3, DENOUNCE, NONE, 00000000, Requesting Session (B)
+311, 3, 0, 3, DENOUNCE, NONE, INITIAL, Adding to pending
+311, 3, 0, 3, DENOUNCE, NONE, INITIAL, Processing Statement
+311, 3, 0, 3, DENOUNCE, NONE, INITIAL, Processing Immediately
+311, 4, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+311, 4, 0, 4, DENOUNCE, NONE, 00000000, Requesting Session (B)
+311, 4, 0, 4, DENOUNCE, NONE, INITIAL, Adding to pending
+311, 4, 0, 4, DENOUNCE, NONE, INITIAL, Processing Statement
+311, 4, 0, 4, DENOUNCE, NONE, INITIAL, Processing Immediately
+311, 5, 2, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to AI
+313, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+313, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+313, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+313, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+313, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Adding to pending
+313, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Broadcasting
+313, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Statement
+313, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Immediately
+313, 1, 0, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Adding to pending
+313, 1, 0, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Statement
+313, 1, 0, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Immediately
+314, 1, 5, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+314, 5, 1, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+316, 5, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+316, 5, 0, 5, DENOUNCE, NONE, 00000000, Requesting Session (B)
+316, 5, 0, 5, DENOUNCE, NONE, INITIAL, Adding to pending
+316, 5, 0, 5, DENOUNCE, NONE, INITIAL, Processing Statement
+316, 5, 0, 5, DENOUNCE, NONE, INITIAL, Processing Immediately
+317, 4, 0, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+317, 4, 0, 4, DIPLOMATIC_WARNING, NONE, INITIAL, Adding to pending
+317, 4, 0, 4, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Statement
+317, 4, 0, 4, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Immediately
+319, 3, 2, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+319, 3, 2, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+319, 3, 2, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+322, 1, 0, -1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, 00000000, Requesting Session (B)
+322, 1, 0, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, INITIAL, Adding to pending
+322, 1, 0, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, INITIAL, Processing Statement
+322, 1, 0, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, INITIAL, Processing Immediately
+322, 0, 1, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, POSITIVE, Adding to pending
+322, 0, 1, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, POSITIVE, Broadcasting
+322, 0, 1, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, POSITIVE, Processing Statement
+322, 0, 1, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, POSITIVE, Processing Immediately
+322, 1, 0, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, POSITIVE, POSITIVE, Adding to pending
+322, 1, 0, ?, MAKE_PROMISE, 46209c01, ?, Sending Action
+322, 1, 0, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, POSITIVE, POSITIVE, Processing Statement
+322, 1, 0, 1, WARNING_TOO_MANY_TROOPS_NEAR_ME, POSITIVE, POSITIVE, Processing Immediately
+322, 1, 0, ?, MAKE_PROMISE, ffffffff, ?, Processing Action
+322, 4, 1, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+322, 5, 3, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+323, 0, 1, -1, DECLARE_SURPRISE_WAR, NONE, INITIAL, Requesting Session (A)
+323, 0, 1, 0, DECLARE_SURPRISE_WAR, NONE, INITIAL, Adding to pending
+323, 0, 1, 0, DECLARE_SURPRISE_WAR, NONE, INITIAL, Broadcasting
+323, 0, 1, 0, DECLARE_SURPRISE_WAR, NONE, INITIAL, Processing Statement
+323, 0, 1, 0, DECLARE_SURPRISE_WAR, NONE, INITIAL, Processing Immediately
+323, 0, 1, ?, SET_WAR_STATE, ffffffff, ?, Sending Action
+323, 1, 0, 0, DECLARE_SURPRISE_WAR, NONE, 00000000, Adding to pending
+323, 1, 0, 0, DECLARE_SURPRISE_WAR, NONE, 00000000, Processing Statement
+323, 1, 0, 0, DECLARE_SURPRISE_WAR, NONE, 00000000, Processing Immediately
+323, 0, 1, ?, SET_WAR_STATE, ffffffff, ?, Processing Action
+323, 3, 0, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+323, 3, 0, 3, DIPLOMATIC_WARNING, NONE, INITIAL, Adding to pending
+323, 3, 0, 3, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Statement
+323, 3, 0, 3, DIPLOMATIC_WARNING, NONE, INITIAL, Adding To Queue
+323, 3, 0, 3, DIPLOMATIC_WARNING, NONE, INITIAL, Processing Queued Statement
+323, 1, 3, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+323, 1, 3, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+323, 1, 3, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+324, 1, 3, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+324, 1, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+324, 1, 3, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+324, 1, 5, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+324, 1, 5, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+324, 1, 5, -1, DIPLOMATIC_WARNING, NONE, INITIAL, Requesting session between two AIs!
+324, 2, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+324, 2, 0, 2, DENOUNCE, NONE, 00000000, Requesting Session (B)
+324, 2, 0, 2, DENOUNCE, NONE, INITIAL, Adding to pending
+324, 2, 0, 2, DENOUNCE, NONE, INITIAL, Processing Statement
+324, 2, 0, 2, DENOUNCE, NONE, INITIAL, Processing Immediately
+327, 4, 3, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+327, 4, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+327, 4, 3, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+327, 3, 4, -1, WARNING_STOP_CONVERTING_MY_CITIES, NONE, 00000000, Requesting Session (B)
+327, 3, 4, ?, MAKE_PROMISE, ef5ea8c1, ?, Processing Action From AI to AI
+327, 3, 4, -1, WARNING_STOP_CONVERTING_MY_CITIES, NONE, INITIAL, Requesting session between two AIs!
+327, 5, 3, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+330, 1, 5, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+330, 1, 5, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+330, 1, 5, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+333, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+333, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+333, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+333, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+333, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+333, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+333, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+333, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+333, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+333, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+333, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+333, 4, 2, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+333, 4, 2, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+333, 4, 2, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+336, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+336, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+336, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+336, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+336, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+336, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+336, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+336, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+336, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+336, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+336, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+337, 5, 3, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+337, 5, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+337, 5, 3, -1, DIPLOMATIC_WARNING, NONE, INITIAL, Requesting session between two AIs!
+338, 5, 4, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to AI
+339, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+339, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+339, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+339, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+339, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+339, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+339, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+339, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+339, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+339, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+339, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+342, 1, 3, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to AI
+342, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+342, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+342, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+342, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+342, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+342, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+342, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+342, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+342, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+342, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+342, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+342, 3, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+342, 3, 0, 3, DENOUNCE, NONE, 00000000, Requesting Session (B)
+342, 3, 0, 3, DENOUNCE, NONE, INITIAL, Adding to pending
+342, 3, 0, 3, DENOUNCE, NONE, INITIAL, Processing Statement
+342, 3, 0, 3, DENOUNCE, NONE, INITIAL, Processing Immediately
+342, 4, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+342, 4, 0, 4, DENOUNCE, NONE, 00000000, Requesting Session (B)
+342, 4, 0, 4, DENOUNCE, NONE, INITIAL, Adding to pending
+342, 4, 0, 4, DENOUNCE, NONE, INITIAL, Processing Statement
+342, 4, 0, 4, DENOUNCE, NONE, INITIAL, Processing Immediately
+345, 1, 3, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+345, 1, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+345, 1, 3, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+345, 1, 4, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+345, 1, 4, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+345, 1, 4, -1, DIPLOMATIC_WARNING, NONE, INITIAL, Requesting session between two AIs!
+345, 5, 1, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+345, 5, 1, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+345, 5, 1, -1, DIPLOMATIC_WARNING, NONE, INITIAL, Requesting session between two AIs!
+345, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+345, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+345, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+345, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+345, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+345, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+345, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+345, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+345, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+345, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+345, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+346, 1, 5, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+347, 5, 0, ?, DENOUNCE, ffffffff, ?, Processing Action From AI to Human
+347, 5, 0, 5, DENOUNCE, NONE, 00000000, Requesting Session (B)
+347, 5, 0, 5, DENOUNCE, NONE, INITIAL, Adding to pending
+347, 5, 0, 5, DENOUNCE, NONE, INITIAL, Processing Statement
+347, 5, 0, 5, DENOUNCE, NONE, INITIAL, Processing Immediately
+348, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+348, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+348, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+348, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+348, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Adding to pending
+348, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Broadcasting
+348, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Statement
+348, 0, 1, 1, MAKE_DEAL, NONE, NEGATIVE, Processing Immediately
+348, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Adding to pending
+348, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Statement
+348, 1, 0, 1, MAKE_DEAL, HUMAN_REFUSE_DEAL, NEGATIVE, Processing Immediately
+349, 1, 4, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+349, 1, 4, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+349, 1, 4, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+349, 3, 4, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, 00000000, Requesting Session (B)
+349, 3, 4, ?, MAKE_PROMISE, fadf5055, ?, Processing Action From AI to AI
+349, 3, 4, -1, WARNING_DONT_SETTLE_NEAR_ME, NONE, INITIAL, Requesting session between two AIs!
+350, 3, 5, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+350, 3, 5, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+350, 3, 5, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+350, 3, 5, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!
+351, 1, 5, ?, DECLARE_FRIEND, ffffffff, ?, Processing Action From AI to AI
+351, 1, 0, -1, MAKE_DEAL, NONE, 00000000, Requesting Session (B)
+351, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Adding to pending
+351, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Statement
+351, 1, 0, 1, MAKE_DEAL, NONE, INITIAL, Processing Immediately
+351, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Adding to pending
+351, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Broadcasting
+351, 1, 0, -1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, 00000000, Requesting Session (B)
+351, 1, 0, -1, WARNING_TOO_MANY_TROOPS_NEAR_ME, NONE, 00000000, Already has open session!
+351, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Statement
+351, 0, 1, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Immediately
+351, 1, 0, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Adding to pending
+351, 1, 0, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Statement
+351, 1, 0, 1, MAKE_DEAL, HUMAN_ACCEPT_DEAL, POSITIVE, Processing Immediately
+351, 4, 5, -1, DIPLOMATIC_WARNING, NONE, 00000000, Requesting Session (B)
+351, 4, 5, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+351, 4, 5, -1, DIPLOMATIC_WARNING, NONE, INITIAL, Requesting session between two AIs!
+352, 4, 3, -1, DIPLOMATIC_KUDO, NONE, 00000000, Requesting Session (B)
+352, 4, 3, ?, MAKE_PROMISE, ffffffff, ?, Processing Action From AI to AI
+352, 4, 3, -1, DIPLOMATIC_KUDO, NONE, INITIAL, Requesting session between two AIs!

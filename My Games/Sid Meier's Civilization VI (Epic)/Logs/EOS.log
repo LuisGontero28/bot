@@ -1,0 +1,74 @@
+[2021-06-03 23:05:00]	[LogFXS] : Auth Login Type = 5, ID = , Token = eyJ0IjoiZXBpY19pZCIsImFsZyI6IlJTMjU2Iiwia2lkIjoiV01TN0Vua0lHcGNIOURHWnN2MldjWTl4c3VGblpDdHhaamo0QWhiLV84RSJ9.eyJzdWIiOiI5MjM5YTUwNjhjOWU0YWRmYmZlNzE3YzJmOGQ5ZDgxZCIsInBmc2lkIjoiY2QxNGRjYWE0ZjM0NDNmMTlmNzE2OWE5ODA1NTljNjIiLCJpc3MiOiJodHRwczpcL1wvYXBpLmVwaWNnYW1lcy5kZXZcL2VwaWNcL29hdXRoXC92MSIsImRuIjoic25ha2llcnBpcGkiLCJwZnBpZCI6IjgzMWFkNzM4NTQ3ZTQ2ZTE5NWY4N2Q1NGU5OGI4ZTc5IiwiYXVkIjoiMGE0MDU2YzYwY2ZkNGUxZjlmMjg3OTVlNTI5Y2QwYzMiLCJwZmRpZCI6IjFkNDQwZTVjZmM0MDQyYzRiYmVhOWVjMWU1NzI3M2RlIiwidCI6ImVwaWNfaWQiLCJhcHBpZCI6ImZnaGk0NTY3aWFIQWRnN2VHMkdTUnZ2OFhwdDVvalZoIiwic2NvcGUiOiJiYXNpY19wcm9maWxlIGZyaWVuZHNfbGlzdCBwcmVzZW5jZSIsImV4cCI6MTYyMjgwMTA5OCwiaWF0IjoxNjIyNzcyMjk4LCJqdGkiOiJmNWM2OGVmOWNkNzM0ZTdiYmJmYzljYWIzNmQyZmQ2YiJ9.bK9qovgZKo2fojdOdn1_8LVFe7ofkFpoTJShRdtGd6DoIfDN2LyAcSMEUraJMbvYFuvDEMwhRkqgsz9M4cu71ZrsdTuOf9YLJnIUsfFY6C2mynZzxZyjtyspUCNrMBFuExFM3sGwgPxPnEWX0Niy1H_pCoEzJonhP5oxuky9Ej2PjXaSiqzmrjpAd7D73lfLleF8DopltyMQ3_oRlvWcCIBPepzTbxduVrNdpisDQZQ4-3lm44sx_bNl0ZClXkB8FRk6wXCzfXlw7xnBVJWSSHnpMMDjnYb5pcVlYwT7zseBniSuJj1ohPrS1e3YdgQN50HGdDlXjoPzvjgJbdn9Ag
+[2021-06-03 23:05:00]	[LogFXS] : Calling EOS_Auth_Login
+[2021-06-03 23:05:02]	[LogFXS] : Authorization Successful. AccountID = [923...81d]
+[2021-06-03 23:05:19]	[LogEOSMessaging] : Attempting connection to Stomp. LocalUserId=[000...e6b] Url=[<Redacted>]
+[2021-06-03 23:05:26]	[LogEOSUI] : Social Overlay: Loading: <Redacted>
+[2021-06-03 23:05:28]	[LogEOSMessaging] : Succesfully connected to Stomp. LocalUserId=[000...e6b]
+[2021-06-03 23:05:30]	[LogEOSPresence] : Updating Presence to Online. LocalUserId=[923...81d] RichText=[]
+[2021-06-03 23:05:38]	[LogEOSUI] : Social Overlay: Initial setup of friends overlay: EOS_Success
+[2021-06-03 23:05:51]	[LogEOSPresence] : Updating Presence to Online. LocalUserId=[923...81d] RichText=[]
+[2021-06-03 23:06:32]	[LogEOSPresence] : Updating Presence to Online. LocalUserId=[923...81d] RichText=[]
+[2021-06-03 23:07:39]	[LogEOSPresence] : Updating Presence to Online. LocalUserId=[923...81d] RichText=[]
+[2021-06-03 23:48:17]	[LogStomp] : Received Stomp ERROR. Message=[{"correlationId":"6fc97304-03b0-4aec-8c35-5a6eff0c9f3f","timestamp":1622774898606,"statusCode":4004,"message":"Inactive timeout","type":"core.connect.v1.connect-failed"}]
+[2021-06-03 23:48:17]	[LogEOSMessaging] : Received Stomp Protocol Error Message. LocalUserId=[923...81d] Error=[Inactive timeout]
+[2021-06-03 23:48:17]	[LogEOSMessaging] : Received Stomp Connection Closed Message. LocalUserId=[923...81d] Reason=[Inactive timeout]
+[2021-06-03 23:48:19]	[LogEOSPresence] : Updating Presence to Online. LocalUserId=[923...81d] RichText=[]
+[2021-06-04 00:04:18]	[LogFXS] : Auth Expired, Reconnect.
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v1/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: request failed, libcurl error: 0 (No error)
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0xcb07bc80 [can pipeline])
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: libcurl info message cache 1 (Re-using existing connection! (#31) with host api.epicgames.dev)
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: libcurl info message cache 2 (Connected to api.epicgames.dev (54.158.176.134) port 443 (#31))
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: libcurl info message cache 7 (Closing connection 31)
+[2021-06-04 00:42:35]	[LogHttp] : 00000000BDD82AA0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021-06-04 00:42:35]	[LogHttp] : Retry exhausted on https://api.epicgames.dev/epic/oauth/v1/tokenInfo
+[2021-06-04 00:42:35]	[LogEOSAuth] : Failed to parse response UTC time, using local calculation
+[2021-06-04 01:03:17]	[LogFXS] : Auth Expired, Reconnect.
+[2021-06-04 01:03:23]	[LogEOSAuth] : NewUserToken: User ClientId: 0a4...0c3 AccountId: 923...81d Access[Expires: 2021.06.04-06.03.24 Remaining: 7200.16] Refresh[Expires: 2021-06-04T12:03:24.162Z Remaining: 28800.16] State: Valid
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v1/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x14b67e80 [can pipeline])
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: libcurl info message cache 1 (Re-using existing connection! (#39) with host api.epicgames.dev)
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: libcurl info message cache 2 (Connected to api.epicgames.dev (52.7.172.59) port 443 (#39))
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021-06-04 01:14:34]	[LogHttp] : 00000000BDD78210: libcurl info message cache 7 (Closing connection 39)
+[2021-06-04 01:14:34]	[LogHttp] : Retry exhausted on https://api.epicgames.dev/epic/oauth/v1/tokenInfo
+[2021-06-04 01:14:34]	[LogEOSAuth] : Failed to parse response UTC time, using local calculation
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v1/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: request failed, libcurl error: 0 (No error)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 0 (Connection 42 seems to be dead!)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 1 (Closing connection 42)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 3 (Found bundle for host api.epicgames.dev: 0x19baeff0 [can pipeline])
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 4 (Re-using existing connection! (#40) with host api.epicgames.dev)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 5 (Connected to api.epicgames.dev (34.226.55.69) port 443 (#40))
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 6 (We are completely uploaded and fine)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 7 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 8 (Connection died, retrying a fresh connect)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 9 (necessary data rewind wasn't possible)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 10 (Closing connection 40)
+[2021-06-04 01:18:38]	[LogHttp] : 00000000BDD87060: libcurl info message cache 11 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021-06-04 01:18:38]	[LogHttp] : Retry exhausted on https://api.epicgames.dev/epic/oauth/v1/tokenInfo
+[2021-06-04 01:18:38]	[LogEOSAuth] : Failed to parse response UTC time, using local calculation
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v1/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: request failed, libcurl error: 0 (No error)
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: libcurl info message cache 0 (Found bundle for host api.epicgames.dev: 0x19ba5040 [can pipeline])
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: libcurl info message cache 1 (Re-using existing connection! (#52) with host api.epicgames.dev)
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: libcurl info message cache 2 (Connected to api.epicgames.dev (3.225.36.38) port 443 (#52))
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: libcurl info message cache 7 (Closing connection 52)
+[2021-06-04 01:44:08]	[LogHttp] : 00000000BDD77C40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021-06-04 01:44:08]	[LogHttp] : Retry exhausted on https://api.epicgames.dev/epic/oauth/v1/tokenInfo
+[2021-06-04 01:44:08]	[LogEOSAuth] : Failed to parse response UTC time, using local calculation
+[2021-06-04 01:56:47]	[LogFXS] : Epic Online Services Uninitialized
+[2021-06-04 01:56:47]	[LogEOSUI] : Social Overlay: browser was closed. Reopening...

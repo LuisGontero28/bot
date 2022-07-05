@@ -1,0 +1,1649 @@
+Game Turn, Player, Opponent, Modifier, Change, Value, Max, Accum Amt, Accum Turns, Cooldown Turns, Reduction
+227, 1, 0, Tu belicismo, Update,  -62.0
+227, 3, 0, Tu belicismo, Update,  -56.0
+227, 4, 3, Cumplida una promesa diplomática que les hicimos, Activate,    4.0,    4.0,    0.0, 0, 15,   -1.0
+227, 4,  3, Cumplida una promesa diplomática que les hicimos, Deactivate
+227, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+227, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+228, 0, 3, Los hemos denunciado., Update,   -8.0
+228, 1, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+228, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+228, 1, 2, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+228, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+228, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+229, 1, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+229, 1, 0, Tu belicismo, Update,  -61.0
+229, 2, 5, Cumplida una promesa diplomática que les hicimos, Activate,    6.0,    6.0,    0.0, 0, 15,   -1.0
+229, 2,  5, Cumplida una promesa diplomática que les hicimos, Deactivate
+229, 3, 0, Tu belicismo, Update,  -55.0
+229, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+229, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+230, 2, 3, Pedro está complacido con vuestra falta de grandes personajes., Activate,    8.0,    8.0,    1.0, 0, 0,   -1.0
+230, 4, 1, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+230, 3, 1, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+230, 3,  4, Los hemos denunciado., Deactivate
+231, 0, 1, Los hemos denunciado., Update,   -6.0
+231, 1, 0, Tu belicismo, Update,  -60.0
+231, 3, 0, Tu belicismo, Update,  -54.0
+231, 4, 1, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+231, 5, 1, Primeras impresiones sobre ti, Update,    1.0
+232, 5, 2, Qin está disgustado por que tengáis más maravillas que él., Activate,  -12.0,  -12.0,    1.0, 0, 0,    1.0
+232, 0, 2, Gobiernos diferentes, Activate,   -3.0,   -3.0,   -1.0, 1, 0,    1.0
+232, 2, 0, Primeras impresiones sobre ti, Activate,   -2.0,   -2.0,    1.0, 0, 10,    1.0
+232, 2,  0, Primeras impresiones sobre ti, Deactivate
+232, 2, 0, Gobiernos diferentes, Activate,   -3.0,   -3.0,   -1.0, 1, 0,    1.0
+232, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+232, 5, 4, Les complace ver otra civilización devota., Activate,    6.0,    6.0,    1.0, 0, 0,   -1.0
+232, 1, 5, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+232, 2, 5, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+232, 3, 5, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+232, 5, 3, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+232, 5, 1, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+232, 5, 2, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+232, 5, 4, Primeras impresiones sobre ti, Update,    0.0
+233, 1, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+233, 1, 2, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+233, 1, 4, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+233, 1, 0, Tu belicismo, Update,  -59.0
+233, 1, 4, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+233, 4, 1, Comercio favorable con ellos, Activate,    4.0,    4.0,    0.0, 0, 2,   -1.0
+233, 4,  1, Comercio favorable con ellos, Deactivate
+233, 3, 2, El desarrollo de tus tierras, Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+233, 3, 0, Tu belicismo, Update,  -53.0
+233, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+233, 5, 2, Asentado cerca de ellos, Activate,    0.0,    0.0,    0.0, 0, 10,   -1.0
+234, 1, 5, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+234, 5, 1, Luchamos en una guerra conjunta., Activate,    5.0,    5.0,    1.0, 0, 20,   -1.0
+234, 1, 5, Luchamos en una guerra conjunta., Activate,    5.0,    5.0,    1.0, 0, 20,   -1.0
+234, 5, 1, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+234, 2, 1, Tu belicismo, Activate,  -23.0,  -23.0,    1.0, 0, 2,   -1.0
+234, 2,  1, Tu belicismo, Deactivate
+234, 2, 5, Tu belicismo, Activate,  -17.0,  -17.0,    1.0, 0, 2,   -1.0
+234, 2,  5, Tu belicismo, Deactivate
+234, 0, 2, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+234, 0, 3, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+234, 3, 2, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+234, 3, 1, Tu belicismo, Activate,  -23.0,  -23.0,    1.0, 0, 2,   -1.0
+234, 3,  1, Tu belicismo, Deactivate
+234, 3, 5, Tu belicismo, Activate,  -17.0,  -17.0,    1.0, 0, 2,   -1.0
+234, 3,  5, Tu belicismo, Deactivate
+234, 4, 1, Comercio favorable con ellos, Update,    3.0
+235, 0, 1, Tu belicismo, Activate,  -24.0,  -24.0,    1.0, 0, 2,   -1.0
+235, 0,  1, Tu belicismo, Deactivate
+235, 1, 2, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+235, 1, 5, Respeta a los ejércitos poderosos, Activate,  -13.0,  -13.0,    1.0, 0, 0,    1.0
+235, 1, 0, Tu belicismo, Update,  -58.0
+235, 2, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+235, 2, 1, Tu belicismo, Update,  -22.0
+235, 2, 4, Primeras impresiones sobre ti, Update,    0.0
+235, 2, 5, Tu belicismo, Update,  -16.0
+235, 3, 0, Tu belicismo, Update,  -52.0
+235, 3, 1, Tu belicismo, Update,  -22.0
+235, 3, 5, Tu belicismo, Update,  -16.0
+236, 0, 1, Tu belicismo, Activate,  -23.0,  -23.0,    1.0, 0, 2,   -1.0
+236, 0,  1, Tu belicismo, Deactivate
+236, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+236, 1, 4, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+236, 4, 1, Comercio favorable con ellos, Update,    2.0
+237, 0, 1, Tu belicismo, Update,  -22.0
+237, 1, 0, Tu belicismo, Update,  -57.0
+237, 2, 1, Tu belicismo, Update,  -21.0
+237, 2, 5, Tu belicismo, Update,  -15.0
+237, 4, 2, Hemos puesto una embajada permanente ahí., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+237, 3, 0, Tu belicismo, Update,  -51.0
+237, 3, 1, Tu belicismo, Update,  -21.0
+237, 3, 5, Tu belicismo, Update,  -15.0
+238, 1, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+238, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+238, 1, 4, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+238, 1, 0, Cumplida una promesa diplomática que les hicimos, Update,    1.0
+238, 2, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+238, 3, 2, Hemos puesto una embajada permanente ahí., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+238, 4, 1, Comercio favorable con ellos, Update,    1.0
+238, 2, 4, Les hemos enviado una delegación., Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+239, 0, 1, Tu belicismo, Update,  -21.0
+239, 1, 2, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+239, 1, 2, No le gustan las civilizaciones que le superan en exploración., Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+239, 1, 0, Tu belicismo, Update,  -56.0
+239, 2, 1, Tu belicismo, Update,  -20.0
+239, 2, 5, Tu belicismo, Update,  -14.0
+239, 3, 2, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+239, 3, 2, El desarrollo de tus tierras, Activate,   10.0,   10.0,    0.0, 0, 0,    1.0
+239, 3, 0, Tu belicismo, Update,  -50.0
+239, 3, 1, Tu belicismo, Update,  -20.0
+239, 3, 5, Tu belicismo, Update,  -14.0
+240, 3, 4, Los hemos denunciado., Update,   -8.0
+240, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+240, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+240, 4, 1, Comercio favorable con ellos, Update,    0.0
+241, 0, 1, Los hemos denunciado., Update,   -5.0
+241, 0, 1, Tu belicismo, Update,  -20.0
+241, 1, 2, Respeta a los ejércitos poderosos, Activate,   -5.0,   -5.0,    1.0, 0, 0,    1.0
+241, 1, 3, Respeta a los ejércitos poderosos, Activate,   -5.0,   -5.0,    1.0, 0, 0,    1.0
+241, 1, 5, Respeta a los ejércitos poderosos, Activate,   -5.0,   -5.0,    1.0, 0, 0,    1.0
+241, 1, 5, Le complace que otros le dejen la exploración del mundo., Activate,    6.0,    6.0,    1.0, 0, 0,   -1.0
+241, 1, 0, Tu belicismo, Update,  -55.0
+241, 2, 1, Tu belicismo, Update,  -19.0
+241, 2, 5, Tu belicismo, Update,  -13.0
+241, 3, 0, Tu belicismo, Update,  -49.0
+241, 3, 1, Tu belicismo, Update,  -19.0
+241, 3, 5, Tu belicismo, Update,  -13.0
+241, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+241, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+241, 4, 3, Cumplida una promesa diplomática que les hicimos, Update,    3.0
+241, 5, 1, Les complace ver otra civilización devota., Activate,    6.0,    6.0,    1.0, 0, 0,   -1.0
+241, 5, 1, Primeras impresiones sobre ti, Update,    0.0
+241, 5, 2, Cumplida una promesa diplomática que les hicimos, Update,    2.0
+242, 1, 4, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+242, 2, 0, Pedro está complacido con vuestra falta de grandes personajes., Activate,    8.0,    8.0,    1.0, 0, 0,   -1.0
+242, 2, 0, Primeras impresiones sobre ti, Update,   -1.0
+242, 5,  1, Luchamos en una guerra conjunta., Deactivate
+242, 1,  5, Luchamos en una guerra conjunta., Deactivate
+243, 0, 1, Tu belicismo, Update,  -19.0
+243, 1, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+243, 1, 2, Respeta a los ejércitos poderosos, Activate,  -13.0,  -13.0,    1.0, 0, 0,    1.0
+243, 1, 3, Respeta a los ejércitos poderosos, Activate,  -13.0,  -13.0,    1.0, 0, 0,    1.0
+243, 1, 5, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+243, 1, 0, Tu belicismo, Update,  -54.0
+243, 2, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+243, 2, 1, Tu belicismo, Update,  -18.0
+243, 2, 5, Cumplida una promesa diplomática que les hicimos, Update,    5.0
+243, 2, 5, Tu belicismo, Update,  -12.0
+243, 2, 3, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+243, 3, 2, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+243, 3, 2, A Tomiris le gusta el amigo declarado., Activate,    1.0,   12.0,    1.0, 10, 0,   -1.0
+243, 3, 0, Tu belicismo, Update,  -48.0
+243, 3, 1, Tu belicismo, Update,  -18.0
+243, 3, 5, Tu belicismo, Update,  -12.0
+243, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+243, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+243, 5, 3, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+244, 1, 2, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+244, 1, 3, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+244, 1, 2, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+244, 2, 1, Amigo denunciado., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+244, 3, 2, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+245, 0, 1, Tu belicismo, Update,  -18.0
+245, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+245, 1, 4, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+245, 1, 0, Tu belicismo, Update,  -53.0
+245, 2, 1, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+245, 2, 1, Tu belicismo, Update,  -17.0
+245, 2, 5, Tu belicismo, Update,  -11.0
+245, 3, 0, Tu belicismo, Update,  -47.0
+245, 3, 1, Tu belicismo, Update,  -17.0
+245, 3, 5, Tu belicismo, Update,  -11.0
+245, 1, 4, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+245, 2, 4, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+245, 4, 1, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+245, 4, 2, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+245, 4, 5, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+245, 5, 4, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+246, 3,  1, Los hemos denunciado., Deactivate
+246, 2, 1, Amigo denunciado., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+246, 0, 4, Están siguiendo nuestra religión., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+247, 0, 1, Tu belicismo, Update,  -17.0
+247, 1, 3, No le gustan las civilizaciones que le superan en exploración., Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+247, 1, 0, Tu belicismo, Update,  -52.0
+247, 2, 1, Tu belicismo, Update,  -16.0
+247, 2, 5, Tu belicismo, Update,  -10.0
+247, 3, 0, Tu belicismo, Update,  -46.0
+247, 3, 1, Tu belicismo, Update,  -16.0
+247, 3, 5, Tu belicismo, Update,  -10.0
+248, 1, 2, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+248, 1, 3, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+248, 1, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+248, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+248, 1, 4, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+248, 1, 4, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+248, 4, 1, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+248, 2, 4, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+248, 2, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+248, 4, 3, Asentado cerca de ellos, Activate,    0.0,    0.0,    0.0, 0, 10,   -1.0
+248, 5, 3, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+249, 0, 4, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+249, 4, 0, Ocupamos una ciudad perteneciente a sus amigos o aliados., Activate,   -9.0,   -9.0,    1.0, 0, 0,    1.0
+249, 0, 1, Tu belicismo, Update,  -16.0
+249, 1, 2, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+249, 1, 0, Respeta a los ejércitos poderosos, Activate,   -5.0,   -5.0,    1.0, 0, 0,    1.0
+249, 1, 2, Respeta a los ejércitos poderosos, Activate,   -5.0,   -5.0,    1.0, 0, 0,    1.0
+249, 1, 3, Respeta a los ejércitos poderosos, Activate,   -5.0,   -5.0,    1.0, 0, 0,    1.0
+249, 1, 0, Tu belicismo, Update,  -51.0
+249, 2, 5, Asentado cerca de ellos, Activate,    0.0,    0.0,    0.0, 0, 10,   -1.0
+249, 2, 1, Tu belicismo, Update,  -15.0
+249, 2, 5, Tu belicismo, Update,   -9.0
+249, 3, 2, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+249, 3, 0, Tu belicismo, Update,  -45.0
+249, 3, 1, Tu belicismo, Update,  -15.0
+249, 3, 5, Tu belicismo, Update,   -9.0
+249, 0,  3, Los hemos denunciado., Deactivate
+249, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+249, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+249, 0, 4, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+250, 1, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+250, 1, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+250, 2, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+250, 2, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+250, 3, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+250, 3, 4, Los hemos denunciado., Update,   -7.0
+250, 4, 2, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+250, 4, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+251, 0, 1, Los hemos denunciado., Update,   -4.0
+251, 0, 1, Tu belicismo, Update,  -15.0
+251, 1, 0, Tu belicismo, Update,  -50.0
+251, 2, 1, Amigo denunciado., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+251, 2, 1, Tu belicismo, Update,  -14.0
+251, 2, 5, Tu belicismo, Update,   -8.0
+251, 3, 0, Tu belicismo, Update,  -44.0
+251, 3, 1, Tu belicismo, Update,  -14.0
+251, 3, 5, Tu belicismo, Update,   -8.0
+251, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+251, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+252, 3,  0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Deactivate
+252, 1, 4, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+252, 1, 5, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+252, 1, 5, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+252, 5, 1, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+252, 2, 1, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+252, 2, 5, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+252, 2, 0, Primeras impresiones sobre ti, Update,    0.0
+252, 3, 2, A Tomiris le gusta el amigo declarado., Update,    2.0
+252, 4, 5, Amistad declarada con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+252, 4, 1, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+252, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+252, 5, 4, Amistad declarada con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+252, 0, 5, Primeras impresiones sobre ti, Activate,    3.0,    3.0,    1.0, 0, 10,    1.0
+252, 0,  5, Primeras impresiones sobre ti, Deactivate
+252, 0, 5, Alianza con un enemigo., Activate,   -8.0,   -8.0,    0.0, 0, 0,    1.0
+252, 0, 5, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+252, 0, 5, Gobiernos diferentes, Activate,   -3.0,   -3.0,   -1.0, 1, 0,    1.0
+252, 5, 0, Primeras impresiones sobre ti, Activate,   -2.0,   -2.0,    1.0, 0, 10,    1.0
+252, 5,  0, Primeras impresiones sobre ti, Deactivate
+252, 5, 0, Gobiernos diferentes, Activate,   -3.0,   -3.0,   -1.0, 1, 0,    1.0
+252, 1, 5, Comercio favorable con ellos, Activate,    3.0,    3.0,    0.0, 0, 2,   -1.0
+252, 1,  5, Comercio favorable con ellos, Deactivate
+252, 5, 1, Comercio favorable con ellos, Activate,    1.0,    1.0,    0.0, 0, 2,   -1.0
+252, 5,  1, Comercio favorable con ellos, Deactivate
+253, 0, 4, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+253, 5, 0, Ocupamos una ciudad perteneciente a sus amigos o aliados., Activate,   -9.0,   -9.0,    1.0, 0, 0,    1.0
+253, 0, 1, Tu belicismo, Update,  -14.0
+253, 1, 2, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+253, 1, 3, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+253, 1, 4, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+253, 1, 5, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+253, 5, 1, Aliado, Activate,   18.0,   18.0,    1.0, 0, 10,   -1.0
+253, 1, 2, Le complace que otros le dejen la exploración del mundo., Activate,    6.0,    6.0,    1.0, 0, 0,   -1.0
+253, 1, 3, Le complace que otros le dejen la exploración del mundo., Activate,    6.0,    6.0,    1.0, 0, 0,   -1.0
+253, 1, 0, Cumplida una promesa diplomática que les hicimos, Update,    0.0
+253, 1, 0, Tu belicismo, Update,  -49.0
+253, 2, 1, Alianza con un enemigo., Activate,   -8.0,   -8.0,    0.0, 0, 0,    1.0
+253, 2, 5, Alianza con un enemigo., Activate,   -8.0,   -8.0,    0.0, 0, 0,    1.0
+253, 2, 4, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+253, 2, 1, Tu belicismo, Update,  -13.0
+253, 2, 5, Tu belicismo, Update,   -7.0
+253, 3, 0, Tu belicismo, Update,  -43.0
+253, 3, 1, Tu belicismo, Update,  -13.0
+253, 3, 5, Tu belicismo, Update,   -7.0
+253, 4, 5, Alianza con un amigo., Activate,    8.0,    8.0,    0.0, 0, 0,    1.0
+253, 1, 5, Aliado, Activate,   18.0,   18.0,    1.0, 0, 10,   -1.0
+253, 5, 3, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+253, 5, 4, Amistad declarada con un amigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+253, 4, 0, Encuentro amistoso, Activate,    2.0,    2.0,    1.0, 0, 10,   -1.0
+254, 1, 2, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+254, 1, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+254, 1, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+254, 1, 5, Comercio favorable con ellos, Update,    2.0
+254, 2, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+254, 2, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+254, 3, 2, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+254, 3, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+254, 4, 2, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+254, 4, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+254, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+254, 5, 1, Comercio favorable con ellos, Update,    0.0
+254, 0, 5, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+255, 0, 1, Tu belicismo, Update,  -13.0
+255, 1, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+255, 1, 0, Tu belicismo, Update,  -48.0
+255, 2, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+255, 2, 1, Tu belicismo, Update,  -12.0
+255, 2, 5, Tu belicismo, Update,   -6.0
+255, 3, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+255, 3, 0, Tu belicismo, Update,  -42.0
+255, 3, 1, Los hemos denunciado., Update,   -8.0
+255, 3, 1, Tu belicismo, Update,  -12.0
+255, 3, 5, Tu belicismo, Update,   -6.0
+255, 4, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+255, 4, 1, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+255, 5, 2, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+255, 5, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+255, 5, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+256, 0, 5, Alianza con un enemigo., Activate,   -7.0,   -7.0,    0.0, 0, 0,    1.0
+256, 1, 5, Comercio favorable con ellos, Update,    1.0
+256, 2, 1, Alianza con un enemigo., Activate,   -7.0,   -7.0,    0.0, 0, 0,    1.0
+256, 2, 5, Alianza con un enemigo., Activate,   -7.0,   -7.0,    0.0, 0, 0,    1.0
+256, 2, 1, Amigo denunciado., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+256, 4, 5, Alianza con un amigo., Activate,    7.0,    7.0,    0.0, 0, 0,    1.0
+256, 4, 1, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+256, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+256, 4, 3, Cumplida una promesa diplomática que les hicimos, Update,    2.0
+256, 5, 2, Cumplida una promesa diplomática que les hicimos, Update,    1.0
+256, 1, 5, Hemos puesto una embajada permanente ahí., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+257, 0, 5, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+257, 0, 1, Tu belicismo, Update,  -12.0
+257, 1, 0, Tu belicismo, Update,  -47.0
+257, 2, 1, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+257, 2, 5, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+257, 2, 1, Tu belicismo, Update,  -11.0
+257, 2, 5, Tu belicismo, Update,   -5.0
+257, 3, 0, Tu belicismo, Update,  -41.0
+257, 3, 1, Tu belicismo, Update,  -11.0
+257, 3, 5, Tu belicismo, Update,   -5.0
+257, 4, 5, Amistad declarada con un amigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+258, 0, 4, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+258, 1, 2, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+258, 1, 3, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+258, 1, 5, Comercio favorable con ellos, Update,    0.0
+258, 2, 4, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+258, 2, 5, Cumplida una promesa diplomática que les hicimos, Update,    4.0
+258, 5, 3, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+258, 5, 4, Amistad declarada con un amigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+259, 0, 1, Tu belicismo, Update,  -11.0
+259, 0, 3, Los hemos denunciado., Update,   -8.0
+259, 1, 2, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+259, 1, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+259, 1, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+259, 1, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+259, 1, 0, Tu belicismo, Update,  -46.0
+259, 2, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+259, 2, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+259, 2, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+259, 2, 1, Tu belicismo, Update,  -10.0
+259, 2, 5, Tu belicismo, Update,   -4.0
+259, 3, 2, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+259, 3, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+259, 3, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+259, 3, 0, Tu belicismo, Update,  -40.0
+259, 3, 1, Tu belicismo, Update,  -10.0
+259, 3, 5, Tu belicismo, Update,   -4.0
+259, 5, 3, Están siguiendo nuestra religión., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+259, 4, 2, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+259, 4, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+259, 4, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+259, 5, 2, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+259, 5, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+259, 5, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+260, 0, 5, Alianza con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+260, 4, 1, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+260, 1, 4, Comercio favorable con ellos, Activate,    1.0,    1.0,    0.0, 0, 2,   -1.0
+260, 1,  4, Comercio favorable con ellos, Deactivate
+260, 4, 1, Comercio favorable con ellos, Activate,   10.0,   10.0,    0.0, 0, 2,   -1.0
+260, 4,  1, Comercio favorable con ellos, Deactivate
+260, 2, 1, Alianza con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+260, 2, 4, Alianza con un enemigo., Activate,   -8.0,   -8.0,    0.0, 0, 0,    1.0
+260, 2, 5, Alianza con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+260, 3, 4, Los hemos denunciado., Update,   -6.0
+260, 1, 4, Aliado, Activate,   18.0,   18.0,    1.0, 0, 10,   -1.0
+260, 4, 5, Alianza con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+260, 5, 4, Alianza con un amigo., Activate,    8.0,    8.0,    0.0, 0, 0,    1.0
+261, 0, 4, Alianza con un enemigo., Activate,   -8.0,   -8.0,    0.0, 0, 0,    1.0
+261, 0, 1, Los hemos denunciado., Update,   -3.0
+261, 0, 1, Tu belicismo, Update,  -10.0
+261, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+261, 1, 2, Respeta a los ejércitos poderosos, Activate,  -13.0,  -13.0,    1.0, 0, 0,    1.0
+261, 1, 3, Respeta a los ejércitos poderosos, Activate,  -13.0,  -13.0,    1.0, 0, 0,    1.0
+261, 4, 1, Aliado, Activate,   18.0,   18.0,    1.0, 0, 10,   -1.0
+261, 1, 0, Tu belicismo, Update,  -45.0
+261, 5, 1, Hemos puesto una embajada permanente ahí., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+261, 2, 1, Amigo denunciado., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+261, 2, 1, Tu belicismo, Update,   -9.0
+261, 2, 5, Tu belicismo, Update,   -3.0
+261, 3, 0, Tu belicismo, Update,  -39.0
+261, 3, 0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Update,   -9.0
+261, 3, 1, Tu belicismo, Update,   -9.0
+261, 3, 5, Tu belicismo, Update,   -3.0
+261, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+261, 4, 1, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+261, 4, 1, Comercio favorable con ellos, Update,    9.0
+261, 5, 1, Luchamos en una guerra conjunta., Update,    4.0
+262, 0, 5, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+262, 0, 5, Primeras impresiones sobre ti, Update,    2.0
+262, 1, 4, Comercio favorable con ellos, Update,    0.0
+262, 1, 5, Luchamos en una guerra conjunta., Update,    4.0
+262, 2, 1, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+262, 2, 5, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+262, 3, 2, A Tomiris le gusta el amigo declarado., Update,    3.0
+262, 4, 5, Amistad declarada con un amigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+262, 5, 0, Primeras impresiones sobre ti, Update,   -1.0
+263, 0, 4, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+263, 0, 1, Tu belicismo, Update,   -9.0
+263, 1, 2, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+263, 1, 3, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+263, 1, 0, Tu belicismo, Update,  -44.0
+263, 2, 4, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+263, 2, 1, Tu belicismo, Update,   -8.0
+263, 2, 5, Tu belicismo, Update,   -2.0
+263, 3, 0, Tu belicismo, Update,  -38.0
+263, 3, 1, Tu belicismo, Update,   -8.0
+263, 3, 5, Tu belicismo, Update,   -2.0
+263, 4, 1, Comercio favorable con ellos, Update,    8.0
+263, 5, 3, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+263, 5, 4, Amistad declarada con un amigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+264, 0, 4, Alianza con un enemigo., Activate,   -7.0,   -7.0,    0.0, 0, 0,    1.0
+264, 0, 5, Alianza con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+264, 1, 2, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+264, 1, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+264, 1, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+264, 1, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+264, 4, 1, Hemos puesto una embajada permanente ahí., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+264, 1, 0, Encuentro amistoso, Activate,    2.0,    2.0,    1.0, 0, 10,   -1.0
+264, 2, 1, Alianza con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+264, 2, 4, Alianza con un enemigo., Activate,   -7.0,   -7.0,    0.0, 0, 0,    1.0
+264, 2, 5, Alianza con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+264, 2, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+264, 2, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+264, 2, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+264, 3, 2, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+264, 3, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+264, 3, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+264, 4, 5, Alianza con un amigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+264, 4, 2, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+264, 4, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+264, 4, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+264, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+264, 4, 1, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+264, 5, 4, Alianza con un amigo., Activate,    7.0,    7.0,    0.0, 0, 0,    1.0
+264, 5, 2, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+264, 5, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+264, 5, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+265, 0, 4, Alianza con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+265, 0, 5, Alianza con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+265, 0, 4, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+265, 0, 5, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+265, 0, 1, Tu belicismo, Update,   -8.0
+265, 1, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+265, 1, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+265, 1, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+265, 1, 0, Tu belicismo, Update,  -43.0
+265, 2, 1, Tu belicismo, Update,   -7.0
+265, 2, 5, Tu belicismo, Update,   -1.0
+265, 0,  2, Los hemos denunciado., Deactivate
+265, 0, 3, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+265, 3, 0, Tu belicismo, Update,  -37.0
+265, 3, 1, Los hemos denunciado., Update,   -7.0
+265, 3, 1, Tu belicismo, Update,   -7.0
+265, 3, 5, Tu belicismo, Update,   -1.0
+265, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+265, 4, 1, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+265, 4, 1, Comercio favorable con ellos, Update,    7.0
+266, 2, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+266, 2, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+266, 2, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+266, 2, 1, Amigo denunciado., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+267, 0, 1, Tu belicismo, Update,   -7.0
+267, 1, 0, Tu belicismo, Update,  -42.0
+267, 2, 1, Alianza con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+267, 2, 5, Alianza con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+267, 2, 1, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+267, 2, 5, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+267, 2, 1, Tu belicismo, Update,   -6.0
+267, 2, 5, Tu belicismo, Update,    0.0
+267, 3, 0, Tu belicismo, Update,  -36.0
+267, 3, 1, Tu belicismo, Update,   -6.0
+267, 3, 5, Tu belicismo, Update,    0.0
+267, 4, 5, Alianza con un amigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+267, 4, 5, Amistad declarada con un amigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+267, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+267, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+267, 4, 1, Comercio favorable con ellos, Update,    6.0
+268, 1, 2, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+268, 1, 3, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+268, 1, 2, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+268, 2, 4, Alianza con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+268, 2, 4, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+268, 2, 3, No les gustan las civilizaciones con una fuerza aérea débil., Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+268, 5, 4, Alianza con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+268, 5, 3, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+268, 5, 4, Amistad declarada con un amigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+269, 0, 1, Tu belicismo, Update,   -6.0
+269, 1, 0, Tu belicismo, Update,  -41.0
+269, 2, 1, Tu belicismo, Update,   -5.0
+269, 3, 4, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+269, 3, 5, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+269, 3, 0, Tu belicismo, Update,  -35.0
+269, 3, 1, Tu belicismo, Update,   -5.0
+269, 4, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+269, 4, 5, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+269, 4, 1, Comercio favorable con ellos, Update,    5.0
+269, 5, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+269, 5, 4, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+270, 3, 4, Los hemos denunciado., Update,   -5.0
+270, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+270, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+270, 5, 2, Comercio favorable con ellos, Activate,    2.0,    2.0,    0.0, 0, 2,   -1.0
+270, 5,  2, Comercio favorable con ellos, Deactivate
+271, 0, 1, Los hemos denunciado., Update,   -2.0
+271, 0, 1, Tu belicismo, Update,   -5.0
+271, 1, 0, Tu belicismo, Update,  -40.0
+271, 2, 1, Alianza con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+271, 2, 5, Alianza con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+271, 2, 1, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+271, 2, 1, Amigo denunciado., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+271, 2, 1, Tu belicismo, Update,   -4.0
+271, 3, 0, Tu belicismo, Update,  -34.0
+271, 3, 0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Update,   -8.0
+271, 3, 1, Tu belicismo, Update,   -4.0
+271, 4, 5, Alianza con un amigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+271, 4, 1, Comercio favorable con ellos, Update,    4.0
+271, 4, 3, Cumplida una promesa diplomática que les hicimos, Update,    1.0
+271, 5, 3, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+271, 5, 2, Cumplida una promesa diplomática que les hicimos, Update,    0.0
+272, 0, 5, Primeras impresiones sobre ti, Update,    1.0
+272, 1, 4, Cumplida una promesa diplomática que les hicimos, Activate,    4.0,    4.0,    0.0, 0, 15,   -1.0
+272, 1,  4, Cumplida una promesa diplomática que les hicimos, Deactivate
+272, 2, 4, Alianza con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+272, 2, 5, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+272, 3, 2, A Tomiris le gusta el amigo declarado., Update,    4.0
+272, 4, 5, Amistad declarada con un amigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+272, 5, 4, Alianza con un amigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+272, 5, 0, Primeras impresiones sobre ti, Update,    0.0
+272, 5, 2, Comercio favorable con ellos, Update,    1.0
+273, 0, 1, Tu belicismo, Update,   -4.0
+273, 1, 2, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+273, 1, 3, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+273, 1, 0, Tu belicismo, Update,  -39.0
+273, 2, 4, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+273, 2, 1, Tu belicismo, Update,   -3.0
+273, 2, 5, Cumplida una promesa diplomática que les hicimos, Update,    3.0
+273, 3, 0, Tu belicismo, Update,  -33.0
+273, 3, 1, Tu belicismo, Update,   -3.0
+273, 4, 1, Comercio favorable con ellos, Update,    3.0
+273, 5, 4, Amistad declarada con un amigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+274, 0, 1, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+274, 2, 1, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+274, 3,  2, Amigo declarado, Deactivate
+274, 2,  3, Amigo declarado, Deactivate
+274, 3, 1, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+274, 3, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+274, 3, 5, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+274, 4, 1, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+274, 4, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+274, 4, 5, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+274, 1, 4, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+274, 2, 4, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+274, 3, 4, Mismo gobierno, Activate,    3.0,    3.0,    1.0, 0, 0,    1.0
+274, 4, 1, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+274, 4, 2, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+274, 4, 5, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+274, 4, 3, Mismo gobierno, Activate,    3.0,    3.0,    1.0, 0, 0,    1.0
+274, 5, 4, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+274, 5, 1, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+274, 5, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+274, 5, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+274, 5, 2, Comercio favorable con ellos, Update,    0.0
+275, 0, 1, Tu belicismo, Update,   -3.0
+275, 0, 2, Los hemos denunciado., Update,   -8.0
+275, 1, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+275, 1, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+275, 1, 5, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+275, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+275, 1, 3, Respeta a los ejércitos poderosos, Activate,   -8.0,   -8.0,    1.0, 0, 0,    1.0
+275, 1, 4, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+275, 1, 0, Tu belicismo, Update,  -38.0
+275, 2, 4, Alianza con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+275, 2, 5, Alianza con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+275, 2, 1, Tu belicismo, Update,   -2.0
+275, 3, 0, Tu belicismo, Update,  -32.0
+275, 3, 1, Los hemos denunciado., Update,   -6.0
+275, 3, 1, Tu belicismo, Update,   -2.0
+275, 4, 5, Alianza con un amigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+275, 4, 1, Comercio favorable con ellos, Update,    2.0
+275, 5, 4, Alianza con un amigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+276, 1, 0, Mover el ejército cerca de sus ciudades, Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+276, 1, 0, Teníamos tropas en su frontera., Activate,   -2.0,   -2.0,    1.0, 0, 10,    1.0
+276, 1,  0, Encuentro amistoso, Deactivate
+276, 1,  0, Teníamos tropas en su frontera., Deactivate
+276, 3, 0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Activate,  -10.0,  -10.0,    1.0, 0, 10,    1.0
+276, 1, 0, Tu belicismo, Activate,  -65.0,  -65.0,    1.0, 0, 2,   -1.0
+276, 1,  0, Tu belicismo, Deactivate
+276, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    8.0,    8.0,    0.0, 0, 0,    1.0
+276, 2, 0, Tu belicismo, Activate,  -16.0,  -16.0,    1.0, 0, 2,   -1.0
+276, 2,  0, Tu belicismo, Deactivate
+276, 3, 0, Tu belicismo, Activate,  -54.0,  -54.0,    1.0, 0, 2,   -1.0
+276, 3,  0, Tu belicismo, Deactivate
+276, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -8.0,   -8.0,    0.0, 0, 0,    1.0
+276, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -8.0,   -8.0,    0.0, 0, 0,    1.0
+276, 5, 0, Tu belicismo, Activate,  -26.0,  -26.0,    1.0, 0, 2,   -1.0
+276, 5,  0, Tu belicismo, Deactivate
+277, 0, 4, Alianza con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+277, 0, 5, Alianza con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+277, 0, 4, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+277, 0, 5, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+277, 0, 1, Tu belicismo, Update,   -2.0
+277, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+277, 1, 4, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+277, 1, 0, Tu belicismo, Update,  -64.0
+277, 3, 1, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+277, 2, 5, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+277, 2, 0, Tu belicismo, Update,  -15.0
+277, 2, 1, Tu belicismo, Update,   -1.0
+277, 2, 0, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+277, 0, 2, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+277, 2, 0, Comercio favorable con ellos, Activate,    4.0,    4.0,    0.0, 0, 2,   -1.0
+277, 2,  0, Comercio favorable con ellos, Deactivate
+277, 3, 0, Tu belicismo, Update,  -53.0
+277, 3, 1, Tu belicismo, Update,   -1.0
+277, 4, 5, Amistad declarada con un amigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+277, 4, 1, Comercio favorable con ellos, Update,    1.0
+277, 5, 0, Tu belicismo, Update,  -25.0
+278, 0, 4, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+278, 1, 4, Rutas comerciales entre nuestras naciones, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+278, 2, 4, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+278, 4, 1, Rutas comerciales entre nuestras naciones, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+278, 5, 4, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+279, 0, 4, Alianza con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+279, 0, 5, Alianza con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+279, 0, 1, Tu belicismo, Update,   -1.0
+279, 1, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+279, 1, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+279, 1, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+279, 1, 0, Tu belicismo, Update,  -63.0
+279, 2, 4, Alianza con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+279, 2, 5, Alianza con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+279, 2, 0, Comercio favorable con ellos, Update,    3.0
+279, 2, 0, Tu belicismo, Update,  -14.0
+279, 2, 1, Tu belicismo, Update,    0.0
+279, 3, 1, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+279, 3, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+279, 3, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+279, 3, 0, Tu belicismo, Update,  -52.0
+279, 3, 1, Tu belicismo, Update,    0.0
+279, 4, 5, Alianza con un amigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+279, 4, 1, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+279, 4, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+279, 4, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+279, 3, 4, Gobiernos diferentes, Activate,   -7.0,   -7.0,   -1.0, 1, 0,    1.0
+279, 4, 3, Gobiernos diferentes, Activate,   -7.0,   -7.0,   -1.0, 1, 0,    1.0
+279, 4, 1, Comercio favorable con ellos, Update,    0.0
+279, 5, 4, Alianza con un amigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+279, 5, 1, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+279, 5, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+279, 5, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+279, 5, 0, Tu belicismo, Update,  -24.0
+280, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    7.0,    7.0,    0.0, 0, 0,    1.0
+280, 3, 4, Los hemos denunciado., Update,   -4.0
+280, 0,  3, Los hemos denunciado., Deactivate
+280, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -7.0,   -7.0,    0.0, 0, 0,    1.0
+280, 4, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+280, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+280, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+280, 0,  4, Los hemos denunciado., Deactivate
+280, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -7.0,   -7.0,    0.0, 0, 0,    1.0
+280, 5, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+280, 5, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+280, 2, 5, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+281, 0, 1, Tu belicismo, Update,    0.0
+281, 1, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+281, 1, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+281, 1, 5, Enemigo denunciado., Activate,    7.0,    7.0,    0.0, 0, 0,    1.0
+281, 1, 0, Tu belicismo, Update,  -62.0
+281, 2, 0, Comercio favorable con ellos, Update,    2.0
+281, 2, 0, Tu belicismo, Update,  -13.0
+281, 3, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+281, 3, 0, Tu belicismo, Update,  -51.0
+281, 2, 3, Hemos puesto una embajada permanente ahí., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+281, 5, 0, Tu belicismo, Update,  -23.0
+281, 5, 1, Luchamos en una guerra conjunta., Update,    3.0
+282, 0, 5, Alianza con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+282, 0, 5, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+282, 0, 5, Primeras impresiones sobre ti, Update,    0.0
+282, 1, 2, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+282, 1, 5, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+282, 1, 3, Mismo gobierno, Activate,    3.0,    3.0,    1.0, 0, 0,    1.0
+282, 2, 1, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+282, 3, 1, Mismo gobierno, Activate,    3.0,    3.0,    1.0, 0, 0,    1.0
+282, 5, 1, Gobiernos diferentes, Activate,   -4.0,   -4.0,   -1.0, 1, 0,    1.0
+282, 1, 5, Luchamos en una guerra conjunta., Update,    3.0
+282, 2, 5, Alianza con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+282, 2, 5, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+282, 4, 5, Alianza con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+282, 4, 5, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+282, 5, 0, No les gustan las civilizaciones con poca Fe., Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+283, 0, 4, Alianza con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+283, 5,  1, Aliado, Deactivate
+283, 5,  1, Amigo declarado, Deactivate
+283, 1, 0, Tu belicismo, Update,  -61.0
+283, 2, 4, Alianza con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+283, 2, 0, Comercio favorable con ellos, Update,    1.0
+283, 2, 0, Tu belicismo, Update,  -12.0
+283, 3, 0, Tu belicismo, Update,  -50.0
+283, 3, 2, Amigo declarado, Update,    8.0
+283, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+283, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+283, 1,  5, Aliado, Deactivate
+283, 1,  5, Amigo declarado, Deactivate
+283, 5, 4, Alianza con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+283, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+283, 5, 0, Tu belicismo, Update,  -22.0
+284, 0, 5, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+284, 5, 0, Ocupamos una ciudad perteneciente a sus amigos o aliados., Activate,   -9.0,   -9.0,    1.0, 0, 0,    1.0
+284, 1, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+284, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+284, 1, 4, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+284, 2, 5, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+284, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+284, 2, 3, Amigo declarado, Update,    8.0
+284, 3, 1, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+284, 3, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+284, 4, 5, Amistad declarada con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+284, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+284, 4, 1, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+284, 4, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+284, 5, 4, Alianza con un amigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+284, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+284, 5, 1, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+285, 0, 2, Los hemos denunciado., Update,   -7.0
+285, 1, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+285, 1, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+285, 1, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+285, 1, 0, Encuentro amistoso, Update,    1.0
+285, 1, 0, Teníamos tropas en su frontera., Update,   -1.0
+285, 1, 0, Tu belicismo, Update,  -60.0
+285, 2, 0, Comercio favorable con ellos, Update,    0.0
+285, 2, 0, Tu belicismo, Update,  -11.0
+285, 3, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+285, 3, 0, Tu belicismo, Update,  -49.0
+285, 4, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+285, 5, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+285, 5, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+285, 5, 0, Tu belicismo, Update,  -21.0
+285, 0,  5, Los hemos denunciado., Deactivate
+286, 1, 5, Enemigo denunciado., Activate,    8.0,    8.0,    0.0, 0, 0,    1.0
+286, 1, 4, Cumplida una promesa diplomática que les hicimos, Update,    3.0
+286, 3, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+286, 4, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+286, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+286, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+286, 4, 3, Cumplida una promesa diplomática que les hicimos, Update,    0.0
+287, 0, 4, Alianza con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+287, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+287, 1, 2, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+287, 1, 0, Tu belicismo, Update,  -59.0
+287, 2, 4, Alianza con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+287, 2, 0, Tu belicismo, Update,  -10.0
+287, 3, 0, Tu belicismo, Update,  -48.0
+287, 5, 4, Alianza con un amigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+287, 5, 0, Tu belicismo, Update,  -20.0
+288, 0, 5, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+288, 2, 5, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+288, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+288, 2, 5, Cumplida una promesa diplomática que les hicimos, Update,    2.0
+288, 3, 4, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+288, 3,  0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Deactivate
+288, 4, 5, Amistad declarada con un amigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+288, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+288, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+289, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+289, 1, 2, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+289, 1, 0, Tu belicismo, Update,  -58.0
+289, 2, 0, Tu belicismo, Update,   -9.0
+289, 2, 3, Pedro está complacido con vuestra falta de grandes personajes., Activate,    8.0,    8.0,    1.0, 0, 0,   -1.0
+289, 3, 1, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+289, 3, 0, Tu belicismo, Update,  -47.0
+289, 4, 1, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+289, 5, 1, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+289, 5, 0, Tu belicismo, Update,  -19.0
+290, 0, 4, Alianza con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+290, 0, 3, Los hemos denunciado., Update,   -8.0
+290, 0, 4, Los hemos denunciado., Update,   -8.0
+290, 1, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+290, 1, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+290, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+290, 1, 2, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+290, 2, 4, Alianza con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+290, 3, 1, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+290, 3, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+290, 3, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+290, 3, 1, Hemos decidido no hacerles una promesa diplomática, Activate,   -3.0,   -3.0,    0.0, 0, 10,    1.0
+290, 3,  1, Hemos decidido no hacerles una promesa diplomática, Deactivate
+290, 3, 4, Los hemos denunciado., Update,   -3.0
+290, 4, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+290, 4, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+290, 5, 4, Alianza con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+290, 5, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+290, 5, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+290, 2, 5, No les gustan las civilizaciones con una fuerza aérea débil., Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+291, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+291, 1, 2, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+291, 4,  1, Aliado, Deactivate
+291, 4,  1, Amigo declarado, Deactivate
+291, 2, 1, No les gustan las civilizaciones con una fuerza aérea débil., Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+291, 1, 0, Tu belicismo, Update,  -57.0
+291, 2, 4, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+291, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+291, 2, 0, Tu belicismo, Update,   -8.0
+291, 3, 0, Tu belicismo, Update,  -46.0
+291, 1,  4, Aliado, Deactivate
+291, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+291, 5, 4, Amistad declarada con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+291, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+291, 5, 0, Tu belicismo, Update,  -18.0
+292, 0, 4, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+292, 0, 2, Respeta a las armadas poderosas, Activate,  -13.0,  -13.0,    1.0, 0, 0,    1.0
+292, 0, 5, Respeta a las armadas poderosas, Activate,  -13.0,  -13.0,    1.0, 0, 0,    1.0
+292, 4, 0, Ocupamos una ciudad perteneciente a sus amigos o aliados., Activate,   -9.0,   -9.0,    1.0, 0, 0,    1.0
+292, 1, 4, Asentado cerca de ellos, Activate,    0.0,    0.0,    0.0, 0, 10,   -1.0
+292, 5, 1, Aliado, Update,   17.0
+292, 5, 1, Amigo declarado, Update,    8.0
+293, 0, 5, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+293, 1, 0, Tu belicismo, Update,  -56.0
+293, 1, 5, Aliado, Update,   17.0
+293, 1, 5, Amigo declarado, Update,    8.0
+293, 2, 5, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+293, 2, 0, Tu belicismo, Update,   -7.0
+293, 3, 0, Tu belicismo, Update,  -45.0
+293, 3, 2, Amigo declarado, Update,    7.0
+293, 4, 5, Amistad declarada con un amigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+293, 5, 4, Qin está disgustado por que tengáis más maravillas que él., Activate,  -12.0,  -12.0,    1.0, 0, 0,    1.0
+293, 5, 0, Tu belicismo, Update,  -17.0
+294, 2, 3, Amigo declarado, Update,    7.0
+294, 3, 1, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+294, 4, 1, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+294, 5, 1, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+295, 0, 2, Los hemos denunciado., Update,   -6.0
+295, 0, 5, Los hemos denunciado., Update,   -8.0
+295, 1, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+295, 1, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+295, 1, 5, Enemigo denunciado., Activate,    7.0,    7.0,    0.0, 0, 0,    1.0
+295, 1, 4, No le gustan las civilizaciones que le superan en exploración., Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+295, 1, 0, Encuentro amistoso, Update,    0.0
+295, 1, 0, Teníamos tropas en su frontera., Update,    0.0
+295, 1, 0, Tu belicismo, Update,  -55.0
+295, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+295, 2, 0, Tu belicismo, Update,   -6.0
+295, 3, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+295, 3, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+295, 3, 0, Tu belicismo, Update,  -44.0
+295, 4, 0, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+295, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+295, 4, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+295, 4, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+295, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+295, 5, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+295, 5, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+295, 5, 0, Tu belicismo, Update,  -16.0
+296, 0, 4, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+296, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+296, 1, 4, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+296, 2, 4, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+296, 5, 4, Amistad declarada con un amigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+297, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+297, 1, 4, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+297, 1, 0, Tu belicismo, Update,  -54.0
+297, 2, 0, Tu belicismo, Update,   -5.0
+297, 3, 0, Tu belicismo, Update,  -43.0
+297, 5, 0, Tu belicismo, Update,  -15.0
+298, 0, 5, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+298, 1, 5, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+298, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+298, 1, 4, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+298, 2, 5, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+298, 3, 5, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+298, 3, 0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Update,   -9.0
+298, 4, 5, Amistad declarada con un amigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+299, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+299, 1, 4, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+299, 1, 0, Tu belicismo, Update,  -53.0
+299, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+299, 2, 0, Tu belicismo, Update,   -4.0
+299, 3, 1, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+299, 3, 0, Tu belicismo, Update,  -42.0
+299, 3, 1, Hemos decidido no hacerles una promesa diplomática, Update,   -2.0
+299, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+299, 4, 1, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+299, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+299, 5, 1, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+299, 5, 0, Tu belicismo, Update,  -14.0
+300, 0, 3, Los hemos denunciado., Update,   -7.0
+300, 0, 4, Los hemos denunciado., Update,   -7.0
+300, 1, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+300, 1, 4, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+300, 1, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+300, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+300, 1, 4, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+300, 3, 4, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+300, 3, 5, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+300, 3, 4, Los hemos denunciado., Update,   -2.0
+300, 4, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+300, 4, 5, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+300, 4, 1, Aliado, Update,   17.0
+300, 4, 1, Amigo declarado, Update,    8.0
+300, 5, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+300, 5, 4, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+301, 0, 4, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+301, 1, 0, Tu belicismo, Update,  -52.0
+301, 1, 4, Aliado, Update,   17.0
+301, 1, 4, Cumplida una promesa diplomática que les hicimos, Update,    2.0
+301, 2, 4, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+301, 2, 0, Tu belicismo, Update,   -3.0
+301, 3, 0, Tu belicismo, Update,  -41.0
+301, 5, 4, Amistad declarada con un amigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+301, 5, 0, Tu belicismo, Update,  -13.0
+301, 5, 1, Luchamos en una guerra conjunta., Update,    2.0
+302, 1, 2, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+302, 1, 4, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+302, 1, 5, Luchamos en una guerra conjunta., Update,    2.0
+302, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+302, 5, 1, Aliado, Update,   16.0
+302, 5, 1, Amigo declarado, Update,    7.0
+303, 0, 5, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+303, 1, 0, Tu belicismo, Update,  -51.0
+303, 1, 5, Aliado, Update,   16.0
+303, 1, 5, Amigo declarado, Update,    7.0
+303, 2, 5, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+303, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+303, 2, 0, Tu belicismo, Update,   -2.0
+303, 2, 5, Cumplida una promesa diplomática que les hicimos, Update,    1.0
+303, 3, 0, Tu belicismo, Update,  -40.0
+303, 3, 2, Amigo declarado, Update,    6.0
+303, 4, 5, Amistad declarada con un amigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+303, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+303, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+303, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+303, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+303, 5, 0, Tu belicismo, Update,  -12.0
+304, 2, 3, Amigo declarado, Update,    6.0
+304, 3, 1, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+304, 2, 3, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+304, 3, 2, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+304, 3, 2, A Tomiris le gusta el amigo declarado., Activate,    1.0,   12.0,    1.0, 10, 0,   -1.0
+304, 4, 1, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+304, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+304, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+304, 5, 3, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+304, 5, 1, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+305, 0, 2, Los hemos denunciado., Update,   -5.0
+305, 0, 5, Los hemos denunciado., Update,   -7.0
+305, 1, 2, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+305, 1, 3, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+305, 1, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+305, 1, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+305, 1, 5, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+305, 1, 0, Tu belicismo, Update,  -50.0
+305, 0,  1, Los hemos denunciado., Deactivate
+305, 0, 3, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+305, 0, 4, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+305, 0, 5, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+305, 2, 1, Amigo denunciado., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+305, 2, 0, Tu belicismo, Update,   -1.0
+305, 3, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+305, 3, 5, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+305, 3, 5, Amigo denunciado., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+305, 3, 0, Tu belicismo, Update,  -39.0
+305, 4, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+305, 4, 5, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+305, 5, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+305, 5, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+305, 5, 0, Tu belicismo, Update,  -11.0
+306, 0, 4, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+306, 2, 4, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+306, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+306, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+306, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+306, 5, 4, Amistad declarada con un amigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+306, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+307, 1, 0, Tu belicismo, Update,  -49.0
+307, 2, 1, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+307, 2, 0, Tu belicismo, Update,    0.0
+307, 3, 0, Tu belicismo, Update,  -38.0
+307, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+307, 5, 0, Tu belicismo, Update,  -10.0
+307, 4, 5, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+308, 0, 5, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+308, 1, 5, Amigo denunciado., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+308, 3,  1, Los hemos denunciado., Deactivate
+308, 2, 5, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+308, 3, 0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Update,   -8.0
+308, 4, 5, Amistad declarada con un amigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+308, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+308, 3, 4, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+308, 5, 3, Están siguiendo nuestra religión., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+308, 5, 1, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+309, 1, 2, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+309, 1, 3, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+309, 1, 0, Tu belicismo, Update,  -48.0
+309, 2, 4, Amigo denunciado., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+309, 3, 0, Tu belicismo, Update,  -37.0
+309, 3, 1, Hemos decidido no hacerles una promesa diplomática, Update,   -1.0
+309, 4, 2, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+309, 0, 4, Están siguiendo nuestra religión., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+309, 5, 3, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+309, 5, 0, Tu belicismo, Update,   -9.0
+310, 1, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+310, 1, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+310, 1, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+310, 3, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+310, 3, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+310, 3, 5, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+310, 4, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+310, 4, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+310, 4, 1, Aliado, Update,   16.0
+310, 4, 1, Amigo declarado, Update,    7.0
+310, 5, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+310, 5, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+311, 0, 4, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+311, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+311, 1, 2, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+311, 1, 0, Tu belicismo, Update,  -47.0
+311, 1, 4, Aliado, Update,   16.0
+311, 2, 4, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+311, 2, 1, Amigo denunciado., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+311, 3, 0, Tu belicismo, Update,  -36.0
+311, 0,  3, Los hemos denunciado., Deactivate
+311, 4, 1, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+311, 4, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+311, 0,  4, Los hemos denunciado., Deactivate
+311, 5, 1, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+311, 5, 4, Amistad declarada con un amigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+311, 5, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+311, 5, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+311, 5, 0, Tu belicismo, Update,   -8.0
+311, 2,  5, Los hemos denunciado., Deactivate
+312, 1, 2, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+312, 1, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+312, 1, 4, Enemigo denunciado., Activate,    8.0,    8.0,    0.0, 0, 0,    1.0
+312, 1, 5, Enemigo denunciado., Activate,    7.0,    7.0,    0.0, 0, 0,    1.0
+312, 1, 5, Amigo denunciado., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+312, 3, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+312, 3, 5, Amigo denunciado., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+312, 5, 1, Aliado, Update,   15.0
+312, 5, 1, Amigo declarado, Update,    6.0
+313, 0, 5, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+313, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+313, 1, 2, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+313, 1, 0, Tu belicismo, Update,  -46.0
+313, 1, 5, Aliado, Update,   15.0
+313, 1, 5, Amigo declarado, Update,    6.0
+313, 1, 0, Encuentro amistoso, Activate,    2.0,    2.0,    1.0, 0, 10,   -1.0
+313, 2, 5, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+313, 2, 4, Amigo denunciado., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+313, 3, 0, Tu belicismo, Update,  -35.0
+313, 4, 5, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+313, 5, 0, Tu belicismo, Update,   -7.0
+314, 0, 4, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+314, 1, 2, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+314, 1, 3, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+314, 1, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+314, 1, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+314, 1, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+314, 3, 2, A Tomiris le gusta el amigo declarado., Update,    2.0
+314, 4, 2, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+314, 5, 3, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+314, 5, 4, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+314, 1, 5, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+314, 5, 1, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+315, 5, 0, Ocupamos una ciudad perteneciente a sus amigos o aliados., Activate,   -9.0,   -9.0,    1.0, 0, 0,    1.0
+315, 0, 1, Los hemos denunciado., Update,   -8.0
+315, 0, 2, Los hemos denunciado., Update,   -4.0
+315, 1, 0, Tu belicismo, Update,  -45.0
+315, 2, 5, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+315, 3, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+315, 3, 0, Tu belicismo, Update,  -34.0
+315, 4, 5, Amistad declarada con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+315, 4, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+315, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+315, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+315, 5, 4, Amistad declarada con un amigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+315, 5, 0, Tu belicismo, Update,   -6.0
+316, 1, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+316, 1, 4, Cumplida una promesa diplomática que les hicimos, Update,    1.0
+316, 2, 4, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+316, 2, 1, Amigo denunciado., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+316, 3, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+316, 3, 5, Amigo denunciado., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+316, 4, 1, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+316, 4, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+316, 5, 1, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+316, 5, 4, Amistad declarada con un amigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+316, 5, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+316, 5, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+316, 0,  5, Los hemos denunciado., Deactivate
+317, 1, 5, Amigo denunciado., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+317, 1, 0, Tu belicismo, Update,  -44.0
+317, 3, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+317, 3, 0, Tu belicismo, Update,  -33.0
+317, 3, 1, Los hemos denunciado., Update,   -8.0
+317, 4, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+317, 4, 0, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+317, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+317, 5, 0, Tu belicismo, Update,   -5.0
+318, 1, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+318, 2, 4, Amigo denunciado., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+318, 2, 5, Cumplida una promesa diplomática que les hicimos, Update,    0.0
+318, 3, 4, Cumplida una promesa diplomática que les hicimos, Activate,    4.0,    4.0,    0.0, 0, 15,   -1.0
+318, 3,  4, Cumplida una promesa diplomática que les hicimos, Deactivate
+318, 3, 0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Update,   -7.0
+319, 1, 2, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+319, 1, 3, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+319, 1, 0, Tu belicismo, Update,  -43.0
+319, 2, 5, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+319, 3, 2, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+319, 3, 0, Tu belicismo, Update,  -32.0
+319, 3, 1, Hemos decidido no hacerles una promesa diplomática, Update,    0.0
+319, 5, 3, Están siguiendo nuestra religión., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+319, 4, 2, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+319, 4, 5, Amistad declarada con un amigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+319, 5, 3, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+319, 5, 0, Tu belicismo, Update,   -4.0
+320, 1, 0, Rutas comerciales entre nuestras naciones, Activate,    2.0,    2.0,    1.0, 0, 0,    1.0
+320, 3, 1, Cumplida una promesa diplomática que les hicimos, Activate,    4.0,    4.0,    0.0, 0, 15,   -1.0
+320, 3,  1, Cumplida una promesa diplomática que les hicimos, Deactivate
+320, 4, 1, Aliado, Update,   15.0
+320, 4, 1, Amigo declarado, Update,    6.0
+321, 0, 1, Rutas comerciales entre nuestras naciones, Activate,    2.0,    2.0,    1.0, 0, 0,    1.0
+321, 0, 3, Los hemos denunciado., Update,   -8.0
+321, 0, 4, Los hemos denunciado., Update,   -8.0
+321, 1, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+321, 1, 0, Tu belicismo, Update,  -42.0
+321, 1, 4, Aliado, Update,   15.0
+321, 2, 4, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+321, 2, 1, Amigo denunciado., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+321, 2, 5, Los hemos denunciado., Update,   -8.0
+321, 3, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+321, 3, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+321, 3, 5, Amigo denunciado., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+321, 3, 0, Tu belicismo, Update,  -31.0
+321, 4, 1, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+321, 4, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+321, 4, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+321, 5, 1, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+321, 5, 4, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+321, 5, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+321, 5, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+321, 5, 0, Tu belicismo, Update,   -3.0
+321, 5, 1, Luchamos en una guerra conjunta., Update,    1.0
+322, 1, 0, Teníamos tropas en su frontera., Activate,   -2.0,   -2.0,    1.0, 0, 10,    1.0
+322, 1, 5, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+322, 1, 5, Luchamos en una guerra conjunta., Update,    1.0
+322, 1,  4, Amigo declarado, Deactivate
+322, 4, 5, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+322, 4, 1, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+322, 5, 1, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+322, 5, 4, Amistad declarada con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+322, 5, 1, Aliado, Update,   14.0
+323, 0, 3, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+323, 4, 0, Ocupamos una ciudad perteneciente a sus amigos o aliados., Activate,   -9.0,   -9.0,    1.0, 0, 0,    1.0
+323, 1,  0, Encuentro amistoso, Deactivate
+323, 1,  0, Teníamos tropas en su frontera., Deactivate
+323, 3, 0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Activate,  -10.0,  -10.0,    1.0, 0, 10,    1.0
+323, 1, 3, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+323, 1, 0, Rutas comerciales entre nuestras naciones, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+323, 1, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+323, 1, 4, Enemigo denunciado., Activate,    7.0,    7.0,    0.0, 0, 0,    1.0
+323, 1, 5, Enemigo denunciado., Activate,    8.0,    8.0,    0.0, 0, 0,    1.0
+323, 1, 5, Amigo denunciado., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+323, 1, 0, Incumplida una promesa diplomática que les hicimos, Activate,   -6.0,   -6.0,    0.0, 0, 15,    1.0
+323, 1,  0, Incumplida una promesa diplomática que les hicimos, Deactivate
+323, 1, 3, Hemos decidido no hacerles una promesa diplomática, Activate,   -3.0,   -3.0,    0.0, 0, 10,    1.0
+323, 1,  3, Hemos decidido no hacerles una promesa diplomática, Deactivate
+323, 1, 0, Tu belicismo, Activate,  -78.0,  -78.0,    1.0, 0, 2,   -1.0
+323, 1,  0, Tu belicismo, Deactivate
+323, 1, 5, Aliado, Update,   14.0
+323, 2, 4, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+323, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    8.0,    8.0,    0.0, 0, 0,    1.0
+323, 2, 4, Amigo denunciado., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+323, 2, 0, Tu belicismo, Activate,  -22.0,  -22.0,    1.0, 0, 2,   -1.0
+323, 2,  0, Tu belicismo, Deactivate
+323, 3, 0, Tu belicismo, Activate,  -60.0,  -60.0,    1.0, 0, 2,   -1.0
+323, 3,  0, Tu belicismo, Deactivate
+323, 4, 5, Amistad declarada con un amigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+323, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -8.0,   -8.0,    0.0, 0, 0,    1.0
+323, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+323, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -8.0,   -8.0,    0.0, 0, 0,    1.0
+323, 5, 0, Tu belicismo, Activate,  -39.0,  -39.0,    1.0, 0, 2,   -1.0
+323, 5,  0, Tu belicismo, Deactivate
+324, 0, 1, Rutas comerciales entre nuestras naciones, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+324, 0, 4, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+324, 0, 5, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+324, 1, 2, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+324, 1, 3, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+324, 1, 0, Tu belicismo, Activate,  -77.0,  -77.0,    1.0, 0, 2,   -1.0
+324, 1,  0, Tu belicismo, Deactivate
+324, 1, 3, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+324, 1, 5, Respeta a los ejércitos poderosos, Activate,   -3.0,   -3.0,    1.0, 0, 0,    1.0
+324, 2, 5, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+324, 2, 0, Tu belicismo, Activate,  -21.0,  -21.0,    1.0, 0, 2,   -1.0
+324, 2,  0, Tu belicismo, Deactivate
+324, 0, 2, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+324, 0, 3, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+324, 0, 4, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+324, 3, 2, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+324, 3, 0, Tu belicismo, Activate,  -59.0,  -59.0,    1.0, 0, 2,   -1.0
+324, 3,  0, Tu belicismo, Deactivate
+324, 3, 2, A Tomiris le gusta el amigo declarado., Update,    3.0
+324, 4, 2, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+324, 4, 5, Amistad declarada con un amigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+324, 4, 2, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+324, 5, 3, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+324, 5, 2, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+324, 5, 0, Tu belicismo, Activate,  -38.0,  -38.0,    1.0, 0, 2,   -1.0
+324, 5,  0, Tu belicismo, Deactivate
+325, 0, 1, Los hemos denunciado., Update,   -7.0
+325, 0, 2, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+325, 0, 5, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+325, 2, 0, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+325, 5, 0, Mismo gobierno, Activate,    1.0,    1.0,    1.0, 0, 0,    1.0
+325, 1, 2, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+325, 1, 0, Tu belicismo, Update,  -76.0
+325, 2, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+325, 2, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+325, 2, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+325, 2, 0, Tu belicismo, Update,  -20.0
+325, 3, 0, Tu belicismo, Update,  -58.0
+325, 5, 3, Están siguiendo nuestra religión., Activate,    5.0,    5.0,    1.0, 0, 0,   -1.0
+325, 4, 0, Cumplida una promesa diplomática que les hicimos, Activate,    4.0,    4.0,    0.0, 0, 15,   -1.0
+325, 4,  0, Cumplida una promesa diplomática que les hicimos, Deactivate
+325, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+325, 5, 0, Tu belicismo, Update,  -37.0
+326, 0, 5, Los hemos denunciado., Update,   -8.0
+326, 1, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+326, 1, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+326, 1, 5, Enemigo denunciado., Activate,    7.0,    7.0,    0.0, 0, 0,    1.0
+326, 1, 5, Respeta a los ejércitos poderosos, Activate,  -13.0,  -13.0,    1.0, 0, 0,    1.0
+326, 2, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+326, 2, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+326, 2, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+326, 2, 1, Amigo denunciado., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+326, 3, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+326, 3, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+326, 3, 5, Amigo denunciado., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+326, 4, 1, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+326, 4, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+326, 4, 5, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+326, 5, 3, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+326, 5, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+327, 0, 4, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+327, 1, 5, Amigo denunciado., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+327, 1, 0, Tu belicismo, Update,  -75.0
+327, 2, 4, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+327, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    7.0,    7.0,    0.0, 0, 0,    1.0
+327, 2, 0, Tu belicismo, Update,  -19.0
+327, 3, 0, Tu belicismo, Update,  -57.0
+327, 3, 1, Los hemos denunciado., Update,   -7.0
+327, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -7.0,   -7.0,    0.0, 0, 0,    1.0
+327, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+327, 3, 4, Hemos convertido su ciudad religiosa., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+327, 5, 1, Amistad declarada con un enemigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+327, 5, 4, Amistad declarada con un amigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+327, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -7.0,   -7.0,    0.0, 0, 0,    1.0
+327, 5, 0, Tu belicismo, Update,  -36.0
+328, 1, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+328, 1, 5, Cumplida una promesa diplomática que les hicimos, Activate,    4.0,    4.0,    0.0, 0, 15,   -1.0
+328, 1,  5, Cumplida una promesa diplomática que les hicimos, Deactivate
+328, 2, 4, Amigo denunciado., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+328, 3, 5, Cumplida una promesa diplomática que les hicimos, Activate,    4.0,    4.0,    0.0, 0, 15,   -1.0
+328, 3,  5, Cumplida una promesa diplomática que les hicimos, Deactivate
+328, 3, 4, Hemos decidido no hacerles una promesa diplomática, Activate,   -3.0,   -3.0,    0.0, 0, 10,    1.0
+328, 3,  4, Hemos decidido no hacerles una promesa diplomática, Deactivate
+329, 0, 5, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+329, 1, 2, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+329, 1, 3, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+329, 1, 2, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+329, 1, 0, Tu belicismo, Update,  -74.0
+329, 2, 5, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+329, 2, 0, Tu belicismo, Update,  -18.0
+329, 3, 2, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+329, 3, 0, Tu belicismo, Update,  -56.0
+329, 4, 2, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+329, 4, 5, Amistad declarada con un amigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+329, 4, 2, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+329, 5, 3, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+329, 5, 2, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+329, 5, 0, Tu belicismo, Update,  -35.0
+330, 1, 5, Asentado cerca de ellos, Activate,   -6.0,   -6.0,    0.0, 0, 10,   -1.0
+330, 4, 1, Aliado, Update,   14.0
+331, 1, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+331, 1, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+331, 1, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+331, 1, 0, Tu belicismo, Update,  -73.0
+331, 1, 4, Aliado, Update,   14.0
+331, 1, 4, Cumplida una promesa diplomática que les hicimos, Update,    0.0
+331, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+331, 2, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+331, 2, 4, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+331, 2, 5, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+331, 2, 1, Amigo denunciado., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+331, 2, 0, Tu belicismo, Update,  -17.0
+331, 2, 5, Los hemos denunciado., Update,   -7.0
+331, 3, 4, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+331, 3, 5, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+331, 3, 5, Amigo denunciado., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+331, 3, 0, Tu belicismo, Update,  -55.0
+331, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+331, 4, 1, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+331, 4, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+331, 4, 5, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+331, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+331, 5, 3, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+331, 5, 4, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+331, 5, 0, Tu belicismo, Update,  -34.0
+332, 0, 4, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+332, 1, 5, Amigo denunciado., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+332, 1, 0, Encuentro amistoso, Update,    1.0
+332, 1, 0, Teníamos tropas en su frontera., Update,   -1.0
+332, 1, 3, Hemos decidido no hacerles una promesa diplomática, Update,   -2.0
+332, 1, 4, Amigo declarado, Update,    8.0
+332, 2, 4, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+332, 3, 4, Cumplida una promesa diplomática que les hicimos, Update,    3.0
+332, 5, 1, Amistad declarada con un enemigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+332, 5, 4, Amistad declarada con un amigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+332, 5, 1, Aliado, Update,   13.0
+333, 1, 4, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+333, 1, 0, Tu belicismo, Update,  -72.0
+333, 1, 5, Aliado, Update,   13.0
+333, 2, 4, Amigo denunciado., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+333, 2, 0, Tu belicismo, Update,  -16.0
+333, 3, 0, Tu belicismo, Update,  -54.0
+333, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+333, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+333, 5, 0, Tu belicismo, Update,  -33.0
+334, 0, 5, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+334, 1, 2, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+334, 1, 3, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+334, 1, 2, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+334, 1, 3, Respeta a los ejércitos poderosos, Activate,   -3.0,   -3.0,    1.0, 0, 0,    1.0
+334, 1, 5, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+334, 2, 5, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+334, 3, 2, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+334, 3, 1, Cumplida una promesa diplomática que les hicimos, Update,    3.0
+334, 3, 2, A Tomiris le gusta el amigo declarado., Update,    4.0
+334, 4, 2, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+334, 4, 5, Amistad declarada con un amigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+334, 4, 2, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+334, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+334, 5, 3, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+334, 5, 2, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+335, 0, 1, Los hemos denunciado., Update,   -6.0
+335, 1, 0, Tu belicismo, Update,  -71.0
+335, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+335, 2, 1, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+335, 2, 4, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+335, 3,  2, Amigo declarado, Deactivate
+335, 2, 0, Tu belicismo, Update,  -15.0
+335, 2,  3, Amigo declarado, Deactivate
+335, 3, 5, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+335, 3, 0, Tu belicismo, Update,  -53.0
+335, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+335, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+335, 5, 0, Tu belicismo, Update,  -32.0
+336, 0, 5, Los hemos denunciado., Update,   -7.0
+336, 1, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+336, 1, 4, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+336, 1, 5, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+336, 2, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+336, 2, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+336, 2, 5, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+336, 3, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+336, 3, 5, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+336, 4, 1, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+336, 4, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+336, 4, 5, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+336, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+336, 5, 3, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+336, 5, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+337, 0, 4, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+337, 1, 5, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+337, 1, 0, Incumplida una promesa diplomática que les hicimos, Update,   -5.0
+337, 1, 0, Tu belicismo, Update,  -70.0
+337, 2, 4, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+337, 2, 0, Tu belicismo, Update,  -14.0
+337, 3, 0, Tu belicismo, Update,  -52.0
+337, 3, 1, Los hemos denunciado., Update,   -6.0
+337, 3, 4, Hemos decidido no hacerles una promesa diplomática, Update,   -2.0
+337, 5, 3, Qin está disgustado por que tengáis más maravillas que él., Activate,  -12.0,  -12.0,    1.0, 0, 0,    1.0
+337, 5, 1, Amistad declarada con un enemigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+337, 5, 4, Amistad declarada con un amigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+337, 5, 0, Tu belicismo, Update,  -31.0
+338, 1, 4, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+338, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+338, 3, 4, Asentado cerca de ellos, Activate,    0.0,    0.0,    0.0, 0, 10,   -1.0
+338, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+338, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+338, 4,  5, Los hemos denunciado., Deactivate
+339, 0, 5, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+339, 1, 2, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+339, 1, 5, Amigo denunciado., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+339, 1, 3, Respeta a los ejércitos poderosos, Activate,   -8.0,   -8.0,    1.0, 0, 0,    1.0
+339, 1, 0, Tu belicismo, Update,  -69.0
+339, 2, 5, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+339, 2, 0, Tu belicismo, Update,  -13.0
+339, 3, 2, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+339, 3, 0, Tu belicismo, Update,  -51.0
+339, 4, 5, Amistad declarada con un amigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+339, 4, 2, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+339, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+339, 4, 0, Cumplida una promesa diplomática que les hicimos, Update,    3.0
+339, 3, 1, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+339, 3,  4, Los hemos denunciado., Deactivate
+339, 5, 2, Enemigo denunciado., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+339, 5, 0, Tu belicismo, Update,  -30.0
+340, 4, 1, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+340, 4, 1, Aliado, Update,   13.0
+341, 1, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+341, 1, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+341, 1, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+341, 1, 0, Tu belicismo, Update,  -68.0
+341, 1, 4, Aliado, Update,   13.0
+341, 2, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+341, 2, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+341, 2, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+341, 2, 0, Tu belicismo, Update,  -12.0
+341, 2, 5, Los hemos denunciado., Update,   -6.0
+341, 3, 1, Asentado cerca de ellos, Activate,    0.0,    0.0,    0.0, 0, 10,   -1.0
+341, 3, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+341, 3, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+341, 3, 0, Tu belicismo, Update,  -50.0
+341, 4, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+341, 4, 5, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+341, 5, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+341, 5, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+341, 5, 0, Tu belicismo, Update,  -29.0
+341, 5, 1, Luchamos en una guerra conjunta., Update,    0.0
+342, 0, 4, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+342, 1, 0, Encuentro amistoso, Update,    0.0
+342, 1, 0, Teníamos tropas en su frontera., Update,    0.0
+342, 1, 3, Hemos decidido no hacerles una promesa diplomática, Update,   -1.0
+342, 1, 4, Amigo declarado, Update,    7.0
+342, 1, 5, Luchamos en una guerra conjunta., Update,    0.0
+342, 1, 5, Cumplida una promesa diplomática que les hicimos, Update,    3.0
+342, 3,  1, Los hemos denunciado., Deactivate
+342, 2, 4, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+342, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    3.0,    3.0,    0.0, 0, 0,    1.0
+342, 3, 5, Cumplida una promesa diplomática que les hicimos, Update,    3.0
+342, 0,  3, Los hemos denunciado., Deactivate
+342, 0, 5, Los hemos denunciado., Activate,   -9.0,   -9.0,    1.0, 0, 10,    1.0
+342, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+342, 4, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+342, 0,  4, Los hemos denunciado., Deactivate
+342, 5, 1, Amistad declarada con un enemigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+342, 5, 4, Amistad declarada con un amigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+342, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -3.0,   -3.0,    0.0, 0, 0,    1.0
+342, 5, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+342, 5, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+342, 5, 1, Aliado, Update,   12.0
+343, 1, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+343, 1, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+343, 1, 5, Amigo denunciado., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+343, 1, 0, Tu belicismo, Update,  -67.0
+343, 1, 5, Aliado, Update,   12.0
+343, 2, 3, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+343, 2, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+343, 2, 0, Tu belicismo, Update,  -11.0
+343, 2, 5, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+343, 5, 2, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+343, 5, 2, Comercio favorable con ellos, Activate,    2.0,    2.0,    0.0, 0, 2,   -1.0
+343, 5,  2, Comercio favorable con ellos, Deactivate
+343, 3, 4, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+343, 3, 0, Tu belicismo, Update,  -49.0
+343, 5, 0, Tu belicismo, Update,  -28.0
+344, 0, 5, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+344, 1, 2, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+344, 2, 5, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+344, 3, 2, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+344, 3, 2, Amigo declarado, Update,    8.0
+344, 4, 5, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+344, 4, 2, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+344, 5, 2, Enemigo denunciado., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+344, 5, 2, Comercio favorable con ellos, Update,    1.0
+345, 0, 1, Los hemos denunciado., Update,   -5.0
+345, 1, 3, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+345, 1, 4, Respeta a los ejércitos poderosos, Activate,   -3.0,   -3.0,    1.0, 0, 0,    1.0
+345, 5,  1, Amigo declarado, Deactivate
+345, 1, 0, Tu belicismo, Update,  -66.0
+345, 5, 1, Qin está disgustado por que tengáis más maravillas que él., Activate,  -12.0,  -12.0,    1.0, 0, 0,    1.0
+345, 2, 0, Tu belicismo, Update,  -10.0
+345, 2, 3, Amigo declarado, Update,    8.0
+345, 3, 0, Tu belicismo, Update,  -48.0
+345, 4, 2, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+345, 1,  5, Amigo declarado, Deactivate
+345, 5, 4, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+345, 5, 0, Guerra por sorpresa declarada contra un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+345, 5, 0, Tu belicismo, Update,  -27.0
+345, 5, 1, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+345, 1, 5, Apertura de fronteras, Activate,    3.0,    3.0,    1.0, 0, 0,   -1.0
+345, 1, 5, Comercio favorable con ellos, Activate,    9.0,    9.0,    0.0, 0, 2,   -1.0
+345, 1,  5, Comercio favorable con ellos, Deactivate
+345, 5, 1, Comercio favorable con ellos, Activate,    1.0,    1.0,    0.0, 0, 2,   -1.0
+345, 5,  1, Comercio favorable con ellos, Deactivate
+346, 1, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+346, 1, 0, Respeta a los ejércitos poderosos, Activate,   13.0,   13.0,    1.0, 0, 0,    1.0
+346, 1, 3, Respeta a los ejércitos poderosos, Activate,   -3.0,   -3.0,    1.0, 0, 0,    1.0
+346, 1, 4, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+346, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    2.0,    2.0,    0.0, 0, 0,    1.0
+346, 2, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+346, 3, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+346, 4, 0, Asentado cerca de ellos, Activate,    0.0,    0.0,    0.0, 0, 10,   -1.0
+346, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -2.0,   -2.0,    0.0, 0, 0,    1.0
+346, 4, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+346, 5, 2, Comercio favorable con ellos, Update,    0.0
+347, 0, 4, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+347, 1, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+347, 1, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+347, 1, 0, Tu belicismo, Update,  -65.0
+347, 1, 5, Comercio favorable con ellos, Update,    8.0
+347, 2, 4, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+347, 2, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+347, 2, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+347, 2, 0, Tu belicismo, Update,   -9.0
+347, 3, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+347, 3, 0, Tu belicismo, Update,  -47.0
+347, 3, 4, Cumplida una promesa diplomática que les hicimos, Update,    2.0
+347, 3, 4, Hemos decidido no hacerles una promesa diplomática, Update,   -1.0
+347, 4, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+347, 5, 1, Amistad declarada con un enemigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+347, 5, 3, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+347, 5, 4, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+347, 5, 0, Tu belicismo, Update,  -26.0
+347, 5, 1, Comercio favorable con ellos, Update,    0.0
+347, 0,  5, Los hemos denunciado., Deactivate
+348, 1, 5, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+348, 1, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+348, 1, 5, Amigo denunciado., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+348, 2, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+348, 3, 5, Asentado cerca de ellos, Activate,    0.0,    0.0,    0.0, 0, 10,   -1.0
+348, 3, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+348, 4, 5, Enemigo denunciado., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+348, 4, 5, Los hemos denunciado., Update,   -8.0
+349, 0, 4, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+349, 1, 4, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+349, 1, 2, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+349, 1, 0, Tu belicismo, Update,  -64.0
+349, 1, 5, Comercio favorable con ellos, Update,    7.0
+349, 2, 0, Tu belicismo, Update,   -8.0
+349, 3, 4, Asentado cerca de ellos, Activate,   -3.0,   -3.0,    0.0, 0, 10,   -1.0
+349, 3, 2, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+349, 3, 2, Cumplida una promesa diplomática que les hicimos, Activate,    4.0,    4.0,    0.0, 0, 15,   -1.0
+349, 3,  2, Cumplida una promesa diplomática que les hicimos, Deactivate
+349, 3, 0, Tu belicismo, Update,  -46.0
+349, 3, 1, Cumplida una promesa diplomática que les hicimos, Update,    2.0
+349, 3, 4, Los hemos denunciado., Update,   -8.0
+349, 4, 0, Rutas comerciales entre nuestras naciones, Activate,    2.0,    2.0,    1.0, 0, 0,    1.0
+349, 4, 2, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+349, 5, 2, Enemigo denunciado., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+349, 5, 0, Tu belicismo, Update,  -25.0
+350, 0, 4, Rutas comerciales entre nuestras naciones, Activate,    2.0,    2.0,    1.0, 0, 0,    1.0
+350, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+350, 3, 5, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+350, 3, 5, A Tomiris le gusta el amigo declarado., Activate,    1.0,   12.0,    1.0, 10, 0,   -1.0
+350, 5, 3, Amigo declarado, Activate,    9.0,    9.0,    1.0, 0, 10,   -1.0
+350, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,   -1.0,   -1.0,    0.0, 0, 0,    1.0
+350, 4, 1, Aliado, Update,   12.0
+350, 5, 1, Amigo denunciado., Activate,   -5.0,   -5.0,    0.0, 0, 0,    1.0
+351, 1, 5, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+351, 1, 0, Tu belicismo, Update,  -63.0
+351, 1, 4, Aliado, Update,   12.0
+351, 1, 5, Comercio favorable con ellos, Update,    6.0
+351, 1, 0, Encuentro amistoso, Activate,    2.0,    2.0,    1.0, 0, 10,   -1.0
+351, 1, 0, Teníamos tropas en su frontera., Activate,   -2.0,   -2.0,    1.0, 0, 10,    1.0
+351, 3,  0, A Tomiris no le gustan las personas que declaran guerras por sorpresa., Deactivate
+351, 2, 5, Amistad declarada con un enemigo., Activate,   -6.0,   -6.0,    0.0, 0, 0,    1.0
+351, 2, 0, Guerra por sorpresa declarada contra un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+351, 2, 0, Tu belicismo, Update,   -7.0
+351, 2, 5, Los hemos denunciado., Update,   -5.0
+351, 3, 1, Amistad declarada con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+351, 3, 0, Tu belicismo, Update,  -45.0
+351, 3, 1, Los hemos denunciado., Update,   -8.0
+351, 4, 5, Amistad declarada con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+351, 4, 0, Guerra por sorpresa declarada contra un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+351, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+351, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,   -6.0,   -6.0,    1.0, 0, 0,    1.0
+351, 5, 4, Amistad declarada con un amigo., Activate,    1.0,    1.0,    0.0, 0, 0,    1.0
+351, 5, 0, Tu belicismo, Update,  -24.0
+352, 0, 4, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+352, 5, 0, Ocupamos una ciudad perteneciente a sus amigos o aliados., Activate,   -9.0,   -9.0,    1.0, 0, 0,    1.0
+352, 0, 3, Los hemos denunciado., Update,   -8.0
+352, 0, 4, Los hemos denunciado., Update,   -8.0
+352, 1, 3, Amistad declarada con un amigo., Activate,    6.0,    6.0,    0.0, 0, 0,    1.0
+352, 1, 2, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+352, 1, 3, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+352, 1, 4, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+352, 1, 5, Enemigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+352, 1, 0, Tu belicismo, Activate,  -99.0,  -99.0,    1.0, 0, 2,   -1.0
+352, 1,  0, Tu belicismo, Deactivate
+352, 1, 0, Respeta a los ejércitos poderosos, Activate,    5.0,    5.0,    1.0, 0, 0,    1.0
+352, 1, 0, Incumplida una promesa diplomática que les hicimos, Update,   -4.0
+352, 1, 3, Hemos decidido no hacerles una promesa diplomática, Update,    0.0
+352, 1, 4, Amigo declarado, Update,    6.0
+352, 2, 4, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+352, 2, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+352, 2, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+352, 2, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+352, 2, 0, Tu belicismo, Activate,  -43.0,  -43.0,    1.0, 0, 2,   -1.0
+352, 2,  0, Tu belicismo, Deactivate
+352, 3, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+352, 3, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+352, 3, 0, Tu belicismo, Activate,  -81.0,  -81.0,    1.0, 0, 2,   -1.0
+352, 3,  0, Tu belicismo, Deactivate
+352, 4, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+352, 4, 5, Enemigo denunciado., Activate,    5.0,    5.0,    0.0, 0, 0,    1.0
+352, 4, 3, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    8.0,    8.0,    1.0, 0, 0,    1.0
+352, 4, 5, Respeta añadir Fe/Cultura a un ejército fuerte, Activate,    0.0,    0.0,    1.0, 0, 0,    1.0
+352, 5, 1, Amistad declarada con un enemigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+352, 5, 4, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+352, 5, 3, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+352, 5, 4, Enemigo denunciado., Activate,    4.0,    4.0,    0.0, 0, 0,    1.0
+352, 5, 1, Amigo denunciado., Activate,   -4.0,   -4.0,    0.0, 0, 0,    1.0
+352, 5, 0, Tu belicismo, Activate,  -60.0,  -60.0,    1.0, 0, 2,   -1.0
+352, 5,  0, Tu belicismo, Deactivate
+352, 5, 1, Aliado, Update,   11.0
+353, 1, 5, Amigo denunciado., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+353, 1, 3, Cumplida una promesa diplomática que les hicimos, Activate,    4.0,    4.0,    0.0, 0, 15,   -1.0
+353, 1,  3, Cumplida una promesa diplomática que les hicimos, Deactivate
+353, 4,  1, Amigo declarado, Deactivate
+353, 1, 0, Tu belicismo, Update,  -98.0
+353, 1, 5, Aliado, Update,   11.0
+353, 1, 5, Comercio favorable con ellos, Update,    5.0
+353, 2, 0, Tu belicismo, Update,  -42.0
+353, 3, 0, Tu belicismo, Update,  -80.0
+353, 4, 5, Amistad declarada con un amigo., Activate,    0.0,    0.0,    0.0, 0, 0,    1.0
+353, 5, 0, Tu belicismo, Update,  -59.0

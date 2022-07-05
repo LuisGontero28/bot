@@ -1,0 +1,713 @@
+Using FiraxisLive API 487375: flClient Live Build:487375
+Using ctpLogPath: C:\Users\USURIO\OneDrive\Documentos/My Games/Sid Meier's Civilization VI (Epic)/Logs\
+Using ctpGameDataPath: C:\Program Files\Epic Games\SidMeiersCivilizationVI\\CTP\gamedata\
+Creating firaxis live...
+FiraxisLive created
+Setting firaxis live debug info...
+Adding firaxis live notification handlers...
+Starting firaxis live...
+[6/4/2021 02:05:16.537] FiraxisLive.cpp(282) FiraxisLive::Start - Build: flClient Live Build:487375
+[6/4/2021 02:05:16.537] FiraxisLive.cpp(290) FiraxisLive::Start - Client build version: 564030 (0x0000000000089b3e) "564030"
+[6/4/2021 02:05:16.537] FiraxisLive.cpp(301) FiraxisLive::Start - Creating server connection...
+[6/4/2021 02:05:16.545] FiraxisLive.cpp(340) FiraxisLive::Start - Starting up threads...
+[6/4/2021 02:05:16.545] Win32Thread.cpp(277) Thread "FiraxisLive Thread" (ID:0x00001bac) has started.
+[6/4/2021 02:05:16.545] FiraxisLive.cpp(350) FiraxisLive::Start - Running
+[6/4/2021 02:05:16.546] CTPFiraxisLive.cpp(22) CTP version: 2.7.0
+[6/4/2021 02:05:16.567] CTPFiraxisLive.cpp(3041) Set locale success
+FiraxisLive started
+[6/4/2021 02:05:16.582] Win32TCPSocket.cpp(157) 1896: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 02:05:16.763] Win32TCPSocket.cpp(167) 1896: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+[6/4/2021 02:05:17.463] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+FiraxisLiveClient StateNotify: PreRun
+FiraxisLiveClient StateNotify: FirstConnect
+FiraxisLiveClient OnDataPushNotify: KeyName=App/FiraxisLive/Configuration/1, NumObjects=1
+* KeyName=App/FiraxisLive/OnlineTelemetryConfiguration.xml/blacklist-2018-09-20, Size=876, CreatedDate=1537454249, LastUpdate=1537454249
+FiraxisLiveClient OnDataPushNotify: KeyName=App/FiraxisLive/MarketingMessage, NumObjects=1
+* KeyName=App/FiraxisLive/MarketingMessage/civ6-motd-2020-11-18.xml, Size=11969, CreatedDate=1605734935, LastUpdate=1605734935
+FiraxisLiveClient StateNotify: Running
+AppFiraxisLiveClient deferring logon from app init complete
+[6/4/2021 02:05:31.559] AnalyticsManager.cpp(285) AnalyticsManager - Queued 6 data points, with a total of 40 attributes.
+[6/4/2021 02:05:31.559] ServerConnection.cpp(978) Sending queued messages
+AppFiraxisLiveClient starting logon due to ui ready
+Beginning platform logon...
+[6/4/2021 02:05:49.909] CTPFiraxisLive.cpp(1971) Starting SSO login...
+[6/4/2021 02:05:49.909] CTPFiraxisLive.cpp(2006) CTP Generic Epic Credentials: {"type": "epic", "epicUserId" : "9239a5068c9e4adfbfe717c2f8d9d81d", "epicUserName" : "snakierpipi", "epicAccessToken" : "MSpringer:TODO"}
+My2KLogon successful
+[6/4/2021 02:05:51.176] CTPFiraxisLive.cpp(2198) Failed to get account linked with error 2562 (ERROR_NOT_LOGGED_IN)
+[6/4/2021 02:05:51.255] CTPFiraxisLive.cpp(94) SsoLoginCallback success
+FiraxisLiveClient UserStateNotify: LoggingIn
+FiraxisLiveClient LoginStatusNotify: [type=Login, Successful, account=Platform]: OK
+[6/4/2021 02:05:51.285] CTPFiraxisLive.cpp(2440) No legal manifest entries
+AppFiraxisLiveClient::DoUpdate - Kando has become connected
+[6/4/2021 02:05:51.291] ServerConnection.cpp(978) Sending queued messages
+[6/4/2021 02:05:51.593] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 02:05:51.593] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x2d32c6c7466b88dceb72e828001a452fb3a71b2913aea76100000179d4c50210
+FiraxisLiveClient UserStateNotify: LoggedIn
+[6/4/2021 02:05:51.606] CTPFiraxisLive.cpp(2403) Getting granted entitlements...
+[6/4/2021 02:05:52.646] CTPFiraxisLive.cpp(360) GetGrantedEntitlementsCallback success
+[6/4/2021 02:05:52.646] CTPFiraxisLive.cpp(367) GetGrantedEntitlements showing 0 of 0 total granted entitlements
+FiraxisLiveClient OnGetGrantedEntitlements: [count=0, success=Successful]
+[6/4/2021 02:06:36.597] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 02:06:36.648] Win32TCPSocket.cpp(653) 1896: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 02:07:01.711] InternalAttrib.cpp(119) Add: Invalid attribute name, ignored!
+[6/4/2021 02:07:39.600] AnalyticsManager.cpp(285) AnalyticsManager - Queued 2 data points, with a total of 44 attributes.
+[6/4/2021 02:07:39.631] Win32TCPSocket.cpp(157) 3528: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 02:07:39.814] Win32TCPSocket.cpp(167) 3528: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 02:07:40.118] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 02:07:40.218] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 02:08:25.165] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 02:08:25.215] Win32TCPSocket.cpp(653) 3528: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 02:14:06.998] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:14:06.999] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:14:07.000] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:15:52.062] Win32TCPSocket.cpp(157) 4016: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 02:15:52.246] Win32TCPSocket.cpp(167) 4016: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 02:15:52.648] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 02:15:52.749] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 02:15:53.102] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 02:15:53.102] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x6a867ece98ed2a1483da8d610018c49d8e3e887c7591eb8600000179d4ce2cd0
+[6/4/2021 02:16:38.127] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 02:16:38.177] Win32TCPSocket.cpp(653) 4016: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 02:25:53.467] Win32TCPSocket.cpp(157) 2576: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 02:25:53.684] Win32TCPSocket.cpp(167) 2576: Connected to 34.196.154.173:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 02:25:54.541] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 02:25:54.642] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 02:25:55.647] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 02:25:55.647] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0xed6bd301e7a238aca681e15400191f168e3e887c7591eb8600000179d4d75e79
+[6/4/2021 02:26:40.691] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 02:26:40.741] Win32TCPSocket.cpp(653) 2576: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 02:27:40.694] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:27:40.694] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:27:40.694] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:27:40.694] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:27:40.694] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:27:40.694] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:27:40.695] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:35:55.089] Win32TCPSocket.cpp(157) 4700: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 02:35:55.270] Win32TCPSocket.cpp(167) 4700: Connected to 34.196.154.173:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 02:35:55.573] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 02:35:55.673] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 02:35:56.025] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 02:35:56.025] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x686444e7d3234f7670cc13f2001b55c5b3a71b2913aea76100000179d4e08a78
+[6/4/2021 02:36:41.070] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 02:36:41.120] Win32TCPSocket.cpp(653) 4700: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 02:37:47.426] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:37:47.427] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:37:47.428] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:37:47.428] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:37:47.428] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:37:47.428] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:37:47.428] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:37:47.428] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:37:47.428] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:37:47.430] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:37:47.430] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:37:47.430] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:37:47.430] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:37:47.431] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:45:56.047] Win32TCPSocket.cpp(157) 4656: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 02:45:56.228] Win32TCPSocket.cpp(167) 4656: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 02:45:56.582] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 02:45:56.684] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 02:45:57.039] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 02:45:57.039] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x563ed34cc57120985be28b4001baf7ab3a71b2913aea76100000179d4e9b639
+[6/4/2021 02:46:42.085] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 02:46:42.135] Win32TCPSocket.cpp(653) 4656: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 02:52:56.822] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 02:52:56.823] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:52:56.824] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 02:52:56.824] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 02:55:57.050] Win32TCPSocket.cpp(157) 4776: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 02:55:57.229] Win32TCPSocket.cpp(167) 4776: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 02:55:57.531] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 02:55:57.638] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 02:55:58.093] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 02:55:58.093] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x19cff09634b29e4321052cab001c08a8b3a71b2913aea76100000179d4f2e208
+[6/4/2021 02:56:43.107] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 02:56:43.157] Win32TCPSocket.cpp(653) 4776: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 03:05:58.061] Win32TCPSocket.cpp(157) 4800: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 03:05:58.243] Win32TCPSocket.cpp(167) 4800: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 03:05:58.597] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 03:05:58.698] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 03:05:58.949] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 03:05:58.949] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x2138fceb411c9d6e950ffdc2001a87238e3e887c7591eb8600000179d4fc0a1f
+[6/4/2021 03:06:43.972] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 03:06:44.022] Win32TCPSocket.cpp(653) 4800: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 03:08:40.439] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:08:40.440] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:08:40.441] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:08:40.441] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:08:40.441] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:08:40.441] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:08:40.441] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:08:40.441] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:08:40.441] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:08:40.441] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:08:40.442] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:08:40.442] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:08:40.442] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:08:40.442] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:08:40.445] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:15:59.032] Win32TCPSocket.cpp(157) 4724: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 03:15:59.217] Win32TCPSocket.cpp(167) 4724: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 03:15:59.569] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 03:15:59.669] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 03:15:59.972] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 03:15:59.972] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0xa7b47aad3d9e31030fd8c410001adeea8e3e887c7591eb8600000179d50535e3
+[6/4/2021 03:16:45.018] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 03:16:45.068] Win32TCPSocket.cpp(653) 4724: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 03:19:15.500] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:19:15.501] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:19:15.502] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:19:15.502] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:19:15.502] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:19:15.502] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:19:15.502] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:19:15.502] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:19:15.503] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:19:15.503] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:26:00.047] Win32TCPSocket.cpp(157) 5104: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 03:26:00.233] Win32TCPSocket.cpp(167) 5104: Connected to 34.196.154.173:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 03:26:00.584] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 03:26:00.684] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 03:26:01.035] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 03:26:01.035] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x50c61b1b2ca21c59adf1c9c1001b35748e3e887c7591eb8600000179d50e61a9
+[6/4/2021 03:26:46.036] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 03:26:46.086] Win32TCPSocket.cpp(653) 5104: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 03:32:48.709] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:32:48.709] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:32:48.709] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:32:48.709] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:32:48.709] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:32:48.709] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:32:48.709] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:32:48.710] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:36:01.063] Win32TCPSocket.cpp(157) 4700: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 03:36:01.247] Win32TCPSocket.cpp(167) 4700: Connected to 34.196.154.173:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 03:36:01.499] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 03:36:01.600] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 03:36:01.850] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 03:36:01.850] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0xe622b18df53c0a929316b26f001d70ccb3a71b2913aea76100000179d5178f9a
+[6/4/2021 03:36:46.859] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 03:36:46.909] Win32TCPSocket.cpp(653) 4700: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 03:46:02.075] Win32TCPSocket.cpp(157) 1320: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 03:46:02.261] Win32TCPSocket.cpp(167) 1320: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 03:46:02.662] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 03:46:02.777] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 03:46:03.088] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 03:46:03.088] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0xc8741d888b8d502e92e2afdb001bde088e3e887c7591eb8600000179d520b923
+[6/4/2021 03:46:48.123] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 03:46:48.173] Win32TCPSocket.cpp(653) 1320: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 03:56:03.062] Win32TCPSocket.cpp(157) 1324: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 03:56:03.245] Win32TCPSocket.cpp(167) 1324: Connected to 34.196.154.173:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 03:56:03.647] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 03:56:03.747] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 03:56:04.100] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 03:56:04.100] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x21b77fb4669d5d7dc993260001c31a88e3e887c7591eb8600000179d529e4bf
+[6/4/2021 03:56:45.465] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:56:45.466] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:56:45.466] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:56:45.466] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:56:45.466] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:56:45.466] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:56:45.466] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:56:45.466] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:56:45.467] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:56:45.467] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:56:45.467] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:56:45.467] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:56:45.467] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:56:45.467] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:56:45.467] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 03:56:45.467] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 03:56:45.469] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:56:45.469] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:56:45.469] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:56:45.471] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:56:45.471] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:56:45.471] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:56:45.471] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:56:45.471] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 03:56:49.143] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 03:56:49.193] Win32TCPSocket.cpp(653) 1324: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 04:06:04.054] Win32TCPSocket.cpp(157) 3268: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 04:06:04.238] Win32TCPSocket.cpp(167) 3268: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 04:06:04.589] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 04:06:04.689] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 04:06:04.940] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 04:06:04.940] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0xf28d92d26aeeddad30ed3321001c83dd8e3e887c7591eb8600000179d5330fc3
+[6/4/2021 04:06:49.943] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 04:06:49.993] Win32TCPSocket.cpp(653) 3268: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 04:10:30.801] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:10:30.801] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:10:30.801] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:10:30.802] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:16:05.373] Win32TCPSocket.cpp(157) 4952: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 04:16:05.890] Win32TCPSocket.cpp(167) 4952: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 04:16:06.546] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 04:16:06.646] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 04:16:07.097] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 04:16:07.097] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x693a9fa34fc1873d254d4c83001ed653b3a71b2913aea76100000179d53c42ec
+[6/4/2021 04:16:52.136] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 04:16:52.186] Win32TCPSocket.cpp(653) 4952: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 04:21:22.484] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:21:22.485] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:21:22.486] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:21:22.486] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:21:22.486] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:21:22.486] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:21:22.486] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:21:22.486] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:21:22.488] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:26:07.053] Win32TCPSocket.cpp(157) 1312: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 04:26:07.237] Win32TCPSocket.cpp(167) 1312: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 04:26:07.539] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 04:26:07.644] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 04:26:08.001] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 04:26:08.001] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x55aa7c7b0e77da1dc5afe773001d26848e3e887c7591eb8600000179d5456b11
+[6/4/2021 04:26:53.042] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 04:26:53.092] Win32TCPSocket.cpp(653) 1312: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:32:30.928] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:32:30.929] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:36:07.222] Win32TCPSocket.cpp(157) 5032: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 04:36:07.482] Win32TCPSocket.cpp(167) 5032: Connected to 34.196.154.173:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 04:36:08.103] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 04:36:08.206] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 04:36:08.711] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 04:36:08.711] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x17eeb177999f5c8873f65d0e001d76f48e3e887c7591eb8600000179d54e94d2
+[6/4/2021 04:36:53.716] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 04:36:53.767] Win32TCPSocket.cpp(653) 5032: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 04:40:34.681] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:40:34.682] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:40:34.683] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:40:34.683] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:40:34.683] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:40:34.683] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:40:34.683] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:40:34.683] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:40:34.684] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:40:34.684] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:40:34.684] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:40:34.684] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:40:34.684] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:40:34.684] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:40:34.684] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:46:09.078] Win32TCPSocket.cpp(157) 2648: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 04:46:09.265] Win32TCPSocket.cpp(167) 2648: Connected to 34.196.154.173:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 04:46:09.567] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 04:46:09.667] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 04:46:10.020] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 04:46:10.020] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x2530130727b587b4f464abe001fd075b3a71b2913aea76100000179d557c563
+[6/4/2021 04:46:55.040] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 04:46:55.090] Win32TCPSocket.cpp(653) 2648: Close
+FiraxisLiveClient StateNotify: Stopped
+[6/4/2021 04:53:24.591] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:53:24.591] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:53:24.591] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:53:24.592] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:53:24.597] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:53:24.597] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:53:24.597] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:53:24.597] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:53:24.597] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:56:10.957] Win32TCPSocket.cpp(157) 1004: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 04:56:11.161] Win32TCPSocket.cpp(167) 1004: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+[6/4/2021 04:56:11.472] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: PreRun
+[6/4/2021 04:56:11.573] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: Running
+[6/4/2021 04:56:11.927] ServerConnection.cpp(490) Received NewAccessTokenReplyMsg
+[6/4/2021 04:56:11.927] ServerConnection.cpp(591) Processing NewAccessTokenReplyMsg - AccessToken:0x3f35d8e7764147093039fd38001e15508e3e887c7591eb8600000179d560f17c
+[6/4/2021 04:56:24.665] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:56:24.665] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:56:24.666] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:56:24.667] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:56:29.488] CTPFiraxisLive.cpp(2283) Queuing telemetry event...
+[6/4/2021 04:56:29.488] CTPFiraxisLive.cpp(2348) Successfully queued telemetry event
+[6/4/2021 04:56:29.488] CTPFiraxisLive.cpp(278) TelemetryCallback success
+[6/4/2021 04:56:56.952] ServerConnection.cpp(483) FiraxisLive::No activity, disconnecting
+[6/4/2021 04:56:57.002] Win32TCPSocket.cpp(653) 1004: Close
+[6/4/2021 04:57:04.783] CTPFiraxisLive.cpp(451) FlushAllQueuesCallback success
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 1 from "StateChange"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "StateChange", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 2 from "UserStateChange"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "UserStateChange", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 3 from "ConnectionFailure"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "ConnectionFailure", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 4 from "KVPData"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPData", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 5 from "KVPDataError"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPDataError", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 6 from "KVPDataProgress"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPDataProgress", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 7 from "KVPDataList"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPDataList", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 8 from "SimpleKVP"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "SimpleKVP", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 9 from "SimpleKVPInfo"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "SimpleKVPInfo", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 10 from "DataPush"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "DataPush", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 11 from "MatchListData"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchListData", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 12 from "MatchCreateData"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchCreateData", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 13 from "MatchJoin"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchJoin", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 14 from "MatchStartMatch"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchStartMatch", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 15 from "MatchEndMatch"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchEndMatch", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 16 from "MatchKillMatch"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchKillMatch", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 17 from "MatchQuitMatch"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchQuitMatch", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 18 from "MatchEndTurn"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchEndTurn", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 19 from "MatchKickPlayer"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchKickPlayer", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 20 from "MatchUpdateAttributes"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchUpdateAttributes", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 21 from "MatchUpdateSaveGame"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchUpdateSaveGame", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 22 from "MatchSetPlayerMetaData"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchSetPlayerMetaData", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 23 from "MatchSetPlayerOrder"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchSetPlayerOrder", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 24 from "MatchSetPlayerStatus"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchSetPlayerStatus", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 25 from "MatchSetSlotType"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchSetSlotType", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 26 from "MatchGetInfo"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchGetInfo", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 27 from "MatchGetSaveGame"
+[6/4/2021 04:57:04.883] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchGetSaveGame", it has been removed as well.
+[6/4/2021 04:57:04.883] Notifications.cpp(170) Notifications: Removed receipt 28 from "my2KLogonData"
+[6/4/2021 04:57:04.884] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLogonData", it has been removed as well.
+[6/4/2021 04:57:04.884] Notifications.cpp(170) Notifications: Removed receipt 29 from "my2KNewAccountInfo"
+[6/4/2021 04:57:04.884] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KNewAccountInfo", it has been removed as well.
+[6/4/2021 04:57:04.884] Notifications.cpp(170) Notifications: Removed receipt 30 from "my2KDOBInfo"
+[6/4/2021 04:57:04.884] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KDOBInfo", it has been removed as well.
+[6/4/2021 04:57:04.884] Notifications.cpp(170) Notifications: Removed receipt 31 from "my2KLegalAccept"
+[6/4/2021 04:57:04.884] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLegalAccept", it has been removed as well.
+[6/4/2021 04:57:04.884] Notifications.cpp(170) Notifications: Removed receipt 32 from "my2KConnectionStatus"
+[6/4/2021 04:57:04.884] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KConnectionStatus", it has been removed as well.
+[6/4/2021 04:57:04.884] Notifications.cpp(170) Notifications: Removed receipt 33 from "my2KLoggedOffStatus"
+[6/4/2021 04:57:04.884] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLoggedOffStatus", it has been removed as well.
+[6/4/2021 04:57:04.884] Notifications.cpp(170) Notifications: Removed receipt 34 from "my2KLoginStatus"
+[6/4/2021 04:57:04.884] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLoginStatus", it has been removed as well.
+[6/4/2021 04:57:04.884] Notifications.cpp(170) Notifications: Removed receipt 35 from "my2KGrantedEntitlements"
+[6/4/2021 04:57:04.884] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KGrantedEntitlements", it has been removed as well.
+[6/4/2021 04:57:04.884] FiraxisLive.cpp(112) FiraxisLive: Releasing...
+[6/4/2021 04:57:04.884] FiraxisLive.cpp(1476) FiraxisLive::Shutdown - Shutting down...
+[6/4/2021 04:57:04.884] FiraxisLive.cpp(1483) FiraxisLive::Shutdown - Removing FiraxisLive my2K Manager...
+[6/4/2021 04:57:07.863] FiraxisLive.cpp(1490) FiraxisLive::Shutdown - Creating End Session data...
+[6/4/2021 04:57:07.863] FiraxisLive.cpp(1494) FiraxisLive::Shutdown - Flushing all analytics...
+[6/4/2021 04:57:07.863] FiraxisLive.cpp(1498) FiraxisLive::Shutdown - Flushing KVPQueue::Default data...
+[6/4/2021 04:57:07.863] FiraxisLive.cpp(1502) FiraxisLive::Shutdown - Flushing messages...
+[6/4/2021 04:57:08.625] Win32TCPSocket.cpp(157) 2108: Attempting to connect to login.firaxislive.com:443
+[6/4/2021 04:57:08.845] Win32TCPSocket.cpp(167) 2108: Connected to 54.159.17.153:443 (resolved from login.firaxislive.com:443)
+[6/4/2021 04:57:10.645] ServerConnection.cpp(398) FiraxisLive::Connected
+[6/4/2021 04:57:10.745] ServerConnection.cpp(978) Sending queued messages
+[6/4/2021 04:57:10.767] FiraxisLive.cpp(1558) FiraxisLive::Shutdown - Stopping FiraxisLive processing thread...
+[6/4/2021 04:57:10.795] Win32Thread.cpp(353) Thread "FiraxisLive Thread" (ID:0x00001bac) has shut down.
+[6/4/2021 04:57:10.795] Win32Thread.cpp(39) Thread "FiraxisLive Thread" (ID:0x00001bac) is being destroyed.
+[6/4/2021 04:57:10.795] FiraxisLive.cpp(1562) FiraxisLive::Shutdown - Removing FiraxisLive AnalyticsManager...
+[6/4/2021 04:57:10.795] FiraxisLive.cpp(1565) FiraxisLive::Shutdown - Removing FiraxisLive MatchMaking...
+[6/4/2021 04:57:10.795] FiraxisLive.cpp(1568) FiraxisLive::Shutdown - Removing FiraxisLive Key-Value-Pair Manager...
+[6/4/2021 04:57:10.795] FiraxisLive.cpp(1572) FiraxisLive::Shutdown - Removing FiraxisLive connector...
+[6/4/2021 04:57:10.795] Win32TCPSocket.cpp(653) 2108: Close
+[6/4/2021 04:57:11.567] FiraxisLive.cpp(1575) FiraxisLive::Shutdown - Removing Notifications...
+[6/4/2021 04:57:11.567] Notifications.cpp(18) Notifications: Going away...
+[6/4/2021 04:57:11.567] FiraxisLive.cpp(1584) FiraxisLive::Shutdown - Complete

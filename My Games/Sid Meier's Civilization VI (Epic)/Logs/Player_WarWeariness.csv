@@ -1,0 +1,596 @@
+Player,FromPlayer,Delta,New Total Weariness,Reason
+1, 0, -50, 3928, At War Decay
+0, 1, -50, 3615, At War Decay
+1, 0, -50, 3878, At War Decay
+0, 1, -50, 3565, At War Decay
+1, 0, -50, 3828, At War Decay
+0, 1, -50, 3515, At War Decay
+1, 0, -50, 3778, At War Decay
+0, 1, -50, 3465, At War Decay
+1, 0, -50, 3728, At War Decay
+0, 1, -50, 3415, At War Decay
+1, 0, -50, 3678, At War Decay
+0, 1, -50, 3365, At War Decay
+1, 0, -50, 3628, At War Decay
+0, 1, -50, 3315, At War Decay
+1, 0, -50, 3578, At War Decay
+0, 1, -50, 3265, At War Decay
+1, 0, -50, 3528, At War Decay
+0, 1, -50, 3215, At War Decay
+1, 0, -50, 3478, At War Decay
+0, 1, -50, 3165, At War Decay
+1, 0, -50, 3428, At War Decay
+0, 1, -50, 3115, At War Decay
+1, 0, -50, 3378, At War Decay
+0, 1, -50, 3065, At War Decay
+1, 0, -50, 3328, At War Decay
+0, 1, -50, 3015, At War Decay
+1, 0, -50, 3278, At War Decay
+0, 1, -50, 2965, At War Decay
+1, 0, -50, 3228, At War Decay
+0, 1, -50, 2915, At War Decay
+1, 0, -50, 3178, At War Decay
+13, 1, -2000, 0, We Made Peace
+1, 13, -2000, 0, They Made Peace
+13, 5, -2000, 0, We Made Peace
+5, 13, -2000, 0, They Made Peace
+13, 11, -2000, 0, We Made Peace
+11, 13, -2000, 0, They Made Peace
+13, 14, -2000, 0, We Made Peace
+14, 13, -2000, 0, They Made Peace
+0, 1, -50, 2865, At War Decay
+1, 0, -50, 3128, At War Decay
+0, 1, -50, 2815, At War Decay
+1, 0, -50, 3078, At War Decay
+0, 1, -50, 2765, At War Decay
+1, 0, -50, 3028, At War Decay
+0, 1, -50, 2715, At War Decay
+1, 0, -50, 2978, At War Decay
+0, 1, -50, 2665, At War Decay
+1, 0, -50, 2928, At War Decay
+0, 1, -50, 2615, At War Decay
+1, 0, -50, 2878, At War Decay
+0, 1, -50, 2565, At War Decay
+1, 0, -50, 2828, At War Decay
+0, 1, -50, 2515, At War Decay
+1, 0, -50, 2778, At War Decay
+0, 1, -50, 2465, At War Decay
+1, 0, -50, 2728, At War Decay
+0, 1, -50, 2415, At War Decay
+0, 8, -2000, 0, We Made Peace
+8, 0, -2000, 0, They Made Peace
+1, 0, -50, 2678, At War Decay
+0, 1, -50, 2365, At War Decay
+1, 0, -50, 2628, At War Decay
+0, 1, -50, 2315, At War Decay
+1, 0, -50, 2578, At War Decay
+0, 1, -50, 2265, At War Decay
+1, 0, -50, 2528, At War Decay
+0, 1, -50, 2215, At War Decay
+1, 0, -50, 2478, At War Decay
+2, 5, 80, 80, Attacking
+5, 2, 80, 80, Getting Attacked
+5, 2, -50, 30, At War Decay
+0, 1, -50, 2165, At War Decay
+1, 0, -50, 2428, At War Decay
+2, 5, -50, 30, At War Decay
+2, 5, 80, 110, Attacking
+5, 2, 80, 110, Getting Attacked
+5, 2, -50, 60, At War Decay
+0, 1, -50, 2115, At War Decay
+1, 0, -50, 2378, At War Decay
+2, 5, -50, 60, At War Decay
+5, 2, -50, 10, At War Decay
+0, 1, -50, 2065, At War Decay
+1, 0, -50, 2328, At War Decay
+2, 5, -50, 10, At War Decay
+5, 2, -50, 0, At War Decay
+0, 1, -50, 2015, At War Decay
+1, 0, -50, 2278, At War Decay
+2, 5, -50, 0, At War Decay
+0, 1, -50, 1965, At War Decay
+1, 0, -50, 2228, At War Decay
+2, 5, 80, 80, Attacking
+5, 2, 80, 80, Getting Attacked
+5, 2, -50, 30, At War Decay
+0, 1, -50, 1915, At War Decay
+1, 0, -50, 2178, At War Decay
+2, 5, -50, 30, At War Decay
+2, 5, 80, 110, Attacking
+5, 2, 80, 110, Getting Attacked
+5, 2, -50, 60, At War Decay
+0, 1, -50, 1865, At War Decay
+1, 0, -50, 2128, At War Decay
+1, 0, 104, 2232, Attacking
+0, 1, 86, 1951, Getting Attacked
+2, 5, -50, 60, At War Decay
+2, 5, 80, 140, Attacking
+5, 2, 80, 140, Getting Attacked
+5, 2, -50, 90, At War Decay
+0, 1, -50, 1901, At War Decay
+1, 0, -50, 2182, At War Decay
+1, 0, -2000, 182, We Made Peace
+0, 1, -2000, 0, They Made Peace
+13, 0, -2000, 0, We Made Peace
+0, 13, -2000, 0, They Made Peace
+14, 0, -2000, 0, We Made Peace
+0, 14, -2000, 0, They Made Peace
+2, 5, -50, 90, At War Decay
+5, 2, -50, 40, At War Decay
+1, 0, -200, 0, At Peace Decay
+2, 5, -50, 40, At War Decay
+13, 2, -2000, 0, We Made Peace
+2, 13, -2000, 0, They Made Peace
+5, 2, -50, 0, At War Decay
+2, 5, -50, 0, At War Decay
+2, 5, 80, 80, Attacking
+5, 2, 80, 80, Getting Attacked
+2, 5, 40, 120, Attacking
+5, 2, 200, 280, Getting Attacked
+5, 2, -50, 230, At War Decay
+2, 5, -50, 70, At War Decay
+5, 2, -50, 180, At War Decay
+2, 5, -50, 20, At War Decay
+5, 2, -50, 130, At War Decay
+2, 5, -50, 0, At War Decay
+2, 5, 80, 80, Attacking
+5, 2, 160, 290, Getting Attacked
+5, 2, -50, 240, At War Decay
+5, 2, -2000, 0, We Made Peace
+2, 5, -2000, 0, They Made Peace
+11, 2, -2000, 0, We Made Peace
+2, 11, -2000, 0, They Made Peace
+0, 1, 86, 86, Attacking
+1, 0, 104, 104, Getting Attacked
+1, 0, -50, 54, At War Decay
+1, 0, 104, 158, Attacking
+0, 1, 86, 172, Getting Attacked
+1, 0, 104, 262, Attacking
+0, 1, 86, 258, Getting Attacked
+0, 1, -50, 208, At War Decay
+0, 1, 86, 294, Attacking
+1, 0, 104, 366, Getting Attacked
+1, 0, -50, 316, At War Decay
+1, 0, 104, 420, Attacking
+0, 1, 215, 509, Getting Attacked
+1, 0, 104, 524, Attacking
+0, 1, 86, 595, Getting Attacked
+0, 1, -50, 545, At War Decay
+0, 1, 86, 631, Attacking
+1, 0, 104, 628, Getting Attacked
+1, 0, -50, 578, At War Decay
+1, 0, 104, 682, Attacking
+0, 1, 86, 717, Getting Attacked
+0, 1, -50, 667, At War Decay
+0, 1, 86, 753, Attacking
+1, 0, 104, 786, Getting Attacked
+0, 1, 86, 839, Attacking
+1, 0, 104, 890, Getting Attacked
+1, 0, -50, 840, At War Decay
+1, 0, 104, 944, Attacking
+0, 1, 86, 925, Getting Attacked
+1, 0, 104, 1048, Attacking
+0, 1, 86, 1011, Getting Attacked
+0, 1, -50, 961, At War Decay
+1, 0, -50, 998, At War Decay
+0, 1, -50, 911, At War Decay
+1, 0, -50, 948, At War Decay
+0, 1, -50, 861, At War Decay
+1, 0, -50, 898, At War Decay
+0, 1, -50, 811, At War Decay
+1, 0, -50, 848, At War Decay
+0, 1, -50, 761, At War Decay
+1, 0, -50, 798, At War Decay
+1, 0, 104, 902, Attacking
+0, 1, 86, 847, Getting Attacked
+0, 1, -50, 797, At War Decay
+0, 1, 86, 883, Attacking
+1, 0, 104, 1006, Getting Attacked
+0, 1, 86, 969, Attacking
+1, 0, 104, 1110, Getting Attacked
+1, 0, -50, 1060, At War Decay
+1, 0, 104, 1164, Attacking
+0, 1, 86, 1055, Getting Attacked
+1, 0, 104, 1268, Attacking
+0, 1, 86, 1141, Getting Attacked
+0, 1, -50, 1091, At War Decay
+0, 1, 86, 1177, Attacking
+1, 0, 104, 1372, Getting Attacked
+1, 0, -50, 1322, At War Decay
+1, 0, 104, 1426, Attacking
+0, 1, 86, 1263, Getting Attacked
+0, 1, -50, 1213, At War Decay
+0, 1, 86, 1299, Attacking
+1, 0, 104, 1530, Getting Attacked
+0, 1, 86, 1385, Attacking
+1, 0, 104, 1634, Getting Attacked
+1, 0, -50, 1584, At War Decay
+1, 0, 104, 1688, Attacking
+0, 1, 86, 1471, Getting Attacked
+1, 0, 104, 1792, Attacking
+0, 1, 86, 1557, Getting Attacked
+0, 1, -50, 1507, At War Decay
+0, 1, 86, 1593, Attacking
+1, 0, 104, 1896, Getting Attacked
+1, 0, -50, 1846, At War Decay
+1, 0, 104, 1950, Attacking
+0, 1, 86, 1679, Getting Attacked
+1, 0, 104, 2054, Attacking
+0, 1, 215, 1894, Getting Attacked
+14, 0, -2000, 0, We Made Peace
+0, 14, -2000, 0, They Made Peace
+14, 2, -2000, 0, We Made Peace
+2, 14, -2000, 0, They Made Peace
+0, 1, -50, 1844, At War Decay
+0, 1, 86, 1930, Attacking
+1, 0, 104, 2158, Getting Attacked
+1, 0, -50, 2108, At War Decay
+1, 0, 104, 2212, Attacking
+0, 1, 86, 2016, Getting Attacked
+1, 0, 104, 2316, Attacking
+0, 1, 86, 2102, Getting Attacked
+0, 1, -50, 2052, At War Decay
+0, 1, 86, 2138, Attacking
+1, 0, 104, 2420, Getting Attacked
+1, 0, -50, 2370, At War Decay
+1, 0, 104, 2474, Attacking
+0, 1, 86, 2224, Getting Attacked
+1, 0, 104, 2578, Attacking
+0, 1, 86, 2310, Getting Attacked
+0, 1, -50, 2260, At War Decay
+0, 1, 86, 2346, Attacking
+1, 0, 104, 2682, Getting Attacked
+1, 0, -50, 2632, At War Decay
+1, 0, 104, 2736, Attacking
+0, 1, 86, 2432, Getting Attacked
+1, 0, 104, 2840, Attacking
+0, 1, 86, 2518, Getting Attacked
+0, 1, -50, 2468, At War Decay
+0, 1, 86, 2554, Attacking
+1, 0, 104, 2944, Getting Attacked
+0, 1, 86, 2640, Attacking
+1, 0, 104, 3048, Getting Attacked
+1, 0, -50, 2998, At War Decay
+1, 0, 104, 3102, Attacking
+0, 1, 86, 2726, Getting Attacked
+1, 0, 104, 3206, Attacking
+0, 1, 86, 2812, Getting Attacked
+0, 1, -50, 2762, At War Decay
+0, 1, 104, 2866, Attacking
+1, 0, 104, 3310, Getting Attacked
+0, 1, 104, 2970, Attacking
+1, 0, 104, 3414, Getting Attacked
+1, 0, -50, 3364, At War Decay
+1, 0, 104, 3468, Attacking
+0, 1, 260, 3230, Getting Attacked
+1, 0, 104, 3572, Attacking
+0, 1, 104, 3334, Getting Attacked
+0, 1, -50, 3284, At War Decay
+0, 1, 260, 3544, Attacking
+1, 0, 104, 3676, Getting Attacked
+0, 1, 104, 3648, Attacking
+1, 0, 104, 3780, Getting Attacked
+1, 0, -50, 3730, At War Decay
+1, 0, 104, 3834, Attacking
+0, 1, 104, 3752, Getting Attacked
+1, 0, 104, 3938, Attacking
+0, 1, 104, 3856, Getting Attacked
+0, 1, -50, 3806, At War Decay
+0, 1, 104, 3910, Attacking
+1, 0, 104, 4042, Getting Attacked
+0, 1, 104, 4014, Attacking
+1, 0, 104, 4146, Getting Attacked
+0, 1, 104, 4118, Attacking
+1, 0, 104, 4250, Getting Attacked
+0, 1, 104, 4222, Attacking
+1, 0, 104, 4354, Getting Attacked
+1, 0, -50, 4304, At War Decay
+1, 0, 104, 4408, Attacking
+0, 1, 260, 4482, Getting Attacked
+1, 0, 104, 4512, Attacking
+0, 1, 104, 4586, Getting Attacked
+0, 1, -50, 4536, At War Decay
+1, 0, -50, 4462, At War Decay
+1, 0, 104, 4566, Attacking
+0, 1, 104, 4640, Getting Attacked
+1, 0, 104, 4670, Attacking
+0, 1, 104, 4744, Getting Attacked
+0, 1, -50, 4694, At War Decay
+0, 1, 104, 4798, Attacking
+1, 0, 104, 4774, Getting Attacked
+1, 0, -50, 4724, At War Decay
+1, 0, 104, 4828, Attacking
+0, 1, 104, 4902, Getting Attacked
+1, 0, 104, 4932, Attacking
+0, 1, 104, 5006, Getting Attacked
+0, 1, -50, 4956, At War Decay
+0, 1, 104, 5060, Attacking
+1, 0, 104, 5036, Getting Attacked
+1, 0, -50, 4986, At War Decay
+1, 0, 104, 5090, Attacking
+0, 1, 104, 5164, Getting Attacked
+0, 1, -50, 5114, At War Decay
+0, 1, 104, 5218, Attacking
+1, 0, 104, 5194, Getting Attacked
+0, 1, 104, 5322, Attacking
+1, 0, 104, 5298, Getting Attacked
+1, 0, -50, 5248, At War Decay
+1, 0, 104, 5352, Attacking
+0, 1, 104, 5426, Getting Attacked
+1, 0, 104, 5456, Attacking
+0, 1, 104, 5530, Getting Attacked
+0, 1, -50, 5480, At War Decay
+0, 1, 104, 5584, Attacking
+1, 0, 104, 5560, Getting Attacked
+0, 1, 260, 5844, Attacking
+1, 0, 104, 5664, Getting Attacked
+0, 1, 104, 5948, Attacking
+1, 0, 104, 5768, Getting Attacked
+1, 0, -50, 5718, At War Decay
+1, 0, 104, 5822, Attacking
+0, 1, 260, 6208, Getting Attacked
+1, 0, 104, 5926, Attacking
+0, 1, 104, 6312, Getting Attacked
+0, 1, -50, 6262, At War Decay
+1, 0, -50, 5876, At War Decay
+0, 1, -50, 6212, At War Decay
+1, 0, -50, 5826, At War Decay
+1, 0, 104, 5930, Attacking
+0, 1, 104, 6316, Getting Attacked
+1, 0, 104, 6034, Attacking
+0, 1, 104, 6420, Getting Attacked
+0, 1, -50, 6370, At War Decay
+1, 0, -50, 5984, At War Decay
+0, 1, -50, 6320, At War Decay
+1, 0, -50, 5934, At War Decay
+0, 1, -50, 6270, At War Decay
+1, 0, -50, 5884, At War Decay
+0, 1, -50, 6220, At War Decay
+1, 0, -50, 5834, At War Decay
+0, 1, -50, 6170, At War Decay
+1, 0, -50, 5784, At War Decay
+0, 1, -50, 6120, At War Decay
+1, 0, -50, 5734, At War Decay
+0, 1, -50, 6070, At War Decay
+1, 0, -50, 5684, At War Decay
+0, 1, -50, 6020, At War Decay
+1, 0, -50, 5634, At War Decay
+0, 1, -50, 5970, At War Decay
+1, 0, -50, 5584, At War Decay
+0, 1, -50, 5920, At War Decay
+1, 0, -50, 5534, At War Decay
+0, 1, -50, 5870, At War Decay
+1, 0, -50, 5484, At War Decay
+1, 0, -2000, 3484, We Made Peace
+0, 1, -2000, 3870, They Made Peace
+0, 1, -200, 3670, At Peace Decay
+1, 0, -200, 3284, At Peace Decay
+0, 1, -200, 3470, At Peace Decay
+1, 0, -200, 3084, At Peace Decay
+0, 1, -200, 3270, At Peace Decay
+1, 0, -200, 2884, At Peace Decay
+0, 1, -200, 3070, At Peace Decay
+1, 0, -200, 2684, At Peace Decay
+0, 1, -200, 2870, At Peace Decay
+1, 0, -200, 2484, At Peace Decay
+0, 1, -200, 2670, At Peace Decay
+1, 0, -200, 2284, At Peace Decay
+0, 1, -200, 2470, At Peace Decay
+1, 0, -200, 2084, At Peace Decay
+0, 1, -200, 2270, At Peace Decay
+1, 0, -200, 1884, At Peace Decay
+0, 1, -200, 2070, At Peace Decay
+1, 0, -200, 1684, At Peace Decay
+0, 1, -200, 1870, At Peace Decay
+0, 1, 104, 1974, Attacking
+1, 0, 104, 1788, Getting Attacked
+1, 0, -50, 1738, At War Decay
+1, 0, 104, 1842, Attacking
+0, 1, 104, 2078, Getting Attacked
+0, 1, -50, 2028, At War Decay
+0, 1, 104, 2132, Attacking
+1, 0, 104, 1946, Getting Attacked
+1, 0, -50, 1896, At War Decay
+1, 0, 104, 2000, Attacking
+0, 1, 104, 2236, Getting Attacked
+0, 1, -50, 2186, At War Decay
+0, 1, 104, 2290, Attacking
+1, 0, 104, 2104, Getting Attacked
+1, 0, -50, 2054, At War Decay
+1, 0, 104, 2158, Attacking
+0, 1, 104, 2394, Getting Attacked
+0, 1, -50, 2344, At War Decay
+0, 1, 104, 2448, Attacking
+1, 0, 104, 2262, Getting Attacked
+0, 1, 104, 2552, Attacking
+1, 0, 104, 2366, Getting Attacked
+1, 0, -50, 2316, At War Decay
+1, 0, 78, 2394, Attacking
+0, 1, 104, 2656, Getting Attacked
+0, 1, -50, 2606, At War Decay
+0, 1, 104, 2710, Attacking
+1, 0, 78, 2472, Getting Attacked
+1, 0, -50, 2422, At War Decay
+1, 0, 78, 2500, Attacking
+0, 1, 260, 2970, Getting Attacked
+0, 1, -50, 2920, At War Decay
+0, 1, 104, 3024, Attacking
+1, 0, 78, 2578, Getting Attacked
+0, 1, 104, 3128, Attacking
+1, 0, 78, 2656, Getting Attacked
+1, 0, -50, 2606, At War Decay
+0, 1, -50, 3078, At War Decay
+0, 1, 104, 3182, Attacking
+1, 0, 78, 2684, Getting Attacked
+0, 1, 104, 3286, Attacking
+1, 0, 78, 2762, Getting Attacked
+1, 0, -50, 2712, At War Decay
+1, 0, 78, 2790, Attacking
+0, 1, 260, 3546, Getting Attacked
+0, 1, -50, 3496, At War Decay
+0, 1, 104, 3600, Attacking
+1, 0, 78, 2868, Getting Attacked
+0, 1, 104, 3704, Attacking
+1, 0, 78, 2946, Getting Attacked
+1, 0, -50, 2896, At War Decay
+0, 1, -50, 3654, At War Decay
+1, 0, -50, 2846, At War Decay
+0, 1, -50, 3604, At War Decay
+0, 1, 104, 3708, Attacking
+1, 0, 78, 2924, Getting Attacked
+0, 1, 104, 3812, Attacking
+1, 0, 78, 3002, Getting Attacked
+1, 0, -50, 2952, At War Decay
+7, 1, -2000, 0, We Made Peace
+1, 7, -2000, 0, They Made Peace
+0, 1, -50, 3762, At War Decay
+0, 1, 104, 3866, Attacking
+1, 0, 78, 3030, Getting Attacked
+0, 1, 104, 3970, Attacking
+1, 0, 78, 3108, Getting Attacked
+1, 0, -50, 3058, At War Decay
+0, 1, -50, 3920, At War Decay
+0, 1, 104, 4024, Attacking
+1, 0, 78, 3136, Getting Attacked
+0, 1, 104, 4128, Attacking
+1, 0, 78, 3214, Getting Attacked
+1, 0, -50, 3164, At War Decay
+0, 1, -50, 4078, At War Decay
+0, 1, 104, 4182, Attacking
+1, 0, 78, 3242, Getting Attacked
+0, 1, 104, 4286, Attacking
+1, 0, 78, 3320, Getting Attacked
+1, 0, -50, 3270, At War Decay
+0, 1, -50, 4236, At War Decay
+0, 1, 104, 4340, Attacking
+1, 0, 78, 3348, Getting Attacked
+0, 1, 104, 4444, Attacking
+1, 0, 78, 3426, Getting Attacked
+1, 0, -50, 3376, At War Decay
+0, 1, -50, 4394, At War Decay
+0, 1, 104, 4498, Attacking
+1, 0, 78, 3454, Getting Attacked
+1, 0, -50, 3404, At War Decay
+0, 1, -50, 4448, At War Decay
+0, 1, 104, 4552, Attacking
+1, 0, 78, 3482, Getting Attacked
+1, 0, -50, 3432, At War Decay
+0, 1, -50, 4502, At War Decay
+0, 1, 104, 4606, Attacking
+1, 0, 78, 3510, Getting Attacked
+0, 1, 104, 4710, Attacking
+1, 0, 78, 3588, Getting Attacked
+1, 0, -50, 3538, At War Decay
+0, 1, -50, 4660, At War Decay
+0, 1, 104, 4764, Attacking
+1, 0, 78, 3616, Getting Attacked
+0, 1, 104, 4868, Attacking
+1, 0, 78, 3694, Getting Attacked
+0, 1, 104, 4972, Attacking
+1, 0, 78, 3772, Getting Attacked
+1, 0, -50, 3722, At War Decay
+0, 1, -50, 4922, At War Decay
+0, 1, 104, 5026, Attacking
+1, 0, 78, 3800, Getting Attacked
+0, 1, 104, 5130, Attacking
+1, 0, 78, 3878, Getting Attacked
+0, 1, 104, 5234, Attacking
+1, 0, 78, 3956, Getting Attacked
+1, 0, -50, 3906, At War Decay
+0, 1, -50, 5184, At War Decay
+0, 1, 104, 5288, Attacking
+1, 0, 78, 3984, Getting Attacked
+0, 1, 104, 5392, Attacking
+1, 0, 78, 4062, Getting Attacked
+0, 1, 104, 5496, Attacking
+1, 0, 78, 4140, Getting Attacked
+1, 0, -50, 4090, At War Decay
+0, 1, -50, 5446, At War Decay
+0, 1, 104, 5550, Attacking
+1, 0, 78, 4168, Getting Attacked
+0, 1, 104, 5654, Attacking
+1, 0, 78, 4246, Getting Attacked
+1, 0, -50, 4196, At War Decay
+0, 1, -50, 5604, At War Decay
+0, 1, 104, 5708, Attacking
+1, 0, 78, 4274, Getting Attacked
+0, 1, 104, 5812, Attacking
+1, 0, 78, 4352, Getting Attacked
+0, 1, 104, 5916, Attacking
+1, 0, 78, 4430, Getting Attacked
+1, 0, -50, 4380, At War Decay
+1, 0, 78, 4458, Attacking
+0, 1, 104, 6020, Getting Attacked
+0, 1, -50, 5970, At War Decay
+0, 1, 104, 6074, Attacking
+1, 0, 78, 4536, Getting Attacked
+0, 1, 104, 6178, Attacking
+1, 0, 78, 4614, Getting Attacked
+1, 0, -50, 4564, At War Decay
+0, 1, -50, 6128, At War Decay
+0, 1, 104, 6232, Attacking
+1, 0, 104, 4668, Getting Attacked
+0, 1, 104, 6336, Attacking
+1, 0, 104, 4772, Getting Attacked
+0, 1, 104, 6440, Attacking
+1, 0, 104, 4876, Getting Attacked
+0, 1, 104, 6544, Attacking
+1, 0, 104, 4980, Getting Attacked
+1, 0, -50, 4930, At War Decay
+0, 1, -50, 6494, At War Decay
+0, 1, 104, 6598, Attacking
+1, 0, 104, 5034, Getting Attacked
+0, 1, 104, 6702, Attacking
+1, 0, 104, 5138, Getting Attacked
+0, 1, 104, 6806, Attacking
+1, 0, 104, 5242, Getting Attacked
+0, 1, 104, 6910, Attacking
+1, 0, 104, 5346, Getting Attacked
+1, 0, -50, 5296, At War Decay
+0, 1, -50, 6860, At War Decay
+0, 1, 104, 6964, Attacking
+1, 0, 104, 5400, Getting Attacked
+0, 1, 104, 7068, Attacking
+1, 0, 104, 5504, Getting Attacked
+0, 1, 104, 7172, Attacking
+1, 0, 104, 5608, Getting Attacked
+1, 0, -50, 5558, At War Decay
+0, 1, -50, 7122, At War Decay
+0, 1, 104, 7226, Attacking
+1, 0, 104, 5662, Getting Attacked
+0, 1, 104, 7330, Attacking
+1, 0, 104, 5766, Getting Attacked
+0, 1, 104, 7434, Attacking
+1, 0, 104, 5870, Getting Attacked
+0, 1, 104, 7538, Attacking
+1, 0, 104, 5974, Getting Attacked
+1, 0, -50, 5924, At War Decay
+0, 1, -50, 7488, At War Decay
+0, 1, 104, 7592, Attacking
+1, 0, 104, 6028, Getting Attacked
+0, 1, 104, 7696, Attacking
+1, 0, 104, 6132, Getting Attacked
+0, 1, 104, 7800, Attacking
+1, 0, 104, 6236, Getting Attacked
+0, 1, 104, 7904, Attacking
+1, 0, 104, 6340, Getting Attacked
+1, 0, -50, 6290, At War Decay
+0, 1, -50, 7854, At War Decay
+0, 1, 104, 7958, Attacking
+1, 0, 104, 6394, Getting Attacked
+0, 1, 104, 8062, Attacking
+1, 0, 104, 6498, Getting Attacked
+0, 1, 104, 8166, Attacking
+1, 0, 104, 6602, Getting Attacked
+0, 1, 104, 8270, Attacking
+1, 0, 104, 6706, Getting Attacked
+1, 0, -50, 6656, At War Decay
+1, 0, 104, 6760, Attacking
+0, 1, 104, 8374, Getting Attacked
+1, 0, -2000, 4760, We Made Peace
+0, 1, -2000, 6374, They Made Peace
+0, 1, -200, 6174, At Peace Decay
+1, 0, -200, 4560, At Peace Decay
+0, 1, -200, 5974, At Peace Decay
+1, 0, -200, 4360, At Peace Decay
+0, 1, -200, 5774, At Peace Decay

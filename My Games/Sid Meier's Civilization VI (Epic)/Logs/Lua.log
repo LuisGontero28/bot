@@ -1,0 +1,614 @@
+DebugHotloadCache: GameDebug initialized!
+Test: Test.LUA loaded!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+MainMenu: MainMenu::OnResumeGame() leaving the network session.
+LoadScreen: true
+LoadScreen: false
+LoadScreen: false
+MapSearchPanel: Created SearchContext 'MapSearch_Primary'
+MapSearchPanel: Created SearchContext 'MapSearch_Suggestions'
+MapPinPopup: initializing MapTacks.IconOptions(0)
+MapPinPopup: Selected 9 columns
+TutorialUIRoot: Tutorial: Firaxis in game tutorial prompts.
+TutorialUIRoot: Version: 1
+TutorialUIRoot: Loading bank of items for tutorial scenario: 'BASE'
+LoadScreen: OnLoadGameViewStateDone
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=1092515808
+TutorialUIRoot: diplo stmt type=1092515808
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 21165
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 29543
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 59197
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 87992
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 88356
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	55	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	59	11	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=1092515808
+TutorialUIRoot: diplo stmt type=1092515808
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 101420
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 109798
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+NaturalWonderPopup: PopupManager.LOCK   'NaturalWonderPopup', id: 116451, priority:1000
+InGame: Request to BulkHide( true, NaturalWonder ), Show on 0 = 1
+InGame: Request to BulkHide( false, NaturalWonder ), Show on 0 = 0
+NaturalWonderPopup: PopupManager.Unlock 'NaturalWonderPopup', id: 116451, priority:1000
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 125562
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+WonderBuiltPopup: PopupManager.LOCK   'WonderBuiltPopup', id: 138560, priority:1000
+InGame: Request to BulkHide( true, Wonder ), Show on 0 = 1
+InGame: Request to BulkHide( false, Wonder ), Show on 0 = 0
+WonderBuiltPopup: PopupManager.Unlock 'WonderBuiltPopup', id: 138560, priority:1000
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+TutorialUIRoot: diplo stmt type=-2065048438
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 140371
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	59	11	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 152396
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 197943
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=1004427747
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 202979
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-45646777
+TutorialUIRoot: diplo stmt type=-356693587
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 206810
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 206862
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	59	11	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 212990
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 227949
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 228258
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1912527725
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 238072
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 242335
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 251896
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 255084
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 269063
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	59	11	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 284085
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+EraCompletePopup: PopupManager.LOCK   'EraCompletePopupBase', id: 288158, priority:1000
+EraCompletePopup: PopupManager.Unlock 'EraCompletePopupBase', id: 288158, priority:1000
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	57	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 299846
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1111294549
+TutorialUIRoot: diplo stmt type=-1111294549
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 301102
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 315294
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+CivilopediaScreen: Received a request to open the Civilopedia
+CivilopediaScreen: Navigating to CONCEPTS:INTRO
+CivilopediaScreen: Received a request to open the Civilopedia
+CivilopediaScreen: Navigating to UNITS:UNIT_SIEGE_TOWER
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	59	11	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	59	11	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 329985
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 344417
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 359153
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	55	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 373590
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	59	11	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 379942
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 380353
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	59	11	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	59	11	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	327684	0	0	0	false	false
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 388699
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 405700
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	57	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 410296
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-45646777
+TutorialUIRoot: diplo stmt type=-45646777
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 432185
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-356693587
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=932889739
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 443404
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	57	23	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	393221	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 487531
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 501626
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 515786
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	50	8	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 530090
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 531110
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 531602
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 545211
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Adjustment: 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 557265
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 560215
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	55	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	262147	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 0
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: In AddOverviewOurRelationship
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View. m_eventID: 574543
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	47	10	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	53	14	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	196610	0	0	0	false	false
+Mods: Failed to create mods browser search context!
+Test: Test.LUA loaded!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true

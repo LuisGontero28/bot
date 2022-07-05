@@ -1,0 +1,91 @@
+[2021-06-03 23:05:00]	Renderer::EnumDisplayAdapters(): Available device: AMD Radeon(TM) Vega 8 Graphics (DeviceID = 15dd SubsysID = 876b1043 Revision= c8 Caps = 10)
+[2021-06-03 23:05:00]	Renderer::EnumDisplayAdapters(): Available device: Microsoft Basic Render Driver (DeviceID = 8c SubsysID = 0 Revision= 0 Caps = 10)
+[2021-06-03 23:05:00]	Renderer::CreateAdapter(): Selected DXGI adapter corresponding to device index 0.
+[2021-06-03 23:05:00]	Renderer::EnumDisplayAdapters(): Available device: AMD Radeon(TM) Vega 8 Graphics (DeviceID = 15dd SubsysID = 876b1043 Revision= c8 Caps = 10)
+[2021-06-03 23:05:00]	Renderer::CreateD3DDevice(): Creating D3D device.
+[2021-06-03 23:05:16]	AppHost::UpdateMonitorInfo(): Monitor information:
+	MONITORINFO.rcMonitor = (left: 0, top: 0, right: 1366, bottom: 768)
+	MONITORINFO.rcWork = (left: 0, top: 0, right: 1366, bottom: 768)
+	MONITORINFO.dwFlags = MONITORINFOF_PRIMARY
+[2021-06-03 23:05:16]	Renderer::Startup(): Called with
+	Device Index = 0
+	Backbuffer Format = 87
+	Resolution = (1366 x 768)
+	RefreshRateInHz = 60
+	WindowMode = Fullscreen
+	VSync = 1
+	Threading Mode = 0.
+[2021-06-03 23:05:16]	Renderer::Startup(): No native commandlist threading. Will use workarounds on deferred contexts.
+[2021-06-03 23:05:16]	Renderer::SetScreenMode(): Called with
+	Resolution = (1366 x 768)
+	RefreshRate = (60 / 1)
+	ScreenMode = Fullscreen.
+[2021-06-03 23:05:16]	Renderer::GetNearestDXGIModeDesc(): Asking for mode with Resolution = (1366 x 768) RefreshRate = (60 / 1).
+[2021-06-03 23:05:16]	Renderer::GetNearestDXGIModeDesc(): Picking mode with Resolution = (1366 x 768) RefreshRate = (60 / 1) Scaling = 0.
+[2021-06-03 23:05:16]	Renderer::CreateDefaultSwapChain(): Creating a new swap chain with Resolution = (1366 x 768) RefreshRate = (60 / 1).
+[2021-06-03 23:05:16]	*** Renderer::SetScreenMode(): Returning success.
+[2021-06-03 23:05:16]	Selected GPU device:
+    Device: AMD Radeon(TM) Vega 8 Graphics
+    DeviceID: 15dd
+    SubsystemId: 876b1043
+    RevisionId: c8
+    Threadmode: 1
+    CB rebase: 1
+    Driver Version: DriverVersionNotQueriedDueToGeForceExperienceBug
+    DedicatedVidMem: 2132135936
+    DedicatedSysMem: 0
+[2021-06-03 23:05:16]	Physical system memory size: 8.00GB
+[2021-06-03 23:05:16]	Logical processor count: 4
+[2021-06-03 23:05:16]	Physical processor count: 4
+[2021-06-03 23:05:16]	IsLaptopOrTablet: 0
+[2021-06-03 23:05:16]	TBB build.
+
+[2021-06-03 23:05:18]	Growing UpdateSubresource invocations
+[2021-06-03 23:05:40]	Growing UpdateSubresource invocations
+[2021-06-03 23:05:40]	Growing UpdateSubresource invocations
+[2021-06-03 23:06:05]	Renderer::GetCurrentDXGIOutput(): The DXGI factory interfaces for the device and the swap chain differ!
+[2021-06-03 23:06:05]	Renderer::Enum32BitDisplayModes(): Unable to get DXGI output.  Searching for primary display...
+[2021-06-03 23:06:05]	Renderer::GetCurrentDXGIOutput(): The DXGI factory interfaces for the device and the swap chain differ!
+[2021-06-03 23:06:05]	Renderer::Enum32BitDisplayModes(): Unable to get DXGI output.  Searching for primary display...
+[2021-06-03 23:06:29]	Renderer::GetCurrentDXGIOutput(): The DXGI factory interfaces for the device and the swap chain differ!
+[2021-06-03 23:06:29]	Renderer::Enum32BitDisplayModes(): Unable to get DXGI output.  Searching for primary display...
+[2021-06-03 23:06:29]	Renderer::GetCurrentDXGIOutput(): The DXGI factory interfaces for the device and the swap chain differ!
+[2021-06-03 23:06:29]	Renderer::Enum32BitDisplayModes(): Unable to get DXGI output.  Searching for primary display...
+[2021-06-03 23:06:29]	Renderer::GetCurrentDXGIOutput(): The DXGI factory interfaces for the device and the swap chain differ!
+[2021-06-03 23:06:29]	Renderer::Enum32BitDisplayModes(): Unable to get DXGI output.  Searching for primary display...
+[2021-06-03 23:06:29]	Renderer::GetCurrentDXGIOutput(): The DXGI factory interfaces for the device and the swap chain differ!
+[2021-06-03 23:06:29]	Renderer::Enum32BitDisplayModes(): Unable to get DXGI output.  Searching for primary display...
+[2021-06-03 23:06:35]	Received Renderer::AppDeactivated
+[2021-06-03 23:06:41]	Received Renderer::AppActivated
+[2021-06-03 23:06:41]	Renderer::AppActivated(): Calling ResizeTarget() with Resolution = (1366 x 768) RefreshRate = (60 / 1) ScreenMode = Fullscreen.
+[2021-06-03 23:06:41]	Renderer::ResizeDXGIBuffers(): Resizing DXGI buffers with Resolution = (1366 x 768) RefreshRate = (60 / 1).
+[2021-06-03 23:06:44]	Received Renderer::AppDeactivated
+[2021-06-03 23:06:48]	Received Renderer::AppActivated
+[2021-06-03 23:06:48]	Renderer::AppActivated(): Calling ResizeTarget() with Resolution = (1366 x 768) RefreshRate = (60 / 1) ScreenMode = Fullscreen.
+[2021-06-03 23:06:48]	Renderer::ResizeDXGIBuffers(): Resizing DXGI buffers with Resolution = (1366 x 768) RefreshRate = (60 / 1).
+[2021-06-03 23:07:01]	Received Renderer::AppDeactivated
+[2021-06-03 23:07:02]	Received Renderer::AppActivated
+[2021-06-03 23:07:02]	Renderer::AppActivated(): Calling ResizeTarget() with Resolution = (1366 x 768) RefreshRate = (60 / 1) ScreenMode = Fullscreen.
+[2021-06-03 23:07:02]	Renderer::ResizeDXGIBuffers(): Resizing DXGI buffers with Resolution = (1366 x 768) RefreshRate = (60 / 1).
+[2021-06-03 23:07:03]	Received Renderer::AppDeactivated
+[2021-06-03 23:07:09]	Received Renderer::AppActivated
+[2021-06-03 23:07:09]	Renderer::AppActivated(): Calling ResizeTarget() with Resolution = (1366 x 768) RefreshRate = (60 / 1) ScreenMode = Fullscreen.
+[2021-06-03 23:07:09]	Renderer::ResizeDXGIBuffers(): Resizing DXGI buffers with Resolution = (1366 x 768) RefreshRate = (60 / 1).
+[2021-06-03 23:07:43]	Received Renderer::AppDeactivated
+[2021-06-03 23:07:47]	Received Renderer::AppActivated
+[2021-06-03 23:07:47]	Renderer::AppActivated(): Calling ResizeTarget() with Resolution = (1366 x 768) RefreshRate = (60 / 1) ScreenMode = Fullscreen.
+[2021-06-03 23:07:47]	Renderer::ResizeDXGIBuffers(): Resizing DXGI buffers with Resolution = (1366 x 768) RefreshRate = (60 / 1).
+[2021-06-03 23:12:46]	Growing UpdateSubresource invocations
+[2021-06-03 23:20:48]	Allocated new CB rebase buffer
+[2021-06-03 23:42:23]	Received Renderer::AppDeactivated
+[2021-06-03 23:43:29]	Received Renderer::AppActivated
+[2021-06-03 23:43:29]	Renderer::AppActivated(): Calling ResizeTarget() with Resolution = (1366 x 768) RefreshRate = (60 / 1) ScreenMode = Fullscreen.
+[2021-06-03 23:43:29]	Renderer::ResizeDXGIBuffers(): Resizing DXGI buffers with Resolution = (1366 x 768) RefreshRate = (60 / 1).
+[2021-06-03 23:46:05]	Received Renderer::AppDeactivated
+[2021-06-03 23:46:07]	Received Renderer::AppActivated
+[2021-06-03 23:46:07]	Renderer::AppActivated(): Calling ResizeTarget() with Resolution = (1366 x 768) RefreshRate = (60 / 1) ScreenMode = Fullscreen.
+[2021-06-03 23:46:07]	Renderer::ResizeDXGIBuffers(): Resizing DXGI buffers with Resolution = (1366 x 768) RefreshRate = (60 / 1).
+[2021-06-04 00:45:51]	Allocated new CB rebase buffer
+[2021-06-04 01:56:45]	Renderer::ReleaseDefaultSwapChain() : Releasing the implicit swap chain
+[2021-06-04 01:56:47]	Renderer::ReleaseAdapterAndDevice(): Released D3D device with RefCount = 0.
+[2021-06-04 01:56:47]	Renderer::ReleaseAdapterAndDevice(): Released DXGI adapter with RefCount = 0.

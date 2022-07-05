@@ -1,0 +1,154 @@
+Turn, Event, Origin City, Destination City, Attached Resource, Origin Yields
+227, Route Ended (Expired), LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,2.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+228, Route Ended (Plundered), LOC_CITY_NAME_KANDY, LOC_CITY_NAME_IWNW,Resource -1 (x0),Origin Yields,2.00,1.00,5.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+228, Route Started, LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,2.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+228, Route Started, LOC_CITY_NAME_STOCKHOLM, LOC_CITY_NAME_SAO_PAULO,Resource -1 (x0),Origin Yields,0.00,1.00,3.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+230, Route Started, LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_BEIJING,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+233, Route Ended (Expired), LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,0.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+234, Route Ended (War Declared), LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_FORTALEZA,Resource -1 (x0),Origin Yields,0.00,0.00,5.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+234, Route Ended (War Declared), LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,13.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+234, Route Ended (War Declared), LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,8.00,2.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+234, Route Started, LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,8.00,0.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+234, Route Started, LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_BEIJING,Resource -1 (x0),Origin Yields,1.00,0.00,6.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+234, Route Started, LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,0.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+234, Route Started, LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_BRUSSELS,Resource -1 (x0),Origin Yields,0.00,1.00,8.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+236, Route Ended (Expired), LOC_CITY_NAME_KANDY, LOC_CITY_NAME_BRUSSELS,Resource -1 (x0),Origin Yields,0.00,1.00,9.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+237, Route Ended (Expired), LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_MEMPHIS,Resource -1 (x0),Origin Yields,2.00,0.00,4.00,2.00,2.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+237, Route Started, LOC_CITY_NAME_KANDY, LOC_CITY_NAME_IWNW,Resource -1 (x0),Origin Yields,2.00,1.00,5.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+237, Route Ended (Expired), LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_KANDY,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,0.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+238, Route Ended (Plundered), LOC_CITY_NAME_KANDY, LOC_CITY_NAME_IWNW,Resource -1 (x0),Origin Yields,2.00,1.00,5.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+238, Route Started, LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_MEMPHIS,Resource -1 (x0),Origin Yields,2.00,0.00,4.00,2.00,2.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+238, Route Started, LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_AKHETATEN,Resource -1 (x0),Origin Yields,2.00,1.00,3.00,2.00,1.00,1.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+238, Route Started, LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_KANDY,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,0.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+241, Route Started, LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_IWNW,Resource -1 (x0),Origin Yields,2.00,1.00,3.00,2.00,1.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+245, Route Ended (Expired), LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_RA_KEDET,Resource -1 (x0),Origin Yields,2.00,1.00,5.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+245, Route Ended (Expired), LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_XIAN,Resource -1 (x0),Origin Yields,4.00,3.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+245, Route Ended (Expired), LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+246, Route Started, LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_HANDAN,Resource -1 (x0),Origin Yields,2.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+246, Route Started, LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+247, Route Ended (Expired), LOC_CITY_NAME_LA_VENTA, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+248, Route Started, LOC_CITY_NAME_LA_VENTA, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+251, Route Ended (Expired), LOC_CITY_NAME_MANAUS, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,4.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+251, Route Ended (Expired), LOC_CITY_NAME_STOCKHOLM, LOC_CITY_NAME_SAO_PAULO,Resource -1 (x0),Origin Yields,0.00,1.00,6.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+252, Route Started, LOC_CITY_NAME_SENA, LOC_CITY_NAME_KANDY,Resource -1 (x0),Origin Yields,0.00,0.00,6.00,0.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+252, Route Ended (Expired), LOC_CITY_NAME_BUENOS_AIRES, LOC_CITY_NAME_THEBES,Resource -1 (x0),Origin Yields,1.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+252, Route Started, LOC_CITY_NAME_MANAUS, LOC_CITY_NAME_CURITIBA,Resource -1 (x0),Origin Yields,2.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+252, Route Started, LOC_CITY_NAME_STOCKHOLM, LOC_CITY_NAME_SAO_PAULO,Resource -1 (x0),Origin Yields,0.00,1.00,6.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+253, Route Started, LOC_CITY_NAME_BUENOS_AIRES, LOC_CITY_NAME_THEBES,Resource -1 (x0),Origin Yields,1.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+254, Route Started, LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,13.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+256, Route Ended (Expired), LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+257, Route Started, LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+261, Route Ended (Expired), LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,0.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+262, Route Started, LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,2.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+265, Route Ended (Expired), LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_MEMPHIS,Resource -1 (x0),Origin Yields,2.00,0.00,4.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+265, Route Ended (Expired), LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_BEIJING,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+265, Route Ended (Expired), LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_BEIJING,Resource -1 (x0),Origin Yields,1.00,0.00,6.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+265, Route Ended (Expired), LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,10.00,2.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+266, Route Started, LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_TAIYUAN,Resource -1 (x0),Origin Yields,2.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+266, Route Started, LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_HANDAN,Resource -1 (x0),Origin Yields,0.00,0.00,8.00,1.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+266, Route Started, LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,10.00,2.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+268, Route Ended (Expired), LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_IWNW,Resource -1 (x0),Origin Yields,2.00,1.00,4.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+269, Route Started, LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_TAKAMATSU,Resource -1 (x0),Origin Yields,1.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+275, Route Ended (Expired), LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_HANDAN,Resource -1 (x0),Origin Yields,2.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+275, Route Ended (Expired), LOC_CITY_NAME_STOCKHOLM, LOC_CITY_NAME_SAO_PAULO,Resource -1 (x0),Origin Yields,0.00,1.00,6.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+276, Route Started, LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_CHANGSHA,Resource -1 (x0),Origin Yields,2.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+276, Route Started, LOC_CITY_NAME_STOCKHOLM, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,8.00,0.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+277, Route Ended (Expired), LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_AKHETATEN,Resource -1 (x0),Origin Yields,2.00,1.00,4.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+277, Route Ended (Expired), LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,2.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+277, Route Ended (Expired), LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,0.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+278, Route Started, LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_OSAKA,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+278, Route Started, LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,15.00,0.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+278, Route Started, LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,0.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+279, Route Ended (Expired), LOC_CITY_NAME_LA_VENTA, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,1.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+280, Route Started, LOC_CITY_NAME_LA_VENTA, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,1.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+281, Route Ended (Expired), LOC_CITY_NAME_MANAUS, LOC_CITY_NAME_CURITIBA,Resource -1 (x0),Origin Yields,2.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+281, Route Ended (Expired), LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,14.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+281, Route Ended (Expired), LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+282, Route Started, LOC_CITY_NAME_MANAUS, LOC_CITY_NAME_NATAL,Resource -1 (x0),Origin Yields,2.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+282, Route Started, LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,14.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+282, Route Started, LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+283, Route Ended (Expired), LOC_CITY_NAME_SENA, LOC_CITY_NAME_KANDY,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,0.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+283, Route Ended (Expired), LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_BRUSSELS,Resource -1 (x0),Origin Yields,0.00,1.00,9.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+284, Route Started, LOC_CITY_NAME_SENA, LOC_CITY_NAME_KANDY,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,0.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+284, Route Ended (Expired), LOC_CITY_NAME_BUENOS_AIRES, LOC_CITY_NAME_THEBES,Resource -1 (x0),Origin Yields,1.00,2.00,2.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+284, Route Started, LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_BRUSSELS,Resource -1 (x0),Origin Yields,0.00,1.00,9.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+285, Route Started, LOC_CITY_NAME_BUENOS_AIRES, LOC_CITY_NAME_NIDAROS,Resource -1 (x0),Origin Yields,2.00,2.00,2.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+289, Route Ended (Expired), LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_TAIYUAN,Resource -1 (x0),Origin Yields,2.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+289, Route Ended (Expired), LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,3.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+289, Route Ended (Expired), LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_HANDAN,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,2.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+290, Route Started, LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_XIAN,Resource -1 (x0),Origin Yields,4.00,4.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+290, Route Started, LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,6.00,2.00,2.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+290, Route Started, LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,3.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+292, Route Ended (Expired), LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_TAKAMATSU,Resource -1 (x0),Origin Yields,1.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+293, Route Started, LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_OKAYAMA,Resource -1 (x0),Origin Yields,1.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+300, Route Started, LOC_CITY_NAME_KANDY, LOC_CITY_NAME_BUENOS_AIRES,Resource -1 (x0),Origin Yields,1.00,0.00,10.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+301, Route Ended (Expired), LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_KANDY,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,0.00,0.00,3.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+302, Route Started, LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_STAVANGER,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,0.00,0.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+303, Route Ended (Expired), LOC_CITY_NAME_MANAUS, LOC_CITY_NAME_NATAL,Resource -1 (x0),Origin Yields,2.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+303, Route Ended (Plundered), LOC_CITY_NAME_SENA, LOC_CITY_NAME_KANDY,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,0.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+303, Route Ended (Plundered), LOC_CITY_NAME_KANDY, LOC_CITY_NAME_BUENOS_AIRES,Resource -1 (x0),Origin Yields,1.00,0.00,10.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+304, Route Started, LOC_CITY_NAME_MANAUS, LOC_CITY_NAME_FORTALEZA,Resource -1 (x0),Origin Yields,1.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+307, Route Ended (Expired), LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_OSAKA,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+307, Route Ended (Expired), LOC_CITY_NAME_STOCKHOLM, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,0.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+308, Route Started, LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_OSAKA,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+308, Route Started, LOC_CITY_NAME_STOCKHOLM, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,0.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+309, Route Ended (Expired), LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,14.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+310, Route Started, LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,14.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+311, Route Ended (Expired), LOC_CITY_NAME_LA_VENTA, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,1.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+312, Route Started, LOC_CITY_NAME_LA_VENTA, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,1.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+313, Route Ended (Expired), LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_CHANGSHA,Resource -1 (x0),Origin Yields,2.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+314, Route Started, LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_YIYANG,Resource -1 (x0),Origin Yields,1.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+316, Route Ended (Expired), LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_OKAYAMA,Resource -1 (x0),Origin Yields,1.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+317, Route Started, LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_BRUSSELS,Resource -1 (x0),Origin Yields,0.00,1.00,6.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+317, Route Ended (Expired), LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_XIAN,Resource -1 (x0),Origin Yields,4.00,4.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+317, Route Ended (Expired), LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,3.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+317, Route Ended (Expired), LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+318, Route Started, LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_XIAN,Resource -1 (x0),Origin Yields,4.00,4.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+318, Route Started, LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,3.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+318, Route Started, LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+319, Route Started, LOC_CITY_NAME_KANDY, LOC_CITY_NAME_BUENOS_AIRES,Resource -1 (x0),Origin Yields,1.00,0.00,10.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+320, Route Started, LOC_CITY_NAME_NIDAROS, LOC_CITY_NAME_IWNW,Resource -1 (x0),Origin Yields,2.00,1.00,5.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+320, Route Ended (Expired), LOC_CITY_NAME_BUENOS_AIRES, LOC_CITY_NAME_NIDAROS,Resource -1 (x0),Origin Yields,2.00,2.00,2.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+321, Route Started, LOC_CITY_NAME_BUENOS_AIRES, LOC_CITY_NAME_KANDY,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,0.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+321, Route Ended (Expired), LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,2.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+322, Route Ended (Expired), LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+322, Route Started, LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,2.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+323, Route Ended (War Declared), LOC_CITY_NAME_NIDAROS, LOC_CITY_NAME_IWNW,Resource -1 (x0),Origin Yields,2.00,1.00,5.00,1.00,1.00,0.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+323, Route Started, LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_SHEDET,Resource -1 (x0),Origin Yields,2.00,0.00,8.00,0.00,0.00,1.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+324, Route Started, LOC_CITY_NAME_NIDAROS, LOC_CITY_NAME_BUENOS_AIRES,Resource -1 (x0),Origin Yields,2.00,2.00,2.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+325, Route Ended (Expired), LOC_CITY_NAME_MANAUS, LOC_CITY_NAME_FORTALEZA,Resource -1 (x0),Origin Yields,1.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+325, Route Ended (Expired), LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,12.00,3.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+326, Route Started, LOC_CITY_NAME_MANAUS, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,4.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+326, Route Started, LOC_CITY_NAME_CARTHAGE, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,12.00,3.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+329, Route Ended (Expired), LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,2.00,2.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+330, Route Started, LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,2.00,2.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+333, Route Ended (Expired), LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_BRUSSELS,Resource -1 (x0),Origin Yields,0.00,1.00,11.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+334, Route Started, LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_BRUSSELS,Resource -1 (x0),Origin Yields,0.00,1.00,11.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+337, Route Ended (Expired), LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_OSAKA,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+337, Route Ended (Expired), LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,16.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+337, Route Ended (Expired), LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,16.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+338, Route Started, LOC_CITY_NAME_KYOTO, LOC_CITY_NAME_TOKYO,Resource -1 (x0),Origin Yields,3.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+338, Route Started, LOC_CITY_NAME_BRUSSELS, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,16.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+338, Route Started, LOC_CITY_NAME_SEOUL, LOC_CITY_NAME_AMSTERDAM,Resource -1 (x0),Origin Yields,0.00,0.00,16.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+339, Route Ended (Expired), LOC_CITY_NAME_STOCKHOLM, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,0.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+340, Route Started, LOC_CITY_NAME_STOCKHOLM, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,0.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+343, Route Started, LOC_CITY_NAME_ISSYK, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,3.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+343, Route Ended (Expired), LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_YIYANG,Resource -1 (x0),Origin Yields,2.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+343, Route Ended (Expired), LOC_CITY_NAME_LA_VENTA, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+344, Route Started, LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_SHENYANG,Resource -1 (x0),Origin Yields,1.00,1.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+344, Route Started, LOC_CITY_NAME_LA_VENTA, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+345, Route Ended (Expired), LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_XIAN,Resource -1 (x0),Origin Yields,4.00,4.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+345, Route Ended (Expired), LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,3.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+346, Route Started, LOC_CITY_NAME_JIAODONG, LOC_CITY_NAME_XIAN,Resource -1 (x0),Origin Yields,4.00,4.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+346, Route Ended (Expired), LOC_CITY_NAME_KANDY, LOC_CITY_NAME_BUENOS_AIRES,Resource -1 (x0),Origin Yields,1.00,0.00,11.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+346, Route Started, LOC_CITY_NAME_AMSTERDAM, LOC_CITY_NAME_SEOUL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,3.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+347, Route Started, LOC_CITY_NAME_KANDY, LOC_CITY_NAME_BUENOS_AIRES,Resource -1 (x0),Origin Yields,1.00,0.00,11.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+348, Route Ended (Expired), LOC_CITY_NAME_BUENOS_AIRES, LOC_CITY_NAME_KANDY,Resource -1 (x0),Origin Yields,0.00,0.00,9.00,0.00,0.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+349, Route Started, LOC_CITY_NAME_BUENOS_AIRES, LOC_CITY_NAME_NAGANO,Resource -1 (x0),Origin Yields,0.00,0.00,5.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+351, Route Started, LOC_CITY_NAME_KANDY, LOC_CITY_NAME_SENA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+352, Route Ended (War Declared), LOC_CITY_NAME_KANDY, LOC_CITY_NAME_BUENOS_AIRES,Resource -1 (x0),Origin Yields,1.00,0.00,10.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+352, Route Ended (War Declared), LOC_CITY_NAME_KANDY, LOC_CITY_NAME_SENA,Resource -1 (x0),Origin Yields,0.00,0.00,7.00,1.00,1.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+352, Route Started, LOC_CITY_NAME_KANDY, LOC_CITY_NAME_IWNW,Resource -1 (x0),Origin Yields,2.00,1.00,7.00,2.00,2.00,1.00,Destination Yields,0.00,0.00,2.00,0.00,0.00,0.00
+352, Route Started, LOC_CITY_NAME_KANDY, LOC_CITY_NAME_NAN_MADOL,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,1.00,2.00,1.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+353, Route Ended (Expired), LOC_CITY_NAME_MANAUS, LOC_CITY_NAME_RIO_DE_JANEIRO,Resource -1 (x0),Origin Yields,4.00,2.00,0.00,0.00,0.00,0.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00
+353, Route Ended (Expired), LOC_CITY_NAME_NAN_MADOL, LOC_CITY_NAME_POKROVKA,Resource -1 (x0),Origin Yields,0.00,0.00,11.00,2.00,1.00,2.00,Destination Yields,0.00,0.00,0.00,0.00,0.00,0.00

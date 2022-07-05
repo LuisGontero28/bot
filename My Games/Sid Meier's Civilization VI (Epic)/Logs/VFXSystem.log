@@ -1,0 +1,37 @@
+[2021-06-03 23:07:16]	CommonFireScript(10) warning : Render export 'draw#ALPHA' in emitter 'FX_Fire_Quads' required for current render mode.  Will default to zero.
+[2021-06-03 23:07:16]	CommonFireScript(62) warning : Render export 'draw#ALPHA' in emitter 'FX_Particle_Glow' required for current render mode.  Will default to zero.
+[2021-06-03 23:07:16]	CommonFireScript(216) warning : Render export 'draw#ROTATION' in emitter 'FX_Animated_Fire' required for current render mode.  Will default to zero.
+[2021-06-03 23:07:16]	CommonFireScript(266) warning : Export 'TANGENT' in emitter 'FX_Animated_Fire' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(382) warning : Export 'ROTATION' in emitter 'FX_Smoke_Quads' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(498) warning : Export 'BASECOLOR_UV' in emitter 'FX_String_Trail' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(503) warning : Export 'SCALE' in emitter 'FX_String_Trail' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(505) warning : Export 'ROTATION' in emitter 'FX_String_Trail' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(507) warning : Export 'TANGENT' in emitter 'FX_String_Trail' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(767) warning : Export 'MASK_UV' in emitter 'FX_Scorched_Overlay' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(771) warning : Export 'ROTATION' in emitter 'FX_Scorched_Overlay' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(862) warning : Export 'NORMALMAP_UV' in emitter 'FX_Fixed_Smoke_Quads_Lit' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(950) warning : Export 'NORMALMAP_UV' in emitter 'FX_Fixed_Mist_Quads_Lit' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(1141) warning : Export 'ROTATION' in emitter 'Curling_Spark_Particle' not expected!
+[2021-06-03 23:07:16]	CommonFireScript(1194) warning : Export 'ROTATION' in emitter 'FX_Particle_Shrinking_Ring' not expected!
+[2021-06-03 23:07:16]	CommonGlintsScript(309) warning : Export 'ROTATION' in emitter 'FX_Particle_Glints_Facing_Z' not expected!
+[2021-06-03 23:07:16]	CommonGlintsScript(394) warning : Export 'ROTATION' in emitter 'FX_Particle_Glints_Facing_X' not expected!
+[2021-06-03 23:07:16]	CommonGlintsScript(504) warning : Export 'ROTATION' in emitter 'FX_Particle_Directional_Glows' not expected!
+[2021-06-03 23:07:16]	CommonGlintsScript(592) warning : Export 'ROTATION' in emitter 'FX_Particle_Water_Wakes' not expected!
+[2021-06-03 23:07:16]	CommonSmokeScript(152) warning : Export 'NORMALMAP_UV_Y_RANGE' in emitter 'FX_Smoke_Ribbon_Lit' not expected!
+[2021-06-03 23:07:16]	CommonSmokeScript(153) warning : Export 'NORMALMAP_UV_X_VALUE' in emitter 'FX_Smoke_Ribbon_Lit' not expected!
+[2021-06-03 23:07:16]	CommonSmokeScript(246) warning : Export 'ROTATION' in emitter 'FX_Fixed_Quads_Lit' not expected!
+[2021-06-03 23:07:16]	CommonSmokeScript(254) warning : Export 'NORMALMAP_UV' in emitter 'FX_Fixed_Quads_Lit' not expected!
+[2021-06-03 23:07:16]	CommonSmokeScript(632) warning : Render export 'draw#DISTORTION_UV' in emitter 'FX_Dirt_Bits' required for current render mode.  Will default to zero.
+[2021-06-03 23:07:16]	CommonSmokeScript(632) warning : Render export 'draw#DISTORTION_SCALE' in emitter 'FX_Dirt_Bits' required for current render mode.  Will default to zero.
+[2021-06-03 23:07:16]	FireFXVolcanoTest(548) warning : Export 'DISTORTION_UV_Y_RANGE' in emitter 'FX_Magma_Ribbon' not expected!
+[2021-06-03 23:07:16]	FireFXVolcanoTest(549) warning : Export 'DISTORTION_UV_X_VALUE' in emitter 'FX_Magma_Ribbon' not expected!
+[2021-06-03 23:07:16]	FireFXVolcanoTest(550) warning : Export 'DISTORTION_SCALE' in emitter 'FX_Magma_Ribbon' not expected!
+[2021-06-03 23:07:16]	FireFX_Curl_Noise(70) warning : Export 'ROTATION' in emitter 'ErrorFX_Particle' not expected!
+[2021-06-03 23:07:16]	FireFX_Default_UI(60) warning : Export 'TANGENT' in emitter 'Glints' not expected!
+[2021-06-03 23:07:16]	FireFX_GDR_Force_Field(66) warning : Export 'ROTATION' in emitter 'FX_Particle_Glints' not expected!
+[2021-06-03 23:07:16]	FireFX_GDR_Force_Field(68) warning : Export 'BITANGENT' in emitter 'FX_Particle_Glints' not expected!
+[2021-06-03 23:07:16]	FireFX_GDR_Force_Field(226) warning : Export 'ROTATION' in emitter 'FX_Glow_Rings' not expected!
+[2021-06-03 23:07:16]	FireFX_GDR_Water_FX(452) warning : Export 'ROTATION' in emitter 'FX_Wake_Quads' not expected!
+[2021-06-03 23:07:16]	FireFX_SoothSayer(288) warning : Export 'ROTATION' in emitter 'FX_Particle_Shrinking_Ring' not expected!
+[2021-06-03 23:07:16]	FireFX_SoothSayer(450) warning : Render export 'draw#ALPHA' in emitter 'FX_explosion_Shockwave' required for current render mode.  Will default to zero.
+[2021-06-03 23:07:16]	FireFX_SoothSayer(490) warning : Render export 'draw#ALPHA' in emitter 'FX_explosion_Smoke_Ring' required for current render mode.  Will default to zero.

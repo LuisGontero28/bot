@@ -124,19 +124,17 @@ body {
   grid-template-columns: auto auto;
   align-content: space-around;
   justify-content: space-around; }
-
-.grid-container img {
-  width: 200px;
-  height: 200px; }
+  .grid-container img {
+    width: 200px;
+    height: 200px; }
 
 .costado {
   display: flex; }
+  .costado img {
+    width: 100px;
+    height: 100px; }
 
-.costado img {
-  width: 100px;
-  height: 100px; }
-
-.center {
+.center, .centerr {
   text-align: center;
   margin-top: 50px; }
 
@@ -156,14 +154,12 @@ body {
   grid-template-columns: auto;
   text-align: center; }
 
-.center {
+.center, .centerr {
   text-align: center;
   margin-top: 50px; }
 
 /* body index3.html */
 .centerr {
-  text-align: center;
-  margin-top: 50px;
   font-size: 30px;
   background: linear-gradient(to right, black, grey); }
 

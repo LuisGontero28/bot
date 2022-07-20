@@ -1,9 +1,9 @@
 $font: 22px;
 $medio: 70px;
-         $paleta('uno':#1ABC9C
-        'dos':#fff
-        'tres':#444)
-@mixing liletraa($font-size;$text-align;$margin-top){
+         $paleta:('uno':#1abc9c,
+        'dos':#fff,
+        'tres':#444,);
+@mixin mixer($font-size,$text-align,$margin-top){
     font-size:$font-size;
     text-align:$text-align;
     margin-top:$margin-top;
@@ -120,7 +120,7 @@ img{width: 36px;
   .centerr{@extend .center;
           font-size: 30px;
           background: linear-gradient(to right,black, grey);}
-  .liletraa{@include liletraa(20px,center,20px)}
+  .liletraa{@include mixer(20px,center,20px)}
   /* body index4.html */
   .roww{text-align: center;}
   .contacto45{text-align: center;
